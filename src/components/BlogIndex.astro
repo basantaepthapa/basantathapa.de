@@ -1,0 +1,24 @@
+---
+import Base from '../layouts/Base.astro';
+import { routes, t, formatDate } from '../i18n.js';
+import { posts, byYear } from '../lib/posts.js';
+const { lang } = Astro.props;
+const s = t[lang];
+---
+<Base lang={lang} title="Blog" current="blog" alt={routes.blog[lang === 'de' ? 'en' : 'de']}>
+  <h1>Blog</h1>
+  {lang === 'de' && <p class="note">Die bisherigen Beiträge (2009–2020) sind auf Englisch.</p>}
+  {byYear(posts).map(([year, list]) => (
+    <section>
+      <div class="year">{year}</div>
+      <ul class="post-list">
+        {list.map((p) => (
+          <li><a href={p.url} hreflang="en">
+            <span class="t">{p.title}</span>
+            <span class="d">{formatDate(p.date, lang)}</span>
+          </a></li>
+        ))}
+      </ul>
+    </section>
+  ))}
+</Base>

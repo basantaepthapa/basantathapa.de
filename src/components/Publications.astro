@@ -1,0 +1,34 @@
+---
+import Base from '../layouts/Base.astro';
+import { marked } from 'marked';
+import { routes, t } from '../i18n.js';
+import pubs from '../data/publications.json';
+const { lang } = Astro.props;
+const s = t[lang];
+const de = lang === 'de';
+const names = {
+  'Journal articles': 'Zeitschriftenartikel',
+  'Book chapters': 'Buchkapitel',
+  'Edited Volumes': 'Herausgeberschaften',
+  'Conference proceedings': 'Tagungsbeiträge',
+  'Reports/White Papers/Working Papers': 'Studien, Whitepaper und Working Papers',
+};
+const groups = [];
+for (const e of pubs) {
+  let g = groups.find((x) => x.name === e.section);
+  if (!g) groups.push((g = { name: e.section, items: [] }));
+  g.items.push(e);
+}
+---
+<Base lang={lang} title={s.nav.pubs} current="pubs" alt={routes.pubs[de ? 'en' : 'de']}>
+  <h1>{s.nav.pubs}</h1>
+  {de && <p class="note">Die Einträge stehen in der Originalsprache. Stand der Liste: 2020.</p>}
+  {groups.map((g) => (
+    <section>
+      <h3>{de ? (names[g.name] ?? g.name) : g.name.replace('/', ', ').replace('/', ' and ')}</h3>
+      <ul class="entries" lang="en">
+        {g.items.map((e) => <li set:html={marked.parseInline(e.text)} />)}
+      </ul>
+    </section>
+  ))}
+</Base>

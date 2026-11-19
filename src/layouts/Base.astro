@@ -1,0 +1,55 @@
+---
+import '@fontsource/roboto-slab/700.css';
+import '@fontsource/roboto-slab/800.css';
+import '@fontsource/source-sans-3/400.css';
+import '@fontsource/source-sans-3/400-italic.css';
+import '@fontsource/source-sans-3/600.css';
+import '../styles/global.css';
+import { routes, t } from '../i18n.js';
+
+const { lang = 'de', title, description = '', current = '', alt, contentLang } = Astro.props;
+const s = t[lang];
+const other = lang === 'de' ? 'en' : 'de';
+const altHref = alt ?? routes.home[other];
+const navKeys = ['about', 'blog', 'pubs', 'talks', 'contact'];
+const fullTitle = title ? `${title} · Basanta Thapa` : 'Basanta Thapa';
+const canonical = new URL(Astro.url.pathname, Astro.site);
+---
+<!doctype html>
+<html lang={contentLang ?? lang}>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{fullTitle}</title>
+  {description && <meta name="description" content={description} />}
+  <link rel="canonical" href={canonical} />
+  <link rel="alternate" hreflang={other} href={new URL(altHref, Astro.site)} />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <meta property="og:title" content={fullTitle} />
+  {description && <meta property="og:description" content={description} />}
+  <slot name="head" />
+</head>
+<body>
+  <a class="skip" href="#inhalt">{s.skip}</a>
+  <header class="site-header" lang={lang}>
+    <div class="wrap">
+      <a class="brand" href={routes.home[lang]}>Basanta Thapa</a>
+      <nav class="site-nav" aria-label={lang === 'de' ? 'Hauptmenü' : 'Main menu'}>
+        {navKeys.map((k) => (
+          <a href={routes[k][lang]} aria-current={current === k ? 'page' : undefined}>{s.nav[k]}</a>
+        ))}
+        <a class="lang" href={altHref} hreflang={other} lang={other} aria-label={s.switchTo}>{other.toUpperCase()}</a>
+      </nav>
+    </div>
+  </header>
+  <main id="inhalt" class="wrap">
+    <slot />
+  </main>
+  <footer class="site-footer" lang={lang}>
+    <div class="wrap">
+      <span>© {new Date().getFullYear()} Basanta Thapa</span>
+      <span><a href={routes.imprint[lang]}>{s.imprint}</a> · <a href={routes.privacy[lang]}>{s.privacy}</a></span>
+    </div>
+  </footer>
+</body>
+</html>

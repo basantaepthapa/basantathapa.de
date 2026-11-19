@@ -1,0 +1,55 @@
+---
+import Base from '../layouts/Base.astro';
+import { routes, t } from '../i18n.js';
+const { lang } = Astro.props;
+const s = t[lang];
+const de = lang === 'de';
+const archive = [
+  { slug: 'education', de: 'Studium und Promotionsvorhaben', en: 'Education and doctoral research' },
+  { slug: 'courses', de: 'Lehrveranstaltungen im Studium', en: 'Courses taken during my studies' },
+  { slug: 'ma-courses', de: 'Master-Kurse', en: 'MA courses' },
+  { slug: 'term-papers', de: 'Haus- und Studienarbeiten', en: 'Term papers' },
+  { slug: 'trainings', de: 'Weiterbildungen', en: 'Trainings' },
+  { slug: 'memberships', de: 'Mitgliedschaften', en: 'Memberships' },
+  { slug: 'websites', de: 'Webdesign-Projekte', en: 'Web design projects' },
+  { slug: 'print-design', de: 'Printdesign-Projekte', en: 'Print design projects' },
+];
+---
+<Base lang={lang} title={s.nav.about} current="about" alt={routes.about[de ? 'en' : 'de']}>
+  <div class="stack">
+    <section>
+      <h1>{s.nav.about}</h1>
+      {de ? (
+        <div class="intro">
+          <p>Seit 2022 leite ich die Geschäftsstelle des NEGZ, des Kompetenznetzwerks Digitale Verwaltung. Dort bringe ich Wissenschaft, Verwaltung, Politik und Wirtschaft zusammen.</p>
+          <p>Mich interessiert, wie die öffentliche Verwaltung mit Daten und digitalen Werkzeugen besser werden kann und welche Netzwerke, Formate und Beratung es dafür braucht.</p>
+          <p>Von 2018 bis 2022 war ich Senior Scientist am Kompetenzzentrum Öffentliche IT bei Fraunhofer FOKUS. Davor habe ich an der Universität Potsdam im DFG-Graduiertenkolleg zu „Data-driven Government“ geforscht, mit Forschungsaufenthalten unter anderem auf den Philippinen und in Estland.</p>
+        </div>
+      ) : (
+        <div class="intro">
+          <p>Since 2022, I have been managing director of NEGZ, the Competence Network for Digital Government, bringing together research, public administration, policy and industry.</p>
+          <p>I am interested in how government can get better with data and digital tools, and in the networks, formats and advice that this takes.</p>
+          <p>From 2018 to 2022, I was a senior scientist at the Competence Center Public IT at Fraunhofer FOKUS. Before that, I researched data-driven government in a DFG research training group at the University of Potsdam, including research stays in the Philippines and Estonia.</p>
+        </div>
+      )}
+    </section>
+
+    <section>
+      <h2>{de ? 'Stationen' : 'Career'}</h2>
+      <ul class="cv">
+        <li><span class="when">{de ? 'seit 2022' : 'since 2022'}</span><span class="what"><strong>{de ? 'Geschäftsführer' : 'Managing Director'}, NEGZ</strong><br /><span class="muted">{de ? 'Kompetenznetzwerk Digitale Verwaltung' : 'Competence Network for Digital Government'}</span></span></li>
+        <li><span class="when">2018–2022</span><span class="what"><strong>Senior Scientist, Fraunhofer FOKUS</strong><br /><span class="muted">{de ? 'Kompetenzzentrum Öffentliche IT' : 'Competence Center Public IT'}</span></span></li>
+        <li><span class="when">{de ? 'ab 2014' : 'from 2014'}</span><span class="what"><strong>{de ? 'Promotionsstudium „Data-driven Government“' : 'Doctoral research on data-driven government'}</strong><br /><span class="muted">{de ? 'Universität Potsdam, DFG-Graduiertenkolleg' : 'University of Potsdam, DFG research training group'}</span></span></li>
+        <li><span class="when">{de ? 'Studium' : 'Studies'}</span><span class="what"><strong>{de ? 'Master Verwaltungswissenschaft' : 'MA Public Policy and Management'}</strong>, {de ? 'Universität Potsdam' : 'University of Potsdam'}<br /><strong>{de ? 'Bachelor Politik und Wirtschaft' : 'BA Politics and Economics'}</strong>, {de ? 'WWU Münster' : 'University of Münster'}</span></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>{s.archive}</h2>
+      <p class="muted small">{de ? 'Ältere Seiten aus meiner Zeit in Studium und Forschung, auf Englisch.' : 'Older pages from my time as a student and researcher.'}</p>
+      <ul class="post-list">
+        {archive.map((a) => <li><a href={`/archive/${a.slug}/`} hreflang="en"><span class="t">{a[lang]}</span></a></li>)}
+      </ul>
+    </section>
+  </div>
+</Base>

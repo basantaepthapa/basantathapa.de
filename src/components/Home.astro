@@ -1,0 +1,67 @@
+---
+import Base from '../layouts/Base.astro';
+import { routes, t, EMAIL, SOCIAL, formatDate } from '../i18n.js';
+import { posts } from '../lib/posts.js';
+import redirects from '../data/redirects.json';
+const idMap = Object.fromEntries(Object.entries(redirects).filter(([k]) => k.startsWith('/?p=')).map(([k, v]) => [k.slice(4), v]));
+const { lang } = Astro.props;
+const s = t[lang];
+const latest = posts.slice(0, 3);
+---
+<Base lang={lang} current="home" alt={routes.home[lang === 'de' ? 'en' : 'de']}
+  description={lang === 'de' ? 'Basanta Thapa – Verwaltungsdigitalisierung zwischen Wissenschaft, Verwaltung und Politik.' : 'Basanta Thapa – digital government between research, public administration and policy.'}>
+  {lang === 'de' && (
+    <script is:inline slot="head" define:vars={{ idMap }}>
+      var m = location.search.match(/[?&]p=(\d+)/); if (m && idMap[m[1]]) location.replace(idMap[m[1]]);
+    </script>
+  )}
+  <div class="stack">
+    <div class="hero">
+      <div class="portrait"><div class="ph" role="img" aria-label="Basanta Thapa">[Foto]</div></div>
+      <div>
+        <h1>Basanta Thapa</h1>
+        <div class="sub">{s.role}</div>
+      </div>
+    </div>
+
+    {lang === 'de' ? (
+      <div class="intro">
+        <p>Ich arbeite an der Schnittstelle von Wissenschaft, Verwaltung und Politik und frage mich, wie die öffentliche Verwaltung mit <strong>Daten und digitalen Werkzeugen</strong> besser werden kann.</p>
+        <p>Davor habe ich am Kompetenzzentrum Öffentliche IT bei Fraunhofer FOKUS und an der Universität Potsdam zu datengetriebener Verwaltung geforscht.</p>
+      </div>
+    ) : (
+      <div class="intro">
+        <p>I work where research, public administration and policy meet, asking how government can get better with <strong>data and digital tools</strong>.</p>
+        <p>Before that, I researched data-driven government at the Competence Center Public IT at Fraunhofer FOKUS and at the University of Potsdam.</p>
+      </div>
+    )}
+
+    <div class="box">
+      <div class="label">{s.current}</div>
+      {lang === 'de' ? (
+        <p><strong>Leitung der Geschäftsstelle des <a href="https://negz.org/">NEGZ</a></strong><br /><span class="muted small">Kompetenznetzwerk Digitale Verwaltung</span></p>
+      ) : (
+        <p><strong>Managing Director of <a href="https://negz.org/">NEGZ</a></strong><br /><span class="muted small">Competence Network for Digital Government</span></p>
+      )}
+    </div>
+
+    <section>
+      <h2>{s.latest}</h2>
+      <ul class="post-list">
+        {latest.map((p) => (
+          <li><a href={p.url} hreflang="en">
+            <span class="t">{p.title}{lang === 'de' && <span class="tag">EN</span>}</span>
+            <span class="d">{formatDate(p.date, lang)}</span>
+          </a></li>
+        ))}
+      </ul>
+      <a class="more" href={routes.blog[lang]}>{s.allPosts} →</a>
+    </section>
+
+    <section>
+      <h2>{s.nav.contact}</h2>
+      <a class="btn" href={`mailto:${EMAIL}`}>{s.mailMe}</a>
+      <div class="links">{SOCIAL.map((l) => <a href={l.href}>{l.label}</a>)}</div>
+    </section>
+  </div>
+</Base>

@@ -1,0 +1,13 @@
+---
+import Base from '../layouts/Base.astro';
+import { routes, t, EMAIL, SOCIAL } from '../i18n.js';
+const { lang } = Astro.props;
+const s = t[lang];
+const de = lang === 'de';
+---
+<Base lang={lang} title={s.nav.contact} current="contact" alt={routes.contact[de ? 'en' : 'de']}>
+  <h1>{s.nav.contact}</h1>
+  <p class="lead">{de ? 'Ich freue mich über Nachrichten, am besten per E-Mail.' : 'I am happy to hear from you, ideally by email.'}</p>
+  <p><a class="btn" href={`mailto:${EMAIL}`}>{EMAIL}</a></p>
+  <div class="links">{SOCIAL.map((l) => <a href={l.href}>{l.label}</a>)}</div>
+</Base>

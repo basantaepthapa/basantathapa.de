@@ -1,0 +1,30 @@
+---
+// Redirect stubs for old WordPress URLs (GitHub Pages has no server-side redirects).
+import posts from '../data/redirects.json';
+import pages from '../data/page_redirects.json';
+
+export function getStaticPaths() {
+  const map = { ...posts, ...pages };
+  const archive = ['courses', 'term-papers', 'ma-courses'];
+  for (const a of archive) map[`/studies/${a}/`] = `/archive/${a}/`;
+  map['/trainings/'] = '/archive/trainings/';
+  map['/media-design/websites/'] = '/archive/websites/';
+  map['/media-design/print-design/'] = '/archive/print-design/';
+  map['/academia-3/memberships/'] = '/archive/memberships/';
+  return Object.entries(map)
+    .filter(([from, to]) => from.startsWith('/') && !from.startsWith('/?') && from !== to)
+    .map(([from, to]) => ({ params: { old: from.replace(/^\/|\/$/g, '') }, props: { to } }));
+}
+const { to } = Astro.props;
+---
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <title>Weiterleitung …</title>
+  <meta http-equiv="refresh" content={`0; url=${to}`} />
+  <link rel="canonical" href={new URL(to, Astro.site)} />
+  <meta name="robots" content="noindex" />
+</head>
+<body><p><a href={to}>{to}</a></p></body>
+</html>
