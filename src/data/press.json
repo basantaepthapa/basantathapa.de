@@ -162,6 +162,15 @@
   "german": true
  },
  {
+  "date": "2026-07-08",
+  "type": "bericht",
+  "outlet": "eGovernment",
+  "title_de": "NEGZ-Herbsttagung",
+  "title_en": "NEGZ Autumn Conference",
+  "url": "https://www.egovernment.de/negz-herbsttagung-a-1290646a4e9ee56d60fa1364e8689743/",
+  "german": true
+ },
+ {
   "date": "2026-06-24",
   "type": "podcast",
   "outlet": "VITAKO-Podcast",
