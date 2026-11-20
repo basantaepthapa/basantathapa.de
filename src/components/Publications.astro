@@ -16,6 +16,8 @@ const names = {
   'Blog posts': 'Blogbeiträge',
 };
 const firstLink = (text) => (text.match(/\]\(([^)\s]+)\)/) || [])[1];
+const slug = (n) => n.toLowerCase().replace(/[^a-z]+/g, '-').replace(/^-|-$/g, '');
+const label = (n) => de ? (names[n] ?? n) : n.replace('/', ', ').replace('/', ' and ');
 const groups = [];
 for (const e of pubs) {
   let g = groups.find((x) => x.name === e.section);
@@ -26,9 +28,16 @@ for (const e of pubs) {
 <Base lang={lang} title={s.nav.pubs} current="pubs" alt={routes.pubs[de ? 'en' : 'de']}>
   <h1>{s.nav.pubs}</h1>
   <p class="note">{de ? 'Die Einträge stehen in der Originalsprache.' : 'Titles of German-language publications are translated and marked "(in German)".'}</p>
+  <nav class="toc" aria-label={de ? 'Inhalt' : 'Contents'}>
+    <ul>
+      {groups.map((g) => (
+        <li><a href={`#${slug(g.name)}`}>{label(g.name)} <span>{g.items.length}</span></a></li>
+      ))}
+    </ul>
+  </nav>
   {groups.map((g) => (
-    <section>
-      <h3>{de ? (names[g.name] ?? g.name) : g.name.replace('/', ', ').replace('/', ' and ')}</h3>
+    <section id={slug(g.name)}>
+      <h3>{label(g.name)}</h3>
       <ul class="entries">
         {g.items.map((e) => (
           <li class="pub">

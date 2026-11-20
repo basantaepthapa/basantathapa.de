@@ -106,3 +106,10 @@ h3 { font-weight: 700; font-size: 19px; margin: 28px 0 8px; }
 .pub-thumb.wide { width: 96px; }
 .pub-thumb.wide img { width: 96px; height: 64px; object-fit: cover; object-position: center; }
 .pub-thumb.wide.pub-thumb-empty { height: 64px; }
+
+.toc ul { list-style: none; margin: 20px 0 8px; padding: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+.toc a { display: inline-block; font-size: 15px; text-decoration: none; color: var(--tx); background: #fff; border: 1px solid var(--ln); border-radius: 999px; padding: 4px 12px; }
+.toc a:hover { border-color: var(--rost); color: var(--rost); }
+.toc a span { color: var(--mu); font-size: 13px; margin-left: 2px; }
+section[id] { scroll-margin-top: 16px; }
+html { scroll-behavior: smooth; }
