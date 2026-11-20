@@ -1,0 +1,540 @@
+[
+ {
+  "name": "PhD in Public Administration",
+  "intro": "A list of all substantial courses which I attended as part of my doctoral studies.",
+  "terms": [
+   {
+    "name": "Winter 2014/2015 & summer 2015",
+    "courses": [
+     {
+      "title": "Public Administrations and Organizational Theory",
+      "fields": [
+       "Public Administration Theory",
+       "Organisational Theory"
+      ],
+      "teachers": "Prof. Apelt & Dr. Hustedt",
+      "notes": []
+     },
+     {
+      "title": "Methods of Organizational and Administrative Research",
+      "fields": [
+       "Organisational Theory",
+       "Social Science Methods"
+      ],
+      "teachers": "Prof. Korff",
+      "notes": [
+       "One of my outputs in this course was an [analysis of how Michael Kaeding used Lieberman's \"nested analysis\" approach to mixed methods in his doctoral thesis](/uploads/2009/07/THAPA-Kaeding-as-Mixed-Method-Role-Model.pdf)."
+      ]
+     }
+    ]
+   }
+  ],
+  "id": "phd",
+  "place": "Universität Potsdam · DFG Research Training Group",
+  "years": "2014–2015"
+ },
+ {
+  "name": "Master of Arts Public Policy & Management",
+  "intro": "A list of all substantial courses which I attended during my graduate studies at Universität Potsdam from 2010 to 2013.",
+  "terms": [
+   {
+    "name": "Winter 2010/2011",
+    "courses": [
+     {
+      "title": "Business Systems and Varieties of Capitalism",
+      "fields": [
+       "Economic sociology",
+       "Varieties of capitalism"
+      ],
+      "teachers": "Prof. Sorge",
+      "notes": [
+       "As part of the course, I produced a [handout on convergence among multi-national enterprises](/uploads/THAPA-Varieties-of-Capitalism.pdf) (German)."
+      ]
+     },
+     {
+      "title": "Denationalization and Privatisation: Institutional Change in the Public Sector",
+      "fields": [
+       "Public Administration Theory",
+       "Organisational Theory"
+      ],
+      "teachers": "Prof. Edeling",
+      "notes": [
+       "As part of this course, I produced a [presentation on privatization of water services](/uploads/THAPA-Privatisierung-der-Wasserversorgung.pdf) (German)."
+      ]
+     },
+     {
+      "title": "Public Management A",
+      "fields": [
+       "Public Management"
+      ],
+      "teachers": "Prof. Proeller",
+      "notes": [
+       "As part of the lecture, I produced a [case study on change management](/uploads/THAPA-Fallstudie-Change-Management.pdf) and a [presentation on public accounting systems](/uploads/THAPA-Oeffentliches-Rechnungswesen.pdf) (both in German)."
+      ]
+     },
+     {
+      "title": "Government and Governance in Developing Countries",
+      "fields": [
+       "Development Studies"
+      ],
+      "teachers": "Prof. Fuhr",
+      "notes": []
+     }
+    ]
+   },
+   {
+    "name": "Summer 2011",
+    "courses": [
+     {
+      "title": "Selected Aspects of Public Management",
+      "fields": [
+       "Public Management"
+      ],
+      "teachers": "Prof. Proeller",
+      "notes": []
+     },
+     {
+      "title": "Training Research Project on Case Studies in Public Management",
+      "fields": [
+       "Public Management",
+       "Case Study Research"
+      ],
+      "teachers": "Prof. Proeller",
+      "notes": [
+       "As part of the course, I produced a [presentation on multi-case study research](/uploads/THAPA-Ragin-Turning-the-Tables.pdf) (in German).",
+       "My group explored the use of key performance indicators with Berlin's police."
+      ]
+     },
+     {
+      "title": "Introduction to Institutional Ethnography",
+      "fields": [
+       "Institutional Ethnography",
+       "Sociology of Law"
+      ],
+      "teachers": "Dr. Scheffer",
+      "notes": [
+       "As an exercise, I conducted an institutional ethnography of [Stiftung Nord-Süd-Brücken](http://www.nord-sued-bruecken.de/english.html)'s small-scale grant selection committee."
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Winter 2011/2012",
+    "courses": [
+     {
+      "title": "Consulting Practice in Public Management",
+      "fields": [
+       "Public Management"
+      ],
+      "teachers": "",
+      "notes": [
+       "A mock consulting job for []init[ AG](http://www.init.de/en), where my group conducted a study on mobile citizen services in German municipalities."
+      ]
+     },
+     {
+      "title": "Influencing the Policy Process: actors, instruments, legitimacy",
+      "fields": [
+       "Public Policy",
+       "Lobbying"
+      ],
+      "teachers": "Dr. Humborg",
+      "notes": [
+       "As part of the seminar, I produced a [presentation on associations as interest groups](/uploads/THAPA-Interessenvertretung-durch-Verbaende.pdf) (in German)."
+      ]
+     },
+     {
+      "title": "Current Topics of E-Government",
+      "fields": [
+       "E-Government"
+      ],
+      "teachers": "Dr. Proske",
+      "notes": [
+       "As part of the seminar, I produced a [presentation on apps and portals in m-government](/uploads/THAPA-Portal-oder-Apps-M-Government-Praesentation.pdf) (in German)."
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Summer 2012",
+    "courses": [
+     {
+      "title": "Transcultural Political Theory",
+      "fields": [
+       "Political Theory",
+       "Transculturalism"
+      ],
+      "teachers": "Dr. Knobloch",
+      "notes": []
+     },
+     {
+      "title": "Financial markets from the perspective of (economic) sociology",
+      "fields": [
+       "Economic Sociology"
+      ],
+      "teachers": "Prof. Lohr",
+      "notes": []
+     },
+     {
+      "title": "Qualitative Methods: Interviews, Text Analysis and Observation",
+      "fields": [
+       "Qualitative Research"
+      ],
+      "teachers": "Prof. Vetterlein",
+      "notes": [
+       "As part of the seminar, I produced a [presentation on participant observation](/uploads/THAPA-Participant-Observation.pdf)."
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Winter 2012/2013",
+    "courses": [
+     {
+      "title": "Postcolonial Theory",
+      "fields": [
+       "Postcolonial Theory"
+      ],
+      "teachers": "Laura Stielike",
+      "notes": []
+     }
+    ]
+   }
+  ],
+  "id": "ma",
+  "place": "Universität Potsdam",
+  "years": "2010–2013"
+ },
+ {
+  "name": "Bachelor of Arts Political Science & Economics",
+  "intro": "A list of all substantial courses which I attended during my undergraduate studies at WWU Münster.",
+  "terms": [
+   {
+    "name": "Winter 2006/2007",
+    "courses": [
+     {
+      "title": "Introduction to Political Science",
+      "fields": [
+       "Political Science"
+      ],
+      "teachers": "Prof. Schubert",
+      "notes": []
+     },
+     {
+      "title": "Political System of the Federal Republic of Germany",
+      "fields": [
+       "Politics of Germany"
+      ],
+      "teachers": "Prof. Robert",
+      "notes": [
+       "As part of the course, I produced a [presentation on Ernst Fraenkel’s structural analysis of modern democracy](/uploads/Praesentation-Fraenkel.pdf) (in German)."
+      ]
+     },
+     {
+      "title": "Statistics I",
+      "fields": [
+       "Quantitative Research"
+      ],
+      "teachers": "Dr. Marko Heyse",
+      "notes": []
+     },
+     {
+      "title": "Business Accounting",
+      "fields": [
+       "Accounting"
+      ],
+      "teachers": "Prof. Krafft",
+      "notes": []
+     }
+    ]
+   },
+   {
+    "name": "Summer 2007",
+    "courses": [
+     {
+      "title": "International Politics",
+      "fields": [
+       "International Relations"
+      ],
+      "teachers": "Prof. Feske",
+      "notes": []
+     },
+     {
+      "title": "Comparative Political Science",
+      "fields": [
+       "Comparative Politics"
+      ],
+      "teachers": "Prof. Young",
+      "notes": [
+       "As part of the lecture, I wrote a [short analysis of China's political system from a rational-choice institutionalism point of view](/uploads/Thapa-Abstract-China-Institutionalismus.pdf) (in German)."
+      ]
+     },
+     {
+      "title": "Statistics II",
+      "fields": [
+       "Quantitative Research"
+      ],
+      "teachers": "Dr. Marko Heyse",
+      "notes": []
+     },
+     {
+      "title": "Microeconomics",
+      "fields": [
+       "Microeconomics"
+      ],
+      "teachers": "Prof. Krol",
+      "notes": []
+     },
+     {
+      "title": "Introduction to Business Administration",
+      "fields": [
+       "Management"
+      ],
+      "teachers": "Prof. Dilger",
+      "notes": []
+     }
+    ]
+   },
+   {
+    "name": "Winter 2007/2008",
+    "courses": [
+     {
+      "title": "Emerging Markets and Economic Growth in Subsahara Africa",
+      "fields": [
+       "Development Studies"
+      ],
+      "teachers": "Prof. van den Boom",
+      "notes": [
+       "As part of the seminar, I produced a [presentation on Ghana as a development dictatorship](/uploads/Praesentation-Ghana-als-Entwicklungsdiktatur.pdf) (in German)."
+      ]
+     },
+     {
+      "title": "Social Policy",
+      "fields": [
+       "Social Policy"
+      ],
+      "teachers": "Hendrik Meyer",
+      "notes": [
+       "As part of the seminar, I wrote an [essay on dual hospital financing in the German health system](/uploads/Thapa-Sozialpolitik.pdf) (in German)."
+      ]
+     },
+     {
+      "title": "Microfinance and International Finance: Poverty Alleviation and Empowerment II",
+      "fields": [
+       "Development Studies",
+       "Political Economy"
+      ],
+      "teachers": "Prof. Young",
+      "notes": []
+     },
+     {
+      "title": "Modeling and Simulation: Software-supported Analysis",
+      "fields": [
+       "Social Simulation"
+      ],
+      "teachers": "Prof. Bresinsky",
+      "notes": [
+       "In the seminar, we simulated the Darfur conflict using the system simulation software [Vensim](http://vensim.com/)."
+      ]
+     },
+     {
+      "title": "Economic and Financial Policy",
+      "fields": [
+       "Economic Policy"
+      ],
+      "teachers": "Prof. Apolte",
+      "notes": []
+     },
+     {
+      "title": "European Economic Policy",
+      "fields": [
+       "Economic Policy",
+       "European Union"
+      ],
+      "teachers": "Prof. Apolte",
+      "notes": []
+     },
+     {
+      "title": "Public Choice Theory",
+      "fields": [
+       "Public Choice"
+      ],
+      "teachers": "Prof. Apolte",
+      "notes": []
+     },
+     {
+      "title": "Macroeconomics",
+      "fields": [
+       "Macroeconomics"
+      ],
+      "teachers": "Prof. Apolte",
+      "notes": []
+     }
+    ]
+   },
+   {
+    "name": "Summer 2008",
+    "courses": [
+     {
+      "title": "Transatlantic Governance and Regulation of the (Subprime) Financial Crisis",
+      "fields": [
+       "Political Economy",
+       "Social Studies of Finance"
+      ],
+      "teachers": "Prof. Young",
+      "notes": []
+     },
+     {
+      "title": "Growth, (Sustainable) Development and Beyond",
+      "fields": [
+       "Sustainability Studies"
+      ],
+      "teachers": "Prof. Fuchs",
+      "notes": []
+     },
+     {
+      "title": "Introduction to Political Economy",
+      "fields": [
+       "Political Economy"
+      ],
+      "teachers": "Rebecca Hegemann",
+      "notes": []
+     },
+     {
+      "title": "Welfare Systems in Europe",
+      "fields": [
+       "Comparative Welfare Systems"
+      ],
+      "teachers": "Prof. Apolte & Dr. Schulze Buschoff",
+      "notes": [
+       "As part of the course, I wrote an [essay on parental benefits in Sweden](/uploads/Essay-Elterngeld-Schweden-Thapa.pdf) (German)"
+      ]
+     },
+     {
+      "title": "Business Cycles and Employment",
+      "fields": [
+       "Business cycle research",
+       "Labour Economics"
+      ],
+      "teachers": "Prof. Apolte",
+      "notes": [
+       "Here is [my part of a group paper on the Dutch polder model in labour policy](/uploads/Thapa-Poldermodell-Niederlande-Anteil.pdf) (German)."
+      ]
+     },
+     {
+      "title": "Economic Growth and Development",
+      "fields": [
+       "Economic Growth"
+      ],
+      "teachers": "Eric Meyer",
+      "notes": []
+     },
+     {
+      "title": "Competition Policy",
+      "fields": [
+       "Competition Economics"
+      ],
+      "teachers": "Dr. Malina",
+      "notes": []
+     }
+    ]
+   },
+   {
+    "name": "Winter 2008/2009",
+    "courses": [
+     {
+      "title": "Introduction to Development Cooperation",
+      "fields": [
+       "Development Studies"
+      ],
+      "teachers": "Prof. Kevenhörster",
+      "notes": [
+       "As part of the course, I wrote an [essay on the organisation of German bilateral development cooperation](/uploads/Klausur-Essay-Entwicklungspolitik-Thapa.pdf) (German)"
+      ]
+     },
+     {
+      "title": "Non-Governmental Organisations in Development Policy",
+      "fields": [
+       "Development Studies"
+      ],
+      "teachers": "Prof. van den Boom",
+      "notes": []
+     },
+     {
+      "title": "Crisis and Regulation in Global Financial Markets",
+      "fields": [
+       "Political Economy",
+       "Social Studies of Finance"
+      ],
+      "teachers": "Prof. Young",
+      "notes": []
+     },
+     {
+      "title": "Constitutional Economics",
+      "fields": [
+       "Constitutional Economics"
+      ],
+      "teachers": "Prof. Müller",
+      "notes": []
+     },
+     {
+      "title": "Happiness Economics",
+      "fields": [
+       "Happiness Economics"
+      ],
+      "teachers": "Prof. Müller",
+      "notes": []
+     }
+    ]
+   },
+   {
+    "name": "Summer 2009",
+    "courses": [
+     {
+      "title": "Introduction to Anarchism",
+      "fields": [
+       "Political Philosophy",
+       "Anarchism"
+      ],
+      "teachers": "Prof. van den Boom",
+      "notes": []
+     },
+     {
+      "title": "Management of Non-Profit Organisations",
+      "fields": [
+       "Nonprofit Studies"
+      ],
+      "teachers": "Prof. Dilger",
+      "notes": []
+     }
+    ]
+   },
+   {
+    "name": "Winter 2009/2010",
+    "courses": [
+     {
+      "title": "Behavioral Economics",
+      "fields": [
+       "Behavioral Economics"
+      ],
+      "teachers": "Prof. Müller",
+      "notes": [
+       "For the seminar, I produced a [presentation about homo economicus, its empirical anomalies, and alternative economic theories of behavior](/uploads/THAPA-Oekonomischer-Imperialismus1.pdf)"
+      ]
+     },
+     {
+      "title": "Principles of Economic Policy & Principles of Regulation",
+      "fields": [
+       "Economic Policy",
+       "Regulation economics"
+      ],
+      "teachers": "Prof. Theurl & Dr. Malina",
+      "notes": []
+     }
+    ]
+   }
+  ],
+  "id": "ba",
+  "place": "WWU Münster",
+  "years": "2006–2010"
+ }
+]
