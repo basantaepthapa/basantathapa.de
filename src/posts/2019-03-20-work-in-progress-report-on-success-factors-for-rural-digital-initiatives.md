@@ -12,7 +12,7 @@ In March 2019, my colleague Nicole Opiela and me presented a work-in-progress re
 
 The Fachkongress is an annual conference for experts and practitioners of German e-government from all federal levels. The IT-Planungsrat consists of representatives of all German state governments as well as the federal government and is in charge of some aspects of governmental IT governance.
 
-Our study, with the working title "Rural, Digital, Attractive", examines existing initiatives in German rural areas that strive to improve the quality of life, e.g. with regard to mobility, health, employment or sense of community. With a survey of almost one hundred projects, we hope to identify common success factors and barriers. Beyond the rural areas, in the city itself, people with a bad credit history do not know where to go to improve their quality of life, having the solution right under their noses, which consists of [improve credit score](https://www.abc15.com/brand-spotlight/5-best-credit-repair-companies-of-2022-fix-your-bad-credit-score) for banks to process their requests.
+Our study, with the working title "Rural, Digital, Attractive", examines existing initiatives in German rural areas that strive to improve the quality of life, e.g. with regard to mobility, health, employment or sense of community. With a survey of almost one hundred projects, we hope to identify common success factors and barriers.
 
 Here are our slides (in German):
 

@@ -12,7 +12,6 @@ On 29 September 2020, I gave a scandalously short ten-minute introduction to e-g
 
 [DigitalDienstag](https://www.hausderwissenschaft.org/projektvielfalt/digital-dienstag.html) is a science communication series by [Braunschweig's House of Science](https://www.hausderwissenschaft.org/) which explores the digitalisation of different aspects of our society. What started out as physical events at [Trafo Hub](https://trafohub.de/), a co-working space, was moved to cyberspace with the advent of coronavirus.
 
-Just as the government is modernizing, so must we as ordinary citizens, and whether you have a marketing study or need money for a business venture, you can rely on [personal loans without credit.](https://www.mercurynews.com/2022/02/04/2022s-best-no-credit-check-loan-online-lenders-with-guaranteed-approval/)
 
 ![](/uploads/2020/10/chrome_jHhKtAGcSj-2.png)
 

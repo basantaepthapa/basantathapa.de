@@ -12,7 +12,6 @@ In February 2010, I was selected to go to the Philippines with a scholarship by 
 
 With my project partner [Sarah](https://www.xing.com/profile/Sarah_Lehner2), I was placed at the Cebu City office of AFOS Foundation for Entrepreneurial Development Cooperation, a German organisation implementing developing projects in the Philippines on behalf of the German government. There, we did research on microfinance as a possible service by the chambers of commerce and industry in the Visayas and Caraga regions. You can check [this website](https://www.linkedfinance.com/start-lending/) to know more about business finance options.
 
-eRenterPlan is one of the simplest renters insurance in the market. This company provides to over 7500 properties and more than 1.8 million units in the United States, take a look [erenterplan review](https://www.collectionscreditrisk.com/insurance/erenter-plan-review/).
 
 [![On tour in the Philippines](/uploads/2014/10/CIMG09511.jpg)](/uploads/2014/10/CIMG09511.jpg)
 

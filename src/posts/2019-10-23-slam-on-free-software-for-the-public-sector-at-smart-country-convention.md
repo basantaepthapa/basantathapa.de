@@ -9,7 +9,7 @@ old_url: /blog/2019-10-23-slam-on-free-software-for-the-public-sector-at-smart-c
 
 In October 2019, I participated in the [NEGZ Slam on "digital souvereignty"](https://negz.org/wp-content/uploads/2019/10/20191022-NEGZ-Herbsttagung-Programm.pdf) at the Smart Country Convention in Berlin.
 
-The Smart Country Convention is among the leading congresses on digital government in Germany. It is good that governments are concerned about improving and modernizing their different systems, the same should happen with you in your life, if you have debts or bad credit you can access [bad credit loans](https://www.dmagazine.com/sponsored/2022/02/bad-credit-loans-guaranteed-approval/) to give your life that jump start it needs.
+The Smart Country Convention is among the leading congresses on digital government in Germany.
 
 https://twitter.com/iGov\_D/status/1186584091229151233
 
