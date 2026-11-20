@@ -27,12 +27,12 @@ const md = (s) => marked.parseInline(s).replace(/<a href="\/uploads\/([^"]+\.pdf
                 {c.fields.length > 0 && <div class="course-fields">{c.fields.map((f) => <span>{f}</span>)}</div>}
                 {c.notes.map((n) => <p class="course-note" set:html={md(n)} />)}
                 {(c.papers ?? []).map((p) => (
-                  <a class="paper" href={p.url}>
+                  <a class={p.wide ? "paper wide" : "paper"} href={p.url}>
                     <img src={p.thumb} alt="" loading="lazy" />
                     <span>
                       <span class="paper-meta">{[p.kind, p.lang, p.year].filter(Boolean).join(' · ')}</span>
                       <span class="paper-title">{p.title}</span>
-                      <span class="paper-desc">{p.desc}</span>
+                      {p.desc && <span class="paper-desc">{p.desc}</span>}
                     </span>
                   </a>
                 ))}

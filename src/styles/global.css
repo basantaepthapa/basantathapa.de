@@ -139,3 +139,4 @@ html { scroll-behavior: smooth; }
 .paper-desc { font-size: 14.5px; color: var(--mu); line-height: 1.4; }
 .paper.thesis { background: #fff; border: 1px solid var(--ln); border-left: 4px solid var(--rost); padding: 14px 16px; margin-top: 0; }
 .paper.thesis img { width: 56px; height: 79px; }
+.paper.wide img { width: 62px; height: 44px; margin-top: 2px; object-position: center; }

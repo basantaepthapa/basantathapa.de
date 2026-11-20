@@ -13,7 +13,8 @@
        "Organisational Theory"
       ],
       "teachers": "Prof. Apelt & Dr. Hustedt",
-      "notes": []
+      "notes": [],
+      "papers": []
      },
      {
       "title": "Methods of Organizational and Administrative Research",
@@ -22,8 +23,18 @@
        "Social Science Methods"
       ],
       "teachers": "Prof. Korff",
-      "notes": [
-       "One of my outputs in this course was an [analysis of how Michael Kaeding used Lieberman's \"nested analysis\" approach to mixed methods in his doctoral thesis](/uploads/2009/07/THAPA-Kaeding-as-Mixed-Method-Role-Model.pdf)."
+      "notes": [],
+      "papers": [
+       {
+        "kind": "Analysis",
+        "lang": "English",
+        "year": "",
+        "title": "How Michael Kaeding used Lieberman's \"nested analysis\" approach to mixed methods in his doctoral thesis",
+        "url": "/uploads/2009/07/THAPA-Kaeding-as-Mixed-Method-Role-Model.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-Kaeding-as-Mixed-Method-Role-Model.jpg",
+        "desc": "",
+        "wide": false
+       }
       ]
      }
     ]
@@ -47,8 +58,18 @@
        "Varieties of capitalism"
       ],
       "teachers": "Prof. Sorge",
-      "notes": [
-       "As part of the course, I produced a [handout on convergence among multi-national enterprises](/uploads/THAPA-Varieties-of-Capitalism.pdf) (German)."
+      "notes": [],
+      "papers": [
+       {
+        "kind": "Handout",
+        "lang": "German",
+        "year": "",
+        "title": "Convergence among multinational enterprises",
+        "url": "/uploads/THAPA-Varieties-of-Capitalism.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-Varieties-of-Capitalism.jpg",
+        "desc": "",
+        "wide": false
+       }
       ]
      },
      {
@@ -58,10 +79,18 @@
        "Organisational Theory"
       ],
       "teachers": "Prof. Edeling",
-      "notes": [
-       "As part of this course, I produced a [presentation on privatization of water services](/uploads/THAPA-Privatisierung-der-Wasserversorgung.pdf) (German)."
-      ],
+      "notes": [],
       "papers": [
+       {
+        "kind": "Presentation",
+        "lang": "German",
+        "year": "",
+        "title": "Privatisation of water services",
+        "url": "/uploads/THAPA-Privatisierung-der-Wasserversorgung.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-Privatisierung-der-Wasserversorgung.jpg",
+        "desc": "",
+        "wide": true
+       },
        {
         "kind": "Term paper",
         "lang": "German",
@@ -69,7 +98,8 @@
         "title": "Ver- und Entstaatlichung in der deutschen Entwicklungszusammenarbeit – Bestandsaufnahme mithilfe der Leistungstiefenanalyse und Erklärungsansatz durch den soziologischen Neoinstitutionalismus",
         "url": "/uploads/THAPA-Ver-und-Entstaatlichung-in-der-deutschen-Entwicklungszusammenarbeit.pdf",
         "thumb": "/uploads/thumbs/papers/THAPA-Ver-und-Entstaatlichung-in-der-deutschen-Entwicklungszusammenarbeit.jpg",
-        "desc": "Analysis of denationalisation and nationalisation processes in German governmental development cooperation."
+        "desc": "Analysis of denationalisation and nationalisation processes in German governmental development cooperation.",
+        "wide": false
        }
       ]
      },
@@ -79,8 +109,28 @@
        "Public Management"
       ],
       "teachers": "Prof. Proeller",
-      "notes": [
-       "As part of the lecture, I produced a [case study on change management](/uploads/THAPA-Fallstudie-Change-Management.pdf) and a [presentation on public accounting systems](/uploads/THAPA-Oeffentliches-Rechnungswesen.pdf) (both in German)."
+      "notes": [],
+      "papers": [
+       {
+        "kind": "Case study",
+        "lang": "German",
+        "year": "",
+        "title": "Change management",
+        "url": "/uploads/THAPA-Fallstudie-Change-Management.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-Fallstudie-Change-Management.jpg",
+        "desc": "",
+        "wide": false
+       },
+       {
+        "kind": "Presentation",
+        "lang": "German",
+        "year": "",
+        "title": "Public accounting systems",
+        "url": "/uploads/THAPA-Oeffentliches-Rechnungswesen.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-Oeffentliches-Rechnungswesen.jpg",
+        "desc": "",
+        "wide": true
+       }
       ]
      },
      {
@@ -89,7 +139,8 @@
        "Development Studies"
       ],
       "teachers": "Prof. Fuhr",
-      "notes": []
+      "notes": [],
+      "papers": []
      }
     ]
    },
@@ -111,7 +162,8 @@
         "title": "Der Dynamic Capabilities-Ansatz und seine Schwachstellen – Kritik und Lösungsvorschlag durch Theorieintegration mit dem Konzept des Organisationalen Lernens",
         "url": "/uploads/THAPA-Der-Dynamic-Capabilities-Ansatz-und-seine-Schwachstellen.pdf",
         "thumb": "/uploads/thumbs/papers/THAPA-Der-Dynamic-Capabilities-Ansatz-und-seine-Schwachstellen.jpg",
-        "desc": "A critical introduction to the concept of dynamic capabilities and its weakest points, linking it with the theory of organisational learning."
+        "desc": "A critical introduction to the concept of dynamic capabilities and its weakest points, linking it with the theory of organisational learning.",
+        "wide": false
        }
       ]
      },
@@ -123,8 +175,19 @@
       ],
       "teachers": "Prof. Proeller",
       "notes": [
-       "As part of the course, I produced a [presentation on multi-case study research](/uploads/THAPA-Ragin-Turning-the-Tables.pdf) (in German).",
        "My group explored the use of key performance indicators with Berlin's police."
+      ],
+      "papers": [
+       {
+        "kind": "Presentation",
+        "lang": "German",
+        "year": "",
+        "title": "Multi-case study research",
+        "url": "/uploads/THAPA-Ragin-Turning-the-Tables.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-Ragin-Turning-the-Tables.jpg",
+        "desc": "",
+        "wide": true
+       }
       ]
      },
      {
@@ -136,7 +199,8 @@
       "teachers": "Dr. Scheffer",
       "notes": [
        "As an exercise, I conducted an institutional ethnography of [Stiftung Nord-Süd-Brücken](http://www.nord-sued-bruecken.de/english.html)'s small-scale grant selection committee."
-      ]
+      ],
+      "papers": []
      }
     ]
    },
@@ -151,7 +215,8 @@
       "teachers": "",
       "notes": [
        "A mock consulting job for [\\]init\\[ AG](http://www.init.de/en), where my group conducted a study on mobile citizen services in German municipalities."
-      ]
+      ],
+      "papers": []
      },
      {
       "title": "Influencing the Policy Process: actors, instruments, legitimacy",
@@ -160,10 +225,18 @@
        "Lobbying"
       ],
       "teachers": "Dr. Humborg",
-      "notes": [
-       "As part of the seminar, I produced a [presentation on associations as interest groups](/uploads/THAPA-Interessenvertretung-durch-Verbaende.pdf) (in German)."
-      ],
+      "notes": [],
       "papers": [
+       {
+        "kind": "Presentation",
+        "lang": "German",
+        "year": "",
+        "title": "Associations as interest groups",
+        "url": "/uploads/THAPA-Interessenvertretung-durch-Verbaende.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-Interessenvertretung-durch-Verbaende.jpg",
+        "desc": "",
+        "wide": true
+       },
        {
         "kind": "Term paper",
         "lang": "German",
@@ -171,7 +244,8 @@
         "title": "Niedergang der Verbände durch unzufriedene Mitglieder? – Argumentationsmuster der internen Kritik an den Industrie- und Handelskammern in Deutschland",
         "url": "/uploads/2014/08/THAPA-Niedergang-der-Verbaende-durch-unzufriedene-Mitglieder.pdf",
         "thumb": "/uploads/thumbs/papers/THAPA-Niedergang-der-Verbaende-durch-unzufriedene-Mitglieder.jpg",
-        "desc": "Qualitative content analysis of patterns of argumentation among dissidents in German chambers of commerce and industry."
+        "desc": "Qualitative content analysis of patterns of argumentation among dissidents in German chambers of commerce and industry.",
+        "wide": false
        }
       ]
      },
@@ -181,10 +255,18 @@
        "E-Government"
       ],
       "teachers": "Dr. Proske",
-      "notes": [
-       "As part of the seminar, I produced a [presentation on apps and portals in m-government](/uploads/THAPA-Portal-oder-Apps-M-Government-Praesentation.pdf) (in German)."
-      ],
+      "notes": [],
       "papers": [
+       {
+        "kind": "Presentation",
+        "lang": "German",
+        "year": "",
+        "title": "Apps and portals in m-government",
+        "url": "/uploads/THAPA-Portal-oder-Apps-M-Government-Praesentation.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-Portal-oder-Apps-M-Government-Praesentation.jpg",
+        "desc": "",
+        "wide": true
+       },
        {
         "kind": "Term paper",
         "lang": "German",
@@ -192,7 +274,8 @@
         "title": "Portal oder Apps? – Welches Gestaltungsprinzip für Open Government- und Open Government Data-Anwendungen auf mobilen Datengeräten?",
         "url": "/uploads/THAPA-Portal-oder-Apps.pdf",
         "thumb": "/uploads/thumbs/papers/THAPA-Portal-oder-Apps.jpg",
-        "desc": "A comparison of the design principles of portals and apps for e-government via mobile technologies."
+        "desc": "A comparison of the design principles of portals and apps for e-government via mobile technologies.",
+        "wide": false
        }
       ]
      }
@@ -208,7 +291,8 @@
        "Transculturalism"
       ],
       "teachers": "Dr. Knobloch",
-      "notes": []
+      "notes": [],
+      "papers": []
      },
      {
       "title": "Financial markets from the perspective of (economic) sociology",
@@ -216,7 +300,8 @@
        "Economic Sociology"
       ],
       "teachers": "Prof. Lohr",
-      "notes": []
+      "notes": [],
+      "papers": []
      },
      {
       "title": "Qualitative Methods: Interviews, Text Analysis and Observation",
@@ -224,8 +309,18 @@
        "Qualitative Research"
       ],
       "teachers": "Prof. Vetterlein",
-      "notes": [
-       "As part of the seminar, I produced a [presentation on participant observation](/uploads/THAPA-Participant-Observation.pdf)."
+      "notes": [],
+      "papers": [
+       {
+        "kind": "Presentation",
+        "lang": "English",
+        "year": "",
+        "title": "Participant observation",
+        "url": "/uploads/THAPA-Participant-Observation.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-Participant-Observation.jpg",
+        "desc": "",
+        "wide": true
+       }
       ]
      }
     ]
@@ -239,7 +334,8 @@
        "Postcolonial Theory"
       ],
       "teachers": "Laura Stielike",
-      "notes": []
+      "notes": [],
+      "papers": []
      }
     ]
    },
@@ -259,7 +355,8 @@
         "title": "Ambivalent civil society in democratic consolidation − The case of local chambers of commerce and industry in the Visayas and Northern Mindanao",
         "url": "/uploads/2014/08/THAPA-MA-Ambivalent-civil-society-in-democratic-consolidation.pdf",
         "thumb": "/uploads/thumbs/papers/THAPA-MA-Ambivalent-civil-society-in-democratic-consolidation.jpg",
-        "desc": "Inquiry into the ambivalent roles civil society can play in democratisation processes, using the example of chambers of commerce in the Philippines."
+        "desc": "Inquiry into the ambivalent roles civil society can play in democratisation processes, using the example of chambers of commerce in the Philippines.",
+        "wide": false
        }
       ]
      }
@@ -283,7 +380,8 @@
        "Political Science"
       ],
       "teachers": "Prof. Schubert",
-      "notes": []
+      "notes": [],
+      "papers": []
      },
      {
       "title": "Political System of the Federal Republic of Germany",
@@ -291,8 +389,18 @@
        "Politics of Germany"
       ],
       "teachers": "Prof. Robert",
-      "notes": [
-       "As part of the course, I produced a [presentation on Ernst Fraenkel’s structural analysis of modern democracy](/uploads/Praesentation-Fraenkel.pdf) (in German)."
+      "notes": [],
+      "papers": [
+       {
+        "kind": "Presentation",
+        "lang": "German",
+        "year": "",
+        "title": "Ernst Fraenkel's structural analysis of modern democracy",
+        "url": "/uploads/Praesentation-Fraenkel.pdf",
+        "thumb": "/uploads/thumbs/papers/Praesentation-Fraenkel.jpg",
+        "desc": "",
+        "wide": true
+       }
       ]
      },
      {
@@ -301,7 +409,8 @@
        "Quantitative Research"
       ],
       "teachers": "Dr. Marko Heyse",
-      "notes": []
+      "notes": [],
+      "papers": []
      },
      {
       "title": "Business Accounting",
@@ -309,7 +418,8 @@
        "Accounting"
       ],
       "teachers": "Prof. Krafft",
-      "notes": []
+      "notes": [],
+      "papers": []
      }
     ]
    },
@@ -322,7 +432,8 @@
        "International Relations"
       ],
       "teachers": "Prof. Feske",
-      "notes": []
+      "notes": [],
+      "papers": []
      },
      {
       "title": "Comparative Political Science",
@@ -330,8 +441,18 @@
        "Comparative Politics"
       ],
       "teachers": "Prof. Young",
-      "notes": [
-       "As part of the lecture, I wrote a [short analysis of China's political system from a rational-choice institutionalism point of view](/uploads/Thapa-Abstract-China-Institutionalismus.pdf) (in German)."
+      "notes": [],
+      "papers": [
+       {
+        "kind": "Short analysis",
+        "lang": "German",
+        "year": "",
+        "title": "China's political system from a rational-choice institutionalism point of view",
+        "url": "/uploads/Thapa-Abstract-China-Institutionalismus.pdf",
+        "thumb": "/uploads/thumbs/papers/Thapa-Abstract-China-Institutionalismus.jpg",
+        "desc": "",
+        "wide": false
+       }
       ]
      },
      {
@@ -340,7 +461,8 @@
        "Quantitative Research"
       ],
       "teachers": "Dr. Marko Heyse",
-      "notes": []
+      "notes": [],
+      "papers": []
      },
      {
       "title": "Microeconomics",
@@ -348,7 +470,8 @@
        "Microeconomics"
       ],
       "teachers": "Prof. Krol",
-      "notes": []
+      "notes": [],
+      "papers": []
      },
      {
       "title": "Introduction to Business Administration",
@@ -356,7 +479,8 @@
        "Management"
       ],
       "teachers": "Prof. Dilger",
-      "notes": []
+      "notes": [],
+      "papers": []
      }
     ]
    },
@@ -369,8 +493,18 @@
        "Development Studies"
       ],
       "teachers": "Prof. van den Boom",
-      "notes": [
-       "As part of the seminar, I produced a [presentation on Ghana as a development dictatorship](/uploads/Praesentation-Ghana-als-Entwicklungsdiktatur.pdf) (in German)."
+      "notes": [],
+      "papers": [
+       {
+        "kind": "Presentation",
+        "lang": "German",
+        "year": "",
+        "title": "Ghana as a development dictatorship",
+        "url": "/uploads/Praesentation-Ghana-als-Entwicklungsdiktatur.pdf",
+        "thumb": "/uploads/thumbs/papers/Praesentation-Ghana-als-Entwicklungsdiktatur.jpg",
+        "desc": "",
+        "wide": true
+       }
       ]
      },
      {
@@ -379,8 +513,18 @@
        "Social Policy"
       ],
       "teachers": "Hendrik Meyer",
-      "notes": [
-       "As part of the seminar, I wrote an [essay on dual hospital financing in the German health system](/uploads/Thapa-Sozialpolitik.pdf) (in German)."
+      "notes": [],
+      "papers": [
+       {
+        "kind": "Essay",
+        "lang": "German",
+        "year": "",
+        "title": "Dual hospital financing in the German health system",
+        "url": "/uploads/Thapa-Sozialpolitik.pdf",
+        "thumb": "/uploads/thumbs/papers/Thapa-Sozialpolitik.jpg",
+        "desc": "",
+        "wide": false
+       }
       ]
      },
      {
@@ -399,7 +543,8 @@
         "title": "Potential und Grenzen des Mobile Banking – Bewertung der Erweiterung des Zugangs zu Finanzdienstleistungen durch den Mobilfunk am Beispiel Subsahara-Afrikas",
         "url": "/uploads/THAPA-Potential-und-Grenzen-des-Mobile-Banking.pdf",
         "thumb": "/uploads/thumbs/papers/THAPA-Potential-und-Grenzen-des-Mobile-Banking.jpg",
-        "desc": "Assessment of the potential impact of mobile banking on the economies of Sub-Saharan Africa."
+        "desc": "Assessment of the potential impact of mobile banking on the economies of Sub-Saharan Africa.",
+        "wide": false
        }
       ]
      },
@@ -411,7 +556,8 @@
       "teachers": "Prof. Bresinsky",
       "notes": [
        "In the seminar, we simulated the Darfur conflict using the system simulation software [Vensim](http://vensim.com/)."
-      ]
+      ],
+      "papers": []
      },
      {
       "title": "Economic and Financial Policy",
@@ -419,7 +565,8 @@
        "Economic Policy"
       ],
       "teachers": "Prof. Apolte",
-      "notes": []
+      "notes": [],
+      "papers": []
      },
      {
       "title": "European Economic Policy",
@@ -428,7 +575,8 @@
        "European Union"
       ],
       "teachers": "Prof. Apolte",
-      "notes": []
+      "notes": [],
+      "papers": []
      },
      {
       "title": "Public Choice Theory",
@@ -436,7 +584,8 @@
        "Public Choice"
       ],
       "teachers": "Prof. Apolte",
-      "notes": []
+      "notes": [],
+      "papers": []
      },
      {
       "title": "Macroeconomics",
@@ -444,7 +593,8 @@
        "Macroeconomics"
       ],
       "teachers": "Prof. Apolte",
-      "notes": []
+      "notes": [],
+      "papers": []
      }
     ]
    },
@@ -458,7 +608,8 @@
        "Social Studies of Finance"
       ],
       "teachers": "Prof. Young",
-      "notes": []
+      "notes": [],
+      "papers": []
      },
      {
       "title": "Growth, (Sustainable) Development and Beyond",
@@ -475,7 +626,8 @@
         "title": "Remittances und Schulbildung – Bewertung der Auswirkung von Remittances auf den Schulbesuch anhand von Fallstudien auf der Haushaltsebene",
         "url": "/uploads/THAPA-Remittances-und-Schulbildung.pdf",
         "thumb": "/uploads/thumbs/papers/THAPA-Remittances-und-Schulbildung.jpg",
-        "desc": "Explores whether remittances raise the education levels of the receivers' children, comparing several household-level studies."
+        "desc": "Explores whether remittances raise the education levels of the receivers' children, comparing several household-level studies.",
+        "wide": false
        }
       ]
      },
@@ -485,7 +637,8 @@
        "Political Economy"
       ],
       "teachers": "Rebecca Hegemann",
-      "notes": []
+      "notes": [],
+      "papers": []
      },
      {
       "title": "Welfare Systems in Europe",
@@ -493,8 +646,18 @@
        "Comparative Welfare Systems"
       ],
       "teachers": "Prof. Apolte & Dr. Schulze Buschoff",
-      "notes": [
-       "As part of the course, I wrote an [essay on parental benefits in Sweden](/uploads/Essay-Elterngeld-Schweden-Thapa.pdf) (German)"
+      "notes": [],
+      "papers": [
+       {
+        "kind": "Essay",
+        "lang": "German",
+        "year": "",
+        "title": "Parental benefits in Sweden",
+        "url": "/uploads/Essay-Elterngeld-Schweden-Thapa.pdf",
+        "thumb": "/uploads/thumbs/papers/Essay-Elterngeld-Schweden-Thapa.jpg",
+        "desc": "",
+        "wide": false
+       }
       ]
      },
      {
@@ -504,8 +667,18 @@
        "Labour Economics"
       ],
       "teachers": "Prof. Apolte",
-      "notes": [
-       "Here is [my part of a group paper on the Dutch polder model in labour policy](/uploads/Thapa-Poldermodell-Niederlande-Anteil.pdf) (German)."
+      "notes": [],
+      "papers": [
+       {
+        "kind": "Group paper (my part)",
+        "lang": "German",
+        "year": "",
+        "title": "The Dutch polder model in labour policy",
+        "url": "/uploads/Thapa-Poldermodell-Niederlande-Anteil.pdf",
+        "thumb": "/uploads/thumbs/papers/Thapa-Poldermodell-Niederlande-Anteil.jpg",
+        "desc": "",
+        "wide": false
+       }
       ]
      },
      {
@@ -514,7 +687,8 @@
        "Economic Growth"
       ],
       "teachers": "Eric Meyer",
-      "notes": []
+      "notes": [],
+      "papers": []
      },
      {
       "title": "Competition Policy",
@@ -522,7 +696,8 @@
        "Competition Economics"
       ],
       "teachers": "Dr. Malina",
-      "notes": []
+      "notes": [],
+      "papers": []
      }
     ]
    },
@@ -535,8 +710,18 @@
        "Development Studies"
       ],
       "teachers": "Prof. Kevenhörster",
-      "notes": [
-       "As part of the course, I wrote an [essay on the organisation of German bilateral development cooperation](/uploads/Klausur-Essay-Entwicklungspolitik-Thapa.pdf) (German)"
+      "notes": [],
+      "papers": [
+       {
+        "kind": "Essay",
+        "lang": "German",
+        "year": "",
+        "title": "The organisation of German bilateral development cooperation",
+        "url": "/uploads/Klausur-Essay-Entwicklungspolitik-Thapa.pdf",
+        "thumb": "/uploads/thumbs/papers/Klausur-Essay-Entwicklungspolitik-Thapa.jpg",
+        "desc": "",
+        "wide": false
+       }
       ]
      },
      {
@@ -554,7 +739,8 @@
         "title": "Partnerschaft, Partizipation und Patronage – Die schwierige Kooperation von Nord- und Süd-NGOs unter besonderer Berücksichtigung asymmetrischer Ressourcenverteilung",
         "url": "/uploads/THAPA-Partnerschaft-Partizipation-und-Patronage.pdf",
         "thumb": "/uploads/thumbs/papers/THAPA-Partnerschaft-Partizipation-und-Patronage.jpg",
-        "desc": "Examines relations between NGOs from developed and less developed countries and the factors that preclude negotiations on equal terms."
+        "desc": "Examines relations between NGOs from developed and less developed countries and the factors that preclude negotiations on equal terms.",
+        "wide": false
        }
       ]
      },
@@ -574,7 +760,8 @@
         "title": "Is the Subprime Crisis Unique? – Historical Comparison of the Subprime Crisis",
         "url": "/uploads/THAPA-Is-the-Subprime-Crisis-unique.pdf",
         "thumb": "/uploads/thumbs/papers/THAPA-Is-the-Subprime-Crisis-unique.jpg",
-        "desc": "Compares the subprime crisis with the Savings and Loans crisis, the Japanese banking crisis, the Asian crisis and the New Economy crash, using several models of financial crises."
+        "desc": "Compares the subprime crisis with the Savings and Loans crisis, the Japanese banking crisis, the Asian crisis and the New Economy crash, using several models of financial crises.",
+        "wide": false
        }
       ]
      },
@@ -593,7 +780,8 @@
         "title": "Das Problem der konstitutionenökonomischen Legitimation der Umverteilung – Ein alternativer Ansatz unter Anwendung der konstitutionenökonomischen Theorie der öffentlichen Güter und des Homo Reciprocans",
         "url": "/uploads/THAPA-Das-Problem-der-konstitutionenoekonomischen-Legitimation-der-Umverteilung.pdf",
         "thumb": "/uploads/thumbs/papers/THAPA-Das-Problem-der-konstitutionenoekonomischen-Legitimation-der-Umverteilung.jpg",
-        "desc": "Outlines a solution to the problem that redistribution poses for rational choice theory, using homo reciprocans and a constitutional theory of public goods."
+        "desc": "Outlines a solution to the problem that redistribution poses for rational choice theory, using homo reciprocans and a constitutional theory of public goods.",
+        "wide": false
        }
       ]
      },
@@ -612,7 +800,8 @@
         "title": "Machen FOCJ glücklicher? – Eine kritische Darlegung eines alternativen Föderalismuskonzepts und seiner möglichen Happiness-Effekte",
         "url": "/uploads/THAPA-Machen-FOCJ-gluecklicher.pdf",
         "thumb": "/uploads/thumbs/papers/THAPA-Machen-FOCJ-gluecklicher.jpg",
-        "desc": "Critical examination of Frey's alternative concept of federalism based on Functionally Overlapping Competing Jurisdictions and its possible effects on happiness."
+        "desc": "Critical examination of Frey's alternative concept of federalism based on Functionally Overlapping Competing Jurisdictions and its possible effects on happiness.",
+        "wide": false
        }
       ]
      }
@@ -628,7 +817,8 @@
        "Anarchism"
       ],
       "teachers": "Prof. van den Boom",
-      "notes": []
+      "notes": [],
+      "papers": []
      },
      {
       "title": "Management of Non-Profit Organisations",
@@ -645,7 +835,8 @@
         "title": "Labor Donations im Non-Profit-Sektor – Zur Anwendbarkeit der Labor Donation Hypothesis auf den vermeintlichen Lohnunterschied zwischen For-Profit- und Non-Profit-Sektor",
         "url": "/uploads/THAPA-Labor-Donations-im-Non-Profit-Sektor.pdf",
         "thumb": "/uploads/thumbs/papers/THAPA-Labor-Donations-im-Non-Profit-Sektor.jpg",
-        "desc": "Examines whether the labour donation hypothesis explains supposed wage differences between for-profits and non-profits."
+        "desc": "Examines whether the labour donation hypothesis explains supposed wage differences between for-profits and non-profits.",
+        "wide": false
        }
       ]
      }
@@ -660,10 +851,18 @@
        "Behavioral Economics"
       ],
       "teachers": "Prof. Müller",
-      "notes": [
-       "For the seminar, I produced a [presentation about homo economicus, its empirical anomalies, and alternative economic theories of behavior](/uploads/THAPA-Oekonomischer-Imperialismus1.pdf)"
-      ],
+      "notes": [],
       "papers": [
+       {
+        "kind": "Presentation",
+        "lang": "German",
+        "year": "",
+        "title": "Homo economicus, its empirical anomalies, and alternative economic theories of behaviour",
+        "url": "/uploads/THAPA-Oekonomischer-Imperialismus1.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-Oekonomischer-Imperialismus1.jpg",
+        "desc": "",
+        "wide": true
+       },
        {
         "kind": "Term paper",
         "lang": "German",
@@ -671,7 +870,8 @@
         "title": "Ökonomischer Imperialismus – oder: Kann die ökonomische Verhaltenstheorie alles erklären?",
         "url": "/uploads/THAPA-Oekonomischer-Imperialismus.pdf",
         "thumb": "/uploads/thumbs/papers/THAPA-Oekonomischer-Imperialismus.jpg",
-        "desc": "Assessment of the imperialist position of behavioural economics within the social sciences, with special regard to its anomalies."
+        "desc": "Assessment of the imperialist position of behavioural economics within the social sciences, with special regard to its anomalies.",
+        "wide": false
        }
       ]
      },
@@ -682,7 +882,8 @@
        "Regulation economics"
       ],
       "teachers": "Prof. Theurl & Dr. Malina",
-      "notes": []
+      "notes": [],
+      "papers": []
      }
     ]
    },
@@ -702,7 +903,8 @@
         "title": "A Microfinance Revolution? – Microfinance and 1970s Development Banks Compared",
         "url": "/uploads/THAPA_Microfinance_Revolution.pdf",
         "thumb": "/uploads/thumbs/papers/THAPA_Microfinance_Revolution.jpg",
-        "desc": "Assesses how revolutionary microfinance really is, compared with state development banks in the era of state-led development, from a methodological, a scientific and a policy point of view."
+        "desc": "Assesses how revolutionary microfinance really is, compared with state development banks in the era of state-led development, from a methodological, a scientific and a policy point of view.",
+        "wide": false
        }
       ]
      }
@@ -733,7 +935,8 @@
         "title": "Non-Resident Nepalis as Investors in Nepal – An attempt to assess the real opportunities they offer",
         "url": "/uploads/THAPA-NRNs-as-Investors-in-Nepal1.pdf",
         "thumb": "/uploads/thumbs/papers/THAPA-NRNs-as-Investors-in-Nepal1.jpg",
-        "desc": "Assessment of the Nepali diaspora's potential as investors in Nepal."
+        "desc": "Assessment of the Nepali diaspora's potential as investors in Nepal.",
+        "wide": false
        }
       ]
      }
