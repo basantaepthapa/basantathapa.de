@@ -1,0 +1,57 @@
+---
+import Base from '../layouts/Base.astro';
+import { routes, t } from '../i18n.js';
+import press from '../data/press.json';
+const { lang } = Astro.props;
+const s = t[lang];
+const de = lang === 'de';
+const labels = {
+  podcast: ['Podcast', 'Podcast'],
+  interview: ['Interview', 'Interview'],
+  zitat: ['Zitiert', 'Quoted'],
+  gastbeitrag: ['Gastbeitrag', 'Guest article'],
+  kolumne: ['Kolumne', 'Column'],
+  video: ['Video', 'Video'],
+  bericht: ['Bericht', 'Feature'],
+};
+const sorted = [...press].sort((a, b) => b.date.localeCompare(a.date));
+const groups = [];
+for (const e of sorted) {
+  const y = e.date.slice(0, 4);
+  let g = groups.find((x) => x.name === y);
+  if (!g) groups.push((g = { name: y, items: [] }));
+  g.items.push(e);
+}
+const fmt = (d) => {
+  const [y, m, day] = d.split('-');
+  if (!m) return '';
+  const date = new Date(Date.UTC(+y, +m - 1, +(day ?? 1)));
+  return day
+    ? date.toLocaleDateString(de ? 'de-DE' : 'en-GB', { day: 'numeric', month: 'long', timeZone: 'UTC' })
+    : date.toLocaleDateString(de ? 'de-DE' : 'en-GB', { month: 'long', timeZone: 'UTC' });
+};
+---
+<Base lang={lang} title={s.nav.press} current="press" alt={routes.press[de ? 'en' : 'de']}>
+  <h1>{s.nav.press}</h1>
+  <p class="note">{de
+    ? 'Podcasts, Interviews, Zitate in Artikeln und eigene Gastbeiträge und Kolumnen.'
+    : 'Podcasts, interviews, quotes in articles, and my own guest articles and columns. Titles of German-language pieces are translated and marked "(in German)".'}</p>
+  {groups.map((g) => (
+    <section>
+      <div class="year">{g.name}</div>
+      <ul class="entries">
+        {g.items.map((e) => {
+          const title = de ? e.title_de : e.title_en;
+          return (
+            <li>
+              {e.url ? <a href={e.url}>{title}</a> : <span>{title}</span>}
+              {!de && e.german && <span class="muted"> (in German)</span>}
+              <span class="tag">{labels[e.type][de ? 0 : 1]}</span>
+              <div class="press-meta"><em>{e.outlet}</em>{fmt(e.date) && ` · ${fmt(e.date)}`}</div>
+            </li>
+          );
+        })}
+      </ul>
+    </section>
+  ))}
+</Base>

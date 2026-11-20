@@ -102,3 +102,4 @@ h3 { font-weight: 700; font-size: 19px; margin: 28px 0 8px; }
 .pub-thumb img { display: block; width: 64px; height: 88px; object-fit: cover; object-position: top; border: 1px solid var(--ln); border-radius: 3px; background: #fff; transition: transform .15s; }
 .pub-thumb:hover img { transform: translateY(-2px); box-shadow: 0 4px 10px rgba(31,38,45,.12); }
 .pub-thumb-empty { display: block; height: 88px; border-radius: 3px; background: var(--senf-hell); }
+.press-meta { color: var(--mu); font-size: 15px; margin-top: 2px; }
