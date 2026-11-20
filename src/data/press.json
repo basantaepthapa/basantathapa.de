@@ -369,6 +369,15 @@
   "german": true
  },
  {
+  "date": "2020-05-18",
+  "type": "zitat",
+  "outlet": "ADMIN Magazine",
+  "title_de": "Munich Could Be Moving Back to Open Source",
+  "title_en": "Munich Could Be Moving Back to Open Source",
+  "url": "https://www.admin-magazine.com/News/Munich-Could-Be-Moving-Back-to-Open-Source",
+  "german": false
+ },
+ {
   "date": "2020-05-14",
   "type": "zitat",
   "outlet": "ZDNet",
