@@ -90,6 +90,15 @@
   "german": true
  },
  {
+  "date": "2020-06-02",
+  "type": "gastbeitrag",
+  "outlet": "Smart Country Blog (Bertelsmann Stiftung)",
+  "title_de": "Tech for ländliche Räume: Der menschliche Faktor entscheidet (mit Ines Hölscher)",
+  "title_en": "Tech for rural areas: the human factor decides (with Ines Hölscher)",
+  "url": "https://blog-smartcountry.de/tech-for-laendliche-raeume-der-menschliche-faktor-entscheidet/",
+  "german": true
+ },
+ {
   "date": "2020-05-20",
   "type": "gastbeitrag",
   "outlet": "Verwaltung der Zukunft",
