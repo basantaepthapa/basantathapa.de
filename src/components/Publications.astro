@@ -31,13 +31,13 @@ for (const e of pubs) {
       <h3>{de ? (names[g.name] ?? g.name) : g.name.replace('/', ', ').replace('/', ' and ')}</h3>
       <ul class="entries">
         {g.items.map((e) => (
-          <li class={e.thumb === null ? '' : 'pub'}>
-            {e.thumb === null ? null : e.thumb ? (
-              <a class="pub-thumb" href={firstLink(e.text)} tabindex="-1" aria-hidden="true">
+          <li class="pub">
+            {e.thumb ? (
+              <a class={e.thumb.includes("/articles/") ? "pub-thumb wide" : "pub-thumb"} href={firstLink(e.text)} tabindex="-1" aria-hidden="true">
                 <img src={e.thumb} alt="" loading="lazy" />
               </a>
             ) : (
-              <span class="pub-thumb pub-thumb-empty" aria-hidden="true"></span>
+              <span class={["Guest articles and columns","Blog posts"].includes(e.section) ? "pub-thumb wide pub-thumb-empty" : "pub-thumb pub-thumb-empty"} aria-hidden="true"></span>
             )}
             <div set:html={marked.parseInline(de ? e.text : (e.text_en ?? e.text))} />
           </li>

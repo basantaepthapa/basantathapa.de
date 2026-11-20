@@ -103,3 +103,6 @@ h3 { font-weight: 700; font-size: 19px; margin: 28px 0 8px; }
 .pub-thumb:hover img { transform: translateY(-2px); box-shadow: 0 4px 10px rgba(31,38,45,.12); }
 .pub-thumb-empty { display: block; height: 88px; border-radius: 3px; background: var(--senf-hell); }
 .press-meta { color: var(--mu); font-size: 15px; margin-top: 2px; }
+.pub-thumb.wide { width: 96px; }
+.pub-thumb.wide img { width: 96px; height: 64px; object-fit: cover; object-position: center; }
+.pub-thumb.wide.pub-thumb-empty { height: 64px; }
