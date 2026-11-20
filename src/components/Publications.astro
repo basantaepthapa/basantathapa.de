@@ -12,6 +12,8 @@ const names = {
   'Edited Volumes': 'Herausgeberschaften',
   'Conference proceedings': 'Tagungsbeiträge',
   'Reports/White Papers/Working Papers': 'Studien, Whitepaper und Working Papers',
+  'Guest articles and columns': 'Gastbeiträge und Kolumnen',
+  'Blog posts': 'Blogbeiträge',
 };
 const firstLink = (text) => (text.match(/\]\(([^)\s]+)\)/) || [])[1];
 const groups = [];
@@ -29,8 +31,8 @@ for (const e of pubs) {
       <h3>{de ? (names[g.name] ?? g.name) : g.name.replace('/', ', ').replace('/', ' and ')}</h3>
       <ul class="entries">
         {g.items.map((e) => (
-          <li class="pub">
-            {e.thumb ? (
+          <li class={e.thumb === null ? '' : 'pub'}>
+            {e.thumb === null ? null : e.thumb ? (
               <a class="pub-thumb" href={firstLink(e.text)} tabindex="-1" aria-hidden="true">
                 <img src={e.thumb} alt="" loading="lazy" />
               </a>

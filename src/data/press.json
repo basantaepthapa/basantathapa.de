@@ -9,42 +9,6 @@
   "german": true
  },
  {
-  "date": "2021-07-23",
-  "type": "gastbeitrag",
-  "outlet": "Future4Public (Behörden Spiegel)",
-  "title_de": "Fachsimpeln, Netzwerken, Quatschen im N3GZ Nachwuchsnetzwerk Digitale Verwaltung",
-  "title_en": "Shop talk, networking and chatting in the N3GZ young professionals' network",
-  "url": "https://f4p.online/2021/07/23/fachsimpeln-netzwerken-quatschen-im-n3gz-nachwuchsnetzwerk-digitale-verwaltung/",
-  "german": true
- },
- {
-  "date": "2023-07-18",
-  "type": "kolumne",
-  "outlet": "Tagesspiegel Background",
-  "title_de": "Vision gesucht: E-Government im Bundesstaat",
-  "title_en": "Vision wanted: e-government in a federal state",
-  "url": "https://background.tagesspiegel.de/smart-city-und-stadtentwicklung/briefing/vision-gesucht-e-government-im-bundesstaat",
-  "german": true
- },
- {
-  "date": "2022-01-27",
-  "type": "gastbeitrag",
-  "outlet": "Verwaltung der Zukunft",
-  "title_de": "Barrierefreiheit in der digitalen Verwaltung",
-  "title_en": "Accessibility in digital administration",
-  "url": "https://www.vdz.org/digitalisierung-der-verwaltung/barrierefreiheit-der-digitalen-verwaltung",
-  "german": true
- },
- {
-  "date": "2021-08-04",
-  "type": "gastbeitrag",
-  "outlet": "Verwaltung der Zukunft",
-  "title_de": "Digitale Souveränität des Staates (mit Niels Kölker)",
-  "title_en": "Digital sovereignty of the state (with Niels Kölker)",
-  "url": "https://www.vdz.org/it-landschaft-markt-kooperationen/digitale-souveraenitaet-des-staates",
-  "german": true
- },
- {
   "date": "2021",
   "type": "interview",
   "outlet": "eGovernment",
@@ -90,84 +54,12 @@
   "german": true
  },
  {
-  "date": "2020-06-02",
-  "type": "gastbeitrag",
-  "outlet": "Smart Country Blog (Bertelsmann Stiftung)",
-  "title_de": "Tech for ländliche Räume: Der menschliche Faktor entscheidet (mit Ines Hölscher)",
-  "title_en": "Tech for rural areas: the human factor decides (with Ines Hölscher)",
-  "url": "https://blog-smartcountry.de/tech-for-laendliche-raeume-der-menschliche-faktor-entscheidet/",
-  "german": true
- },
- {
-  "date": "2020-05-20",
-  "type": "gastbeitrag",
-  "outlet": "Verwaltung der Zukunft",
-  "title_de": "Ländlich, digital, attraktiv – Digitale Lösungsansätze für ländliche Räume",
-  "title_en": "Rural, digital, attractive – digital solutions for rural areas",
-  "url": "https://www.vdz.org/digitalisierung-von-staat-verwaltung/laendlich-digital-attraktiv-digitale-loesungsansaetze-fuer",
-  "german": true
- },
- {
-  "date": "2020-04-23",
-  "type": "gastbeitrag",
-  "outlet": "Verwaltung der Zukunft",
-  "title_de": "Evidenzbasiert steuern (mit Hüseyin Sagkal)",
-  "title_en": "Evidence-based steering (with Hüseyin Sagkal)",
-  "url": "https://www.vdz.org/digitalisierung-von-staat-verwaltung/evidenzbasiert-steuern",
-  "german": true
- },
- {
-  "date": "2020-04-02",
-  "type": "gastbeitrag",
-  "outlet": "Verwaltung der Zukunft",
-  "title_de": "Freie Software für den öffentlichen Sektor",
-  "title_en": "Free software for the public sector",
-  "url": "https://www.vdz.org/politik-strategie-governance/freie-software-fuer-den-oeffentlichen-sektor",
-  "german": true
- },
- {
-  "date": "2020-03-30",
-  "type": "gastbeitrag",
-  "outlet": "Verwaltung der Zukunft",
-  "title_de": "Open Data zwischen politischen Versprechen und Verwaltungswirklichkeit (mit Hüseyin Sagkal)",
-  "title_en": "Open data between political promises and administrative reality (with Hüseyin Sagkal)",
-  "url": "https://www.vdz.org/oeffentliche-it-infrastruktur-cloud-zukunftstechnologien/open-data-zwischen-politischen-versprechen",
-  "german": true
- },
- {
-  "date": "2019-09-06",
-  "type": "gastbeitrag",
-  "outlet": "Verwaltung der Zukunft",
-  "title_de": "Ein strategischerer Blick auf IT-Beschaffung",
-  "title_en": "A more strategic view of IT procurement",
-  "url": "https://www.vdz.org/vergabe-und-beschaffung/ein-strategischerer-blick-auf-it-beschaffung",
-  "german": true
- },
- {
-  "date": "2019-03",
-  "type": "gastbeitrag",
-  "outlet": "Kommune21",
-  "title_de": "Digitalisierung: Lösungen fürs Land (mit Nicole Opiela)",
-  "title_en": "Digitalisation: solutions for rural areas (with Nicole Opiela)",
-  "url": "/blog/2019-03-03-work-in-progress-report-on-rural-digital-initiatives-in-kommune21/",
-  "german": true
- },
- {
   "date": "2026-08-04",
   "type": "zitat",
   "outlet": "heise c't",
   "title_de": "Lässt sich der Staat von Beratern ausnehmen?",
   "title_en": "Is the state being fleeced by consultants?",
   "url": "https://infoservice.heise.de/html_mail.jsp?params=9bOo%2FqwkXzCgPjEIfxasFamrCqdtGuyR%2B8lqiGK2VAdrJOJ7lznXMAF%2B9VP3mE8brjr9%2BrSHGHVQyQKt7wyevyIP%2FVpOHVFvyiLa5%2FMsUbGe%2FkdyEskFvkb67Oy15zQB#aktuelle-debatte",
-  "german": true
- },
- {
-  "date": "2026-07-14",
-  "type": "gastbeitrag",
-  "outlet": "Kommune21",
-  "title_de": "Vibe Modeling zum Ausprobieren",
-  "title_en": "Vibe modelling to try out",
-  "url": "https://www.kommune21.de/k21-meldungen/vibe-modeling-zum-ausprobieren/",
   "german": true
  },
  {
@@ -261,33 +153,6 @@
   "german": true
  },
  {
-  "date": "2024-07-24",
-  "type": "kolumne",
-  "outlet": "Tagesspiegel Background",
-  "title_de": "Mit Wetteifer zum E-Gov-Glück?",
-  "title_en": "Competing your way to e-government bliss?",
-  "url": "https://background.tagesspiegel.de/smart-city-und-stadtentwicklung/briefing/mit-wetteifer-zum-e-gov-glueck",
-  "german": true
- },
- {
-  "date": "2024-04-30",
-  "type": "kolumne",
-  "outlet": "Tagesspiegel Background",
-  "title_de": "Wer liest E-Gov-Strategien und wozu?",
-  "title_en": "Who reads e-government strategies, and why?",
-  "url": "https://background.tagesspiegel.de/smart-city-und-stadtentwicklung/briefing/wer-liest-e-gov-strategien-und-wozu",
-  "german": true
- },
- {
-  "date": "2024-02-28",
-  "type": "kolumne",
-  "outlet": "Tagesspiegel Background",
-  "title_de": "Im Netzwerkgewirr der Verwaltungsmodernisierung",
-  "title_en": "In the network tangle of administrative modernisation",
-  "url": "https://background.tagesspiegel.de/smart-city-und-stadtentwicklung/briefing/im-netzwerkgewirr-der-verwaltungsmodernisierung",
-  "german": true
- },
- {
   "date": "2023-05-05",
   "type": "zitat",
   "outlet": "eGovernment",
@@ -306,30 +171,12 @@
   "german": true
  },
  {
-  "date": "2023-04-18",
-  "type": "kolumne",
-  "outlet": "Tagesspiegel Background",
-  "title_de": "Informationspolitik ölt die Umsetzungsmaschine",
-  "title_en": "Information policy oils the implementation machine",
-  "url": "https://background.tagesspiegel.de/smart-city-und-stadtentwicklung/briefing/informationspolitik-oelt-die-umsetzungsmaschine",
-  "german": true
- },
- {
   "date": "2023-03-27",
   "type": "bericht",
   "outlet": "Tagesspiegel Background",
   "title_de": "Wer den öffentlichen Sektor digital voranbringt (Young Leader in GovTech)",
   "title_en": "Who is driving the public sector's digitalisation (Young Leader in GovTech)",
   "url": "https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/wer-den-oeffentlichen-sektor-digital-voranbringt",
-  "german": true
- },
- {
-  "date": "2023-01-17",
-  "type": "kolumne",
-  "outlet": "Tagesspiegel Background",
-  "title_de": "Blind durch die Verwaltungsdigitalisierung",
-  "title_en": "Flying blind through administrative digitalisation",
-  "url": "https://background.tagesspiegel.de/smart-city-und-stadtentwicklung/briefing/blind-durch-die-verwaltungsdigitalisierung",
   "german": true
  },
  {
@@ -342,30 +189,12 @@
   "german": true
  },
  {
-  "date": "2022-04",
-  "type": "gastbeitrag",
-  "outlet": "Berliner Wirtschaft (IHK Berlin)",
-  "title_de": "Beitrag zu Robotic Process Automation (mit Sagkal)",
-  "title_en": "Article on robotic process automation (with Sagkal)",
-  "url": null,
-  "german": true
- },
- {
-  "date": "2021-11-16",
-  "type": "gastbeitrag",
-  "outlet": "Tagesspiegel Background",
-  "title_de": "Digitale Barrierefreiheit ist keine lästige Pflicht",
-  "title_en": "Digital accessibility is not a tiresome duty",
-  "url": "https://background.tagesspiegel.de/smart-city-und-stadtentwicklung/briefing/digitale-barrierefreiheit-ist-keine-laestige-pflicht",
-  "german": true
- },
- {
   "date": "2020-12-14",
   "type": "podcast",
   "outlet": "ÖFIT-Podcast",
   "title_de": "Folge 10: Digitalisierung ländlicher Räume",
   "title_en": "Episode 10: Digitalisation of rural areas",
-  "url": "https://www.oeffentliche-it.de/oefit-podcast",
+  "url": "https://www.oeffentliche-it.de/oefit-podcast/digitalisierung-laendlicher-raeume/",
   "german": true
  },
  {
@@ -441,15 +270,6 @@
   "german": true
  },
  {
-  "date": "2019-09-24",
-  "type": "gastbeitrag",
-  "outlet": "Behörden Spiegel",
-  "title_de": "Beitrag zur strategischen IT-Beschaffung",
-  "title_en": "Article on strategic IT procurement",
-  "url": "/blog/2019-09-24-article-on-strategic-it-procurement-in-behorden-spiegel/",
-  "german": true
- },
- {
   "date": "2018-10-23",
   "type": "video",
   "outlet": "Erfurter Stubenexpress",
@@ -468,39 +288,12 @@
   "german": true
  },
  {
-  "date": "2016-06-28",
-  "type": "gastbeitrag",
-  "outlet": "Asia Pacific Studies Blog (University of Nottingham)",
-  "title_de": "Philippine Democracy: Stuck at the Halfway House",
-  "title_en": "Philippine Democracy: Stuck at the Halfway House",
-  "url": "https://blogs.nottingham.ac.uk/asiapacificstudies/?p=5272",
-  "german": false
- },
- {
-  "date": "2016-01-14",
-  "type": "gastbeitrag",
-  "outlet": "SGVW-Blog",
-  "title_de": "Big Data in der Verwaltung: Chance mit Fallstricken",
-  "title_en": "Big data in public administration: an opportunity with pitfalls",
-  "url": "/blog/2016-01-14-blogging-about-big-data-in-government-for-the-swiss-society-for-administrative-sciences/",
-  "german": true
- },
- {
   "date": "2015-11-30",
   "type": "bericht",
   "outlet": "Potsdamer Neueste Nachrichten",
   "title_de": "Bericht über mein Promotionsprojekt",
   "title_en": "Report on my PhD project",
   "url": "http://www.pnn.de/campus/1029101/",
-  "german": true
- },
- {
-  "date": "2015-09-27",
-  "type": "gastbeitrag",
-  "outlet": "Märkische Allgemeine",
-  "title_de": "„Mein Projekt“: Kurzbeitrag zu meinem Promotionsprojekt",
-  "title_en": "“My project”: short piece on my PhD project",
-  "url": "/blog/2015-09-27-short-piece-about-my-phd-project-in-a-potsdam-local-newspaper/",
   "german": true
  },
  {
