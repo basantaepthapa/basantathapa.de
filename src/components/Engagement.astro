@@ -1,0 +1,33 @@
+---
+import Base from '../layouts/Base.astro';
+import Toc from './Toc.astro';
+import { routes, t } from '../i18n.js';
+import data from '../data/engagement.json';
+const { lang } = Astro.props;
+const s = t[lang];
+const de = lang === 'de';
+---
+<Base lang={lang} title={s.nav.engagement} current="engagement" alt={routes.engagement[de ? 'en' : 'de']}>
+  <h1>{s.nav.engagement}</h1>
+  <p class="note">{de
+    ? 'Neben meiner Arbeit engagiere ich mich in Gremien, Jurys und Netzwerken rund um die Digitalisierung der Verwaltung. Früher habe ich auch an Hochschulen unterrichtet.'
+    : 'Alongside my job, I serve on committees, juries and networks around digital government. Earlier on, I also taught at universities.'}</p>
+  <Toc lang={lang} items={data.map((c, i) => ({ id: `e-${i}`, label: c[lang] }))} />
+  {data.map((c, i) => (
+    <div class="cv-sec" id={`e-${i}`}>
+      <h3>{c[lang]}</h3>
+      <ul class="cv">
+        {c.items.map((e) => (
+          <li>
+            {e.when && <span class="when">{de ? e.when : e.when.replace('seit', 'since')}</span>}
+            <span class="what">
+              <strong>{e[`t_${lang}`]}</strong>
+              {e[`o_${lang}`] && <><br /><span>{e[`o_${lang}`]}</span></>}
+              {e[`n_${lang}`] && <><br /><span class="muted small">{e[`n_${lang}`]}</span></>}
+            </span>
+          </li>
+        ))}
+      </ul>
+    </div>
+  ))}
+</Base>

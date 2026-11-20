@@ -14,7 +14,8 @@ export function getStaticPaths() {
   map['/trainings/'] = '/archive/trainings/';
   map['/media-design/websites/'] = '/archive/websites/';
   map['/media-design/print-design/'] = '/archive/print-design/';
-  map['/academia-3/memberships/'] = '/archive/memberships/';
+  map['/academia-3/memberships/'] = '/engagement/';
+  map['/archive/memberships/'] = '/engagement/';
   return Object.entries(map)
     .filter(([from, to]) => from.startsWith('/') && !from.startsWith('/?') && from !== to)
     .map(([from, to]) => ({ params: { old: from.replace(/^\/|\/$/g, '') }, props: { to } }));

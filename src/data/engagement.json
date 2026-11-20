@@ -1,0 +1,194 @@
+[
+ {
+  "de": "Gremien und Jurys",
+  "en": "Committees and juries",
+  "items": [
+   {
+    "when": "2026",
+    "t_de": "Jurymitglied, Weißbuch Award",
+    "t_en": "Jury member, Weißbuch Award",
+    "o_de": "Behörden Spiegel und Stackfield",
+    "o_en": "Behörden Spiegel and Stackfield",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "2025",
+    "t_de": "Jurymitglied, Preis für gute Verwaltung",
+    "t_en": "Jury member, Prize for Good Administration",
+    "o_de": "Public Service Lab",
+    "o_en": "Public Service Lab",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "seit 2024",
+    "t_de": "Sachkundiges Mitglied",
+    "t_en": "Expert member",
+    "o_de": "Föderales IT-Standardisierungsboard",
+    "o_en": "Federal IT Standardisation Board",
+    "n_de": "",
+    "n_en": ""
+   }
+  ]
+ },
+ {
+  "de": "Ehrenamt",
+  "en": "Volunteering",
+  "items": [
+   {
+    "when": "2019–2022",
+    "t_de": "Gründer",
+    "t_en": "Founder",
+    "o_de": "N3GZ – Nachwuchsnetzwerk Digitale Verwaltung im NEGZ e. V.",
+    "o_en": "N3GZ – young professionals’ network for digital government at NEGZ",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "2014–2020",
+    "t_de": "Vorstand",
+    "t_en": "Board member",
+    "o_de": "asa-ff e. V. – Netzwerk für Globales Lernen",
+    "o_en": "asa-ff e. V. – network for global learning",
+    "n_de": "Verantwortlich für Finanzen und Freiwilligenmanagement",
+    "n_en": "Responsible for finance and volunteer management"
+   },
+   {
+    "when": "2010–2014",
+    "t_de": "Ehrenamtlicher",
+    "t_en": "Volunteer",
+    "o_de": "ASA-Programm",
+    "o_en": "ASA programme",
+    "n_de": "Gewählter Ehrenamtlichenvertreter, Tutor der Stipendiat:innen",
+    "n_en": "Elected volunteer representative, tutor for scholarship holders"
+   }
+  ]
+ },
+ {
+  "de": "Mitgliedschaften",
+  "en": "Memberships",
+  "items": [
+   {
+    "when": "seit 2019",
+    "t_de": "D64 – Zentrum für Digitalen Fortschritt",
+    "t_en": "D64 – Centre for Digital Progress",
+    "o_de": "",
+    "o_en": "",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "",
+    "t_de": "NEGZ – Kompetenznetzwerk Digitale Verwaltung",
+    "t_en": "NEGZ – Competence Network for Digital Government",
+    "o_de": "",
+    "o_en": "",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "",
+    "t_de": "N3GZ – Nachwuchsnetzwerk Digitale Verwaltung",
+    "t_en": "N3GZ – young professionals’ network for digital government",
+    "o_de": "",
+    "o_en": "",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "",
+    "t_de": "Arbeitsgemeinschaft für wirtschaftliche Verwaltung (AWV)",
+    "t_en": "Arbeitsgemeinschaft für wirtschaftliche Verwaltung (AWV)",
+    "o_de": "",
+    "o_en": "",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "",
+    "t_de": "Hertie Network on Digitalization",
+    "t_en": "Hertie Network on Digitalization",
+    "o_de": "",
+    "o_en": "",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "",
+    "t_de": "Deutsche Vereinigung für Politikwissenschaft (DVPW)",
+    "t_en": "German Political Science Association (DVPW)",
+    "o_de": "",
+    "o_en": "",
+    "n_de": "Sektion Policy-Analyse und Verwaltungswissenschaft, Forum Junge Staats-, Policy- und Verwaltungsforschung, Themengruppe Internet und Politik",
+    "n_en": "Section on policy analysis and public administration, Forum of Young Policy and Public Administration Researchers, topic group on internet and politics"
+   },
+   {
+    "when": "",
+    "t_de": "ECPR Research Network on Knowledge and Governance",
+    "t_en": "ECPR Research Network on Knowledge and Governance",
+    "o_de": "European Consortium for Political Research",
+    "o_en": "European Consortium for Political Research",
+    "n_de": "",
+    "n_en": ""
+   }
+  ]
+ },
+ {
+  "de": "Hochschullehre",
+  "en": "University teaching",
+  "items": [
+   {
+    "when": "2017",
+    "t_de": "Lehrauftrag „Digital Campaigning und Big Data im kommunalen Wahlkampf“",
+    "t_en": "Lecturer, “Digital campaigning and big data in local election campaigns”",
+    "o_de": "Humboldt-Universität zu Berlin, BA Informationswissenschaft",
+    "o_en": "Humboldt University of Berlin, BA Information Science",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "2016",
+    "t_de": "Lehrauftrag „Open und Smart? Digitalisierungsstrategien der Verwaltung“",
+    "t_en": "Lecturer, “Open and smart? Digital strategies in public administration”",
+    "o_de": "Universität Potsdam, BA Politik und Verwaltung",
+    "o_en": "University of Potsdam, BA Politics and Administration",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "2015",
+    "t_de": "Lehrauftrag „Qualitative Research Methods“",
+    "t_en": "Lecturer, “Qualitative Research Methods”",
+    "o_de": "Hochschule Merseburg, BA Soziale Arbeit",
+    "o_en": "Merseburg University of Applied Sciences, BA Social Work",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "2013–2014",
+    "t_de": "„Electronic Governance: Better Governance Through ICT?“ und „Public Management II“",
+    "t_en": "“Electronic Governance: Better Governance Through ICT?” and “Public Management II”",
+    "o_de": "Hertie School of Governance, Master of Public Policy",
+    "o_en": "Hertie School of Governance, Master of Public Policy",
+    "n_de": "Kurskonzeption und Benotung für Prof. Björn Niehaves",
+    "n_en": "Course design and grading for Prof. Björn Niehaves"
+   }
+  ]
+ },
+ {
+  "de": "Gutachtertätigkeit",
+  "en": "Peer review",
+  "items": [
+   {
+    "when": "",
+    "t_de": "Fachzeitschriften und Konferenzen",
+    "t_en": "Journals and conferences",
+    "o_de": "Public Administration · Information Polity · Internet Policy Review · International Journal of Public Administration in the Digital Age · Politikon – The IAPSS Journal of Political Science · Key Issues · Hawaii International Conference on System Sciences · Internationale Tagung Wirtschaftsinformatik",
+    "o_en": "Public Administration · Information Polity · Internet Policy Review · International Journal of Public Administration in the Digital Age · Politikon – The IAPSS Journal of Political Science · Key Issues · Hawaii International Conference on System Sciences · International Conference on Wirtschaftsinformatik",
+    "n_de": "",
+    "n_en": ""
+   }
+  ]
+ }
+]

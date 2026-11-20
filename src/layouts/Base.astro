@@ -11,7 +11,7 @@ const { lang = 'de', title, description = '', current = '', alt, contentLang } =
 const s = t[lang];
 const other = lang === 'de' ? 'en' : 'de';
 const altHref = alt ?? routes.home[other];
-const navKeys = ['about', 'blog', 'pubs', 'talks', 'press', 'contact'];
+const navKeys = ['about', 'blog', 'pubs', 'talks', 'press', 'engagement', 'contact'];
 const fullTitle = title ? `${title} · Basanta Thapa` : 'Basanta Thapa';
 const canonical = new URL(Astro.url.pathname, Astro.site);
 ---
