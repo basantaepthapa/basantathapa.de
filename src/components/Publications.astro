@@ -13,6 +13,7 @@ const names = {
   'Conference proceedings': 'Tagungsbeiträge',
   'Reports/White Papers/Working Papers': 'Studien, Whitepaper und Working Papers',
 };
+const firstLink = (text) => (text.match(/\]\(([^)\s]+)\)/) || [])[1];
 const groups = [];
 for (const e of pubs) {
   let g = groups.find((x) => x.name === e.section);
@@ -27,7 +28,14 @@ for (const e of pubs) {
     <section>
       <h3>{de ? (names[g.name] ?? g.name) : g.name.replace('/', ', ').replace('/', ' and ')}</h3>
       <ul class="entries" lang="en">
-        {g.items.map((e) => <li set:html={marked.parseInline(e.text)} />)}
+        {g.items.map((e) => (
+          <li class="pub">
+            <a class="pub-thumb" href={firstLink(e.text)} tabindex="-1" aria-hidden="true">
+              <img src={e.thumb} alt="" loading="lazy" />
+            </a>
+            <div set:html={marked.parseInline(e.text)} />
+          </li>
+        ))}
       </ul>
     </section>
   ))}

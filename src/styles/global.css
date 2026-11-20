@@ -95,3 +95,9 @@ h3 { font-weight: 700; font-size: 19px; margin: 28px 0 8px; }
 /* footer */
 .site-footer .wrap { border-top: 1px solid var(--ln); padding-top: 20px; padding-bottom: 32px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 16px; font-size: 14px; color: var(--mu); }
 .site-footer a { color: var(--mu); }
+
+/* publications with cover thumbnails */
+.entries li.pub { display: flex; gap: 16px; align-items: flex-start; }
+.pub-thumb { flex: none; width: 64px; }
+.pub-thumb img { display: block; width: 64px; height: 88px; object-fit: cover; object-position: top; border: 1px solid var(--ln); border-radius: 3px; background: #fff; transition: transform .15s; }
+.pub-thumb:hover img { transform: translateY(-2px); box-shadow: 0 4px 10px rgba(31,38,45,.12); }
