@@ -1,0 +1,467 @@
+[
+ {
+  "de": "Beruf",
+  "en": "Work",
+  "items": [
+   {
+    "when": "seit 2022",
+    "t_de": "Geschäftsführer",
+    "t_en": "Managing Director",
+    "o_de": "NEGZ – Kompetenznetzwerk Digitale Verwaltung, Berlin",
+    "o_en": "NEGZ – Competence Network for Digital Government, Berlin",
+    "n_de": "Netzwerkmanagement, Veranstaltungen, Publikationen, Öffentlichkeitsarbeit, personelle und kaufmännische Leitung",
+    "n_en": "Network management, events, publications, communications, staff and financial management"
+   },
+   {
+    "when": "2018–2022",
+    "t_de": "Senior Scientist",
+    "t_en": "Senior Scientist",
+    "o_de": "Kompetenzzentrum Öffentliche IT (ÖFIT), Fraunhofer FOKUS, Berlin",
+    "o_en": "Competence Center Public IT (ÖFIT), Fraunhofer FOKUS, Berlin",
+    "n_de": "Forschung, Politikberatung und Wissenstransfer zur Digitalisierung von Staat und Verwaltung",
+    "n_en": "Research, policy advice and knowledge transfer on digital government"
+   },
+   {
+    "when": "2017",
+    "t_de": "Gastdoktorand",
+    "t_en": "Visiting PhD researcher",
+    "o_de": "Ragnar Nurkse Department of Innovation and Governance, TU Tallinn",
+    "o_en": "Ragnar Nurkse Department of Innovation and Governance, Tallinn University of Technology",
+    "n_de": "Mit DoRa-Plus-Stipendium der Archimedes Foundation",
+    "n_en": "With a DoRa Plus scholarship from the Archimedes Foundation"
+   },
+   {
+    "when": "2013–2014",
+    "t_de": "Visiting Researcher und wissenschaftlicher Mitarbeiter",
+    "t_en": "Visiting researcher and research associate",
+    "o_de": "Hertie School of Governance, Berlin, und European Research Center for Information Systems, Münster",
+    "o_en": "Hertie School of Governance, Berlin, and European Research Center for Information Systems, Münster",
+    "n_de": "Forschung, Drittmittelakquise und Lehre zur Verwaltungsdigitalisierung am Lehrstuhl von Prof. Björn Niehaves",
+    "n_en": "Research, grant acquisition and teaching on digital government with Prof. Björn Niehaves"
+   },
+   {
+    "when": "2013",
+    "t_de": "Wirtschaftstrainee",
+    "t_en": "Business trainee",
+    "o_de": "Deutsch-Indonesische Industrie- und Handelskammer, Jakarta",
+    "o_en": "German-Indonesian Chamber of Industry and Commerce, Jakarta",
+    "n_de": "Marktanalysen zu erneuerbaren Energien, Betreuung von Wirtschaftsdelegationen",
+    "n_en": "Market analyses on renewable energy, support for business delegations"
+   },
+   {
+    "when": "seit 2012",
+    "t_de": "Freiberuflicher Berater",
+    "t_en": "Freelance consultant",
+    "o_de": "Wissenschaftliche und wissenschaftsnahe Dienstleistungen",
+    "o_en": "Research and research-related services",
+    "n_de": "u. a. für GIZ, Engagement Global, adelphi, European Liberal Forum, Fraunhofer-Gesellschaft, BMAS und Agora Digitale Transformation",
+    "n_en": "Clients include GIZ, Engagement Global, adelphi, European Liberal Forum, Fraunhofer-Gesellschaft, the Federal Ministry of Labour and Social Affairs and Agora Digitale Transformation"
+   },
+   {
+    "when": "2010",
+    "t_de": "Research Consultant",
+    "t_en": "Research consultant",
+    "o_de": "AFOS-Stiftung, Cebu (Philippinen)",
+    "o_en": "AFOS Foundation, Cebu (Philippines)",
+    "n_de": "Feldstudie „Microfinance as a Chamber Service“, mit Stipendium des ASA-Programms",
+    "n_en": "Field study “Microfinance as a Chamber Service”, with an ASA programme scholarship"
+   },
+   {
+    "when": "2009",
+    "t_de": "Praktikant",
+    "t_en": "Intern",
+    "o_de": "Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ), Eschborn",
+    "o_en": "German Agency for Technical Cooperation (GTZ), Eschborn",
+    "n_de": "Studien und Strategieentwicklung im Bereich „Nachhaltige Wirtschaftsentwicklung“",
+    "n_en": "Studies and strategy development in the sustainable economic development unit"
+   },
+   {
+    "when": "2008",
+    "t_de": "Werkstudent",
+    "t_en": "Working student",
+    "o_de": "Inhouse Consulting der KfW Bankengruppe, Frankfurt am Main",
+    "o_en": "KfW Group in-house consulting, Frankfurt am Main",
+    "n_de": "Geschäftsprozessmodellierung und Einführung eines Dokumentenmanagementsystems",
+    "n_en": "Business process modelling and introduction of a document management system"
+   },
+   {
+    "when": "2007",
+    "t_de": "Praktikant",
+    "t_en": "Intern",
+    "o_de": "Industrie- und Unternehmensförderung der IHK Nord Westfalen, Münster",
+    "o_en": "Business development unit, IHK Nord Westfalen, Münster",
+    "n_de": "Unternehmensumfragen, Internetredaktion, Gründungsberatung",
+    "n_en": "Business surveys, web editing, start-up advice"
+   },
+   {
+    "when": "2006–2009",
+    "t_de": "Studentische Hilfskraft",
+    "t_en": "Student assistant",
+    "o_de": "Dekanat der Rechtswissenschaftlichen Fakultät, Universität Münster",
+    "o_en": "Dean’s office, Faculty of Law, University of Münster",
+    "n_de": "Print- und Webdesign, IT-Betreuung",
+    "n_en": "Print and web design, IT support"
+   },
+   {
+    "when": "2005–2011",
+    "t_de": "Geschäftsführender Gesellschafter",
+    "t_en": "Managing partner",
+    "o_de": "Verlagshaus Lahure Kitab, Bergisch Gladbach",
+    "o_en": "Lahure Kitab publishing house, Bergisch Gladbach",
+    "n_de": "Kaufmännische Steuerung, Logistik und Öffentlichkeitsarbeit für Literatur aus und über Nepal",
+    "n_en": "Finance, logistics and communications for literature from and about Nepal"
+   },
+   {
+    "when": "2005–2006",
+    "t_de": "Zivildienst",
+    "t_en": "Civilian service",
+    "o_de": "Rheinische Förderschule Rösrath",
+    "o_en": "Rheinische Förderschule Rösrath (special needs school)",
+    "n_de": "Pflege, Hausmeisterei, Unterrichtsassistenz; gewählter Vertrauensmann",
+    "n_en": "Care, caretaking and classroom assistance; elected representative"
+   },
+   {
+    "when": "2005",
+    "t_de": "Praktikant",
+    "t_en": "Intern",
+    "o_de": "Deutscher Entwicklungsdienst (DED), Bonn",
+    "o_en": "German Development Service (DED), Bonn",
+    "n_de": "Referat „Asien und Arabische Länder“",
+    "n_en": "Asia and Arab countries department"
+   },
+   {
+    "when": "2003–2005",
+    "t_de": "Freier IT-Berater",
+    "t_en": "Freelance IT consultant",
+    "o_de": "CompuThing, OperaThing GmbH, Hürth",
+    "o_en": "CompuThing, OperaThing GmbH, Hürth",
+    "n_de": "Webdesign, Datenbankprogrammierung und Hardware für kleine und mittlere Unternehmen",
+    "n_en": "Web design, database programming and hardware for small businesses"
+   }
+  ]
+ },
+ {
+  "de": "Ausbildung",
+  "en": "Education",
+  "items": [
+   {
+    "when": "2014–2017",
+    "t_de": "Promotionsstudium „Data-driven Government“ (ohne Abschluss)",
+    "t_en": "Doctoral studies on data-driven government (not completed)",
+    "o_de": "Universität Potsdam, DFG-Graduiertenkolleg „Wicked Problems, Contested Administrations“",
+    "o_en": "University of Potsdam, DFG research training group “Wicked Problems, Contested Administrations”",
+    "n_de": "Mit Promotionsstipendium der Deutschen Forschungsgemeinschaft",
+    "n_en": "With a doctoral scholarship from the German Research Foundation (DFG)"
+   },
+   {
+    "when": "2010–2013",
+    "t_de": "Master of Arts Verwaltungswissenschaft",
+    "t_en": "MA Public Policy and Management",
+    "o_de": "Universität Potsdam",
+    "o_en": "University of Potsdam",
+    "n_de": "Masterarbeit über Industrie- und Handelskammern und Demokratisierung auf den Philippinen",
+    "n_en": "Thesis on chambers of commerce and democratisation in the Philippines"
+   },
+   {
+    "when": "2006–2010",
+    "t_de": "Bachelor of Arts Politik und Wirtschaft",
+    "t_en": "BA Politics and Economics",
+    "o_de": "WWU Münster",
+    "o_en": "University of Münster",
+    "n_de": "Bachelorarbeit über Mikrofinanz und Entwicklungsbanken",
+    "n_en": "Thesis on microfinance and development banks"
+   },
+   {
+    "when": "2005",
+    "t_de": "Abitur",
+    "t_en": "Abitur (university entrance qualification)",
+    "o_de": "Albertus-Magnus-Gymnasium Bensberg",
+    "o_en": "Albertus-Magnus-Gymnasium Bensberg",
+    "n_de": "",
+    "n_en": ""
+   }
+  ]
+ },
+ {
+  "de": "Hochschullehre",
+  "en": "University teaching",
+  "items": [
+   {
+    "when": "2017",
+    "t_de": "Lehrauftrag „Digital Campaigning und Big Data im kommunalen Wahlkampf“",
+    "t_en": "Lecturer, “Digital campaigning and big data in local election campaigns”",
+    "o_de": "Humboldt-Universität zu Berlin, BA Informationswissenschaft",
+    "o_en": "Humboldt University of Berlin, BA Information Science",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "2016",
+    "t_de": "Lehrauftrag „Open und Smart? Digitalisierungsstrategien der Verwaltung“",
+    "t_en": "Lecturer, “Open and smart? Digital strategies in public administration”",
+    "o_de": "Universität Potsdam, BA Politik und Verwaltung",
+    "o_en": "University of Potsdam, BA Politics and Administration",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "2015",
+    "t_de": "Lehrauftrag „Qualitative Research Methods“",
+    "t_en": "Lecturer, “Qualitative Research Methods”",
+    "o_de": "Hochschule Merseburg, BA Soziale Arbeit",
+    "o_en": "Merseburg University of Applied Sciences, BA Social Work",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "2013–2014",
+    "t_de": "„Electronic Governance: Better Governance Through ICT?“ und „Public Management II“",
+    "t_en": "“Electronic Governance: Better Governance Through ICT?” and “Public Management II”",
+    "o_de": "Hertie School of Governance, Master of Public Policy",
+    "o_en": "Hertie School of Governance, Master of Public Policy",
+    "n_de": "Kurskonzeption und Benotung für Prof. Björn Niehaves",
+    "n_en": "Course design and grading for Prof. Björn Niehaves"
+   }
+  ]
+ },
+ {
+  "de": "Ehrenamt",
+  "en": "Volunteering",
+  "items": [
+   {
+    "when": "2026",
+    "t_de": "Jurymitglied, Weißbuch Award",
+    "t_en": "Jury member, Weißbuch Award",
+    "o_de": "Behörden Spiegel und Stackfield",
+    "o_en": "Behörden Spiegel and Stackfield",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "2025",
+    "t_de": "Jurymitglied, Preis für gute Verwaltung",
+    "t_en": "Jury member, Prize for Good Administration",
+    "o_de": "Public Service Lab",
+    "o_en": "Public Service Lab",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "seit 2024",
+    "t_de": "Sachkundiges Mitglied",
+    "t_en": "Expert member",
+    "o_de": "Föderales IT-Standardisierungsboard",
+    "o_en": "Federal IT Standardisation Board",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "2019–2022",
+    "t_de": "Gründer",
+    "t_en": "Founder",
+    "o_de": "N3GZ – Nachwuchsnetzwerk Digitale Verwaltung im NEGZ e. V.",
+    "o_en": "N3GZ – young professionals’ network for digital government at NEGZ",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "seit 2019",
+    "t_de": "Mitglied",
+    "t_en": "Member",
+    "o_de": "D64 – Zentrum für Digitalen Fortschritt",
+    "o_en": "D64 – Centre for Digital Progress",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "2014–2020",
+    "t_de": "Vorstand",
+    "t_en": "Board member",
+    "o_de": "asa-ff e. V. – Netzwerk für Globales Lernen",
+    "o_en": "asa-ff e. V. – network for global learning",
+    "n_de": "Verantwortlich für Finanzen und Freiwilligenmanagement",
+    "n_en": "Responsible for finance and volunteer management"
+   },
+   {
+    "when": "2010–2014",
+    "t_de": "Ehrenamtlicher",
+    "t_en": "Volunteer",
+    "o_de": "ASA-Programm",
+    "o_en": "ASA programme",
+    "n_de": "Gewählter Ehrenamtlichenvertreter, Tutor der Stipendiat:innen",
+    "n_en": "Elected volunteer representative, tutor for scholarship holders"
+   }
+  ]
+ },
+ {
+  "de": "Auszeichnungen und Stipendien",
+  "en": "Awards and scholarships",
+  "items": [
+   {
+    "when": "2023",
+    "t_de": "Young Leader in GovTech Award",
+    "t_en": "Young Leader in GovTech Award",
+    "o_de": "Possible und Handelsblatt, Kategorie Zivilgesellschaft und Wissenschaft",
+    "o_en": "Possible and Handelsblatt, civil society and research category",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "2022",
+    "t_de": "3. Platz, Science Dialog",
+    "t_en": "3rd place, Science Dialog",
+    "o_de": "Praxisrelevante Forschungsprojekte zur Verwaltungsdigitalisierung",
+    "o_en": "Practice-oriented research projects on digital government",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "2019",
+    "t_de": "N3GZ Poster Award",
+    "t_en": "N3GZ Poster Award",
+    "o_de": "Innovativstes Projekt beim Nachwuchstreffen des NEGZ",
+    "o_en": "Most innovative project at the NEGZ young professionals’ meeting",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "2017",
+    "t_de": "DoRa Plus Visiting PhD Researcher Scholarship",
+    "t_en": "DoRa Plus Visiting PhD Researcher Scholarship",
+    "o_de": "Viermonatiger Forschungsaufenthalt an der TU Tallinn",
+    "o_en": "Four-month research stay at Tallinn University of Technology",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "2016",
+    "t_de": "Best Talk Award Sozialwissenschaften",
+    "t_en": "Best Talk Award, social sciences",
+    "o_de": "Potsdam PhDay",
+    "o_en": "Potsdam PhDay",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "2015",
+    "t_de": "Valerie Gregg International Student Scholarship",
+    "t_en": "Valerie Gregg International Student Scholarship",
+    "o_de": "Digital Government Conference, Phoenix (Arizona)",
+    "o_en": "Digital Government Conference, Phoenix, Arizona",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "2015",
+    "t_de": "Best Lightning Talk Award",
+    "t_en": "Best Lightning Talk Award",
+    "o_de": "Herrenhausen-Konferenz „Big Data in Transdisciplinary Perspective“, Hannover",
+    "o_en": "Herrenhausen Conference “Big Data in Transdisciplinary Perspective”, Hanover",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "2014",
+    "t_de": "Promotionsstipendium",
+    "t_en": "Doctoral scholarship",
+    "o_de": "Deutsche Forschungsgemeinschaft, Graduiertenkolleg „Wicked Problems, Contested Administrations“",
+    "o_en": "German Research Foundation, research training group “Wicked Problems, Contested Administrations”",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "2013",
+    "t_de": "ICEGOV-Stipendium",
+    "t_en": "ICEGOV scholarship",
+    "o_de": "International Conference on Theory and Practice of Electronic Governance, Seoul",
+    "o_en": "International Conference on Theory and Practice of Electronic Governance, Seoul",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "2012",
+    "t_de": "DAAD-PROMOS-Reisestipendium",
+    "t_en": "DAAD PROMOS travel grant",
+    "o_de": "Dreimonatiger Forschungsaufenthalt auf den Philippinen",
+    "o_en": "Three-month research stay in the Philippines",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "2010",
+    "t_de": "oikos Sustainability Thesis Award",
+    "t_en": "oikos Sustainability Thesis Award",
+    "o_de": "Für die Bachelorarbeit über Mikrofinanz",
+    "o_en": "For my bachelor’s thesis on microfinance",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "2010",
+    "t_de": "Stipendium des ASA-Programms",
+    "t_en": "ASA programme scholarship",
+    "o_de": "Dreimonatiges Forschungspraktikum auf den Philippinen",
+    "o_en": "Three-month research internship in the Philippines",
+    "n_de": "",
+    "n_en": ""
+   }
+  ]
+ },
+ {
+  "de": "Weiterbildung",
+  "en": "Training",
+  "items": [
+   {
+    "when": "2026",
+    "t_de": "Leadership and Management Training",
+    "t_en": "Leadership and Management Training",
+    "o_de": "Think Tank Lab (DGAP und MERICS)",
+    "o_en": "Think Tank Lab (DGAP and MERICS)",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "2020–2021",
+    "t_de": "Zertifikat Wissenschaftskommunikation",
+    "t_en": "Certificate in science communication",
+    "o_de": "Potsdam Graduate School",
+    "o_en": "Potsdam Graduate School",
+    "n_de": "156 Unterrichtsstunden, u. a. Strategische Wissenschaftskommunikation, Datenvisualisierung, Medientraining, Wissenschaftliche Politikberatung",
+    "n_en": "156 hours, including strategic science communication, data visualisation, media training and scientific policy advice"
+   },
+   {
+    "when": "2018–2019",
+    "t_de": "Entwicklungsprogramm für Führungskompetenzen in der agilen und digitalen Welt",
+    "t_en": "Leadership development programme for the agile and digital world",
+    "o_de": "LEAD Academy",
+    "o_en": "LEAD Academy",
+    "n_de": "",
+    "n_en": ""
+   },
+   {
+    "when": "seit 2010",
+    "t_de": "Zertifikat Politikmanagement",
+    "t_en": "Certificate in political management",
+    "o_de": "Heinrich-Böll-Stiftung",
+    "o_en": "Heinrich Böll Foundation",
+    "n_de": "u. a. Projektmanagement, agile Methoden, Moderation, Verhandlung, Konfliktmanagement",
+    "n_en": "Including project management, agile methods, facilitation, negotiation and conflict management"
+   }
+  ]
+ },
+ {
+  "de": "Sprachen",
+  "en": "Languages",
+  "items": [
+   {
+    "when": "",
+    "t_de": "Deutsch (Muttersprache), Englisch (C2), Französisch (A2), Hebraicum, Latinum",
+    "t_en": "German (native), English (C2), French (A2), Hebraicum, Latinum",
+    "o_de": "",
+    "o_en": "",
+    "n_de": "",
+    "n_en": ""
+   }
+  ]
+ }
+]

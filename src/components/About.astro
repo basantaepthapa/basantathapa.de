@@ -1,6 +1,8 @@
 ---
 import Base from '../layouts/Base.astro';
 import { routes, t } from '../i18n.js';
+import Toc from './Toc.astro';
+import cv from '../data/cv.json';
 const { lang } = Astro.props;
 const s = t[lang];
 const de = lang === 'de';
@@ -33,12 +35,25 @@ const archive = [
 
     <section>
       <h2>{de ? 'Stationen' : 'Career'}</h2>
-      <ul class="cv">
-        <li><span class="when">{de ? 'seit 2022' : 'since 2022'}</span><span class="what"><strong>{de ? 'Geschäftsführer' : 'Managing Director'}, NEGZ</strong><br /><span class="muted">{de ? 'Kompetenznetzwerk Digitale Verwaltung' : 'Competence Network for Digital Government'}</span></span></li>
-        <li><span class="when">2018–2022</span><span class="what"><strong>Senior Scientist, Fraunhofer FOKUS</strong><br /><span class="muted">{de ? 'Kompetenzzentrum Öffentliche IT' : 'Competence Center Public IT'}</span></span></li>
-        <li><span class="when">{de ? 'ab 2014' : 'from 2014'}</span><span class="what"><strong>{de ? 'Promotionsstudium „Data-driven Government“' : 'Doctoral research on data-driven government'}</strong><br /><span class="muted">{de ? 'Universität Potsdam, DFG-Graduiertenkolleg' : 'University of Potsdam, DFG research training group'}</span></span></li>
-        <li><span class="when">{de ? 'Studium' : 'Studies'}</span><span class="what"><strong>{de ? 'Master Verwaltungswissenschaft' : 'MA Public Policy and Management'}</strong>, {de ? 'Universität Potsdam' : 'University of Potsdam'}<br /><strong>{de ? 'Bachelor Politik und Wirtschaft' : 'BA Politics and Economics'}</strong>, {de ? 'WWU Münster' : 'University of Münster'}<br /><a class="small" href={de ? '/archiv/kurse/' : '/archive/courses/'}>{de ? 'Lehrveranstaltungen, Hausarbeiten und Abschlussarbeiten →' : 'Courses, term papers and theses →'}</a></span></li>
-      </ul>
+      <Toc lang={lang} items={cv.map((c, i) => ({ id: `cv-${i}`, label: c[lang] }))} />
+      {cv.map((c, i) => (
+        <div class="cv-sec" id={`cv-${i}`}>
+          <h3>{c[lang]}</h3>
+          <ul class="cv">
+            {c.items.map((e) => (
+              <li>
+                {e.when && <span class="when">{e.when.replace('seit', de ? 'seit' : 'since')}</span>}
+                <span class="what">
+                  <strong>{e[`t_${lang}`]}</strong>
+                  {e[`o_${lang}`] && <><br /><span>{e[`o_${lang}`]}</span></>}
+                  {e[`n_${lang}`] && <><br /><span class="muted small">{e[`n_${lang}`]}</span></>}
+                </span>
+              </li>
+            ))}
+          </ul>
+          {i === 1 && <p class="small cv-more"><a href={de ? '/archiv/kurse/' : '/archive/courses/'}>{de ? 'Lehrveranstaltungen, Hausarbeiten und Abschlussarbeiten aus dem Studium →' : 'Courses, term papers and theses from my studies →'}</a></p>}
+        </div>
+      ))}
     </section>
 
     <section>
