@@ -60,6 +60,17 @@
       "teachers": "Prof. Edeling",
       "notes": [
        "As part of this course, I produced a [presentation on privatization of water services](/uploads/THAPA-Privatisierung-der-Wasserversorgung.pdf) (German)."
+      ],
+      "papers": [
+       {
+        "kind": "Term paper",
+        "lang": "German",
+        "year": 2011,
+        "title": "Ver- und Entstaatlichung in der deutschen Entwicklungszusammenarbeit – Bestandsaufnahme mithilfe der Leistungstiefenanalyse und Erklärungsansatz durch den soziologischen Neoinstitutionalismus",
+        "url": "/uploads/THAPA-Ver-und-Entstaatlichung-in-der-deutschen-Entwicklungszusammenarbeit.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-Ver-und-Entstaatlichung-in-der-deutschen-Entwicklungszusammenarbeit.jpg",
+        "desc": "Analysis of denationalisation and nationalisation processes in German governmental development cooperation."
+       }
       ]
      },
      {
@@ -91,7 +102,18 @@
        "Public Management"
       ],
       "teachers": "Prof. Proeller",
-      "notes": []
+      "notes": [],
+      "papers": [
+       {
+        "kind": "Term paper",
+        "lang": "German",
+        "year": 2011,
+        "title": "Der Dynamic Capabilities-Ansatz und seine Schwachstellen – Kritik und Lösungsvorschlag durch Theorieintegration mit dem Konzept des Organisationalen Lernens",
+        "url": "/uploads/THAPA-Der-Dynamic-Capabilities-Ansatz-und-seine-Schwachstellen.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-Der-Dynamic-Capabilities-Ansatz-und-seine-Schwachstellen.jpg",
+        "desc": "A critical introduction to the concept of dynamic capabilities and its weakest points, linking it with the theory of organisational learning."
+       }
+      ]
      },
      {
       "title": "Training Research Project on Case Studies in Public Management",
@@ -128,7 +150,7 @@
       ],
       "teachers": "",
       "notes": [
-       "A mock consulting job for []init[ AG](http://www.init.de/en), where my group conducted a study on mobile citizen services in German municipalities."
+       "A mock consulting job for [\\]init\\[ AG](http://www.init.de/en), where my group conducted a study on mobile citizen services in German municipalities."
       ]
      },
      {
@@ -140,6 +162,17 @@
       "teachers": "Dr. Humborg",
       "notes": [
        "As part of the seminar, I produced a [presentation on associations as interest groups](/uploads/THAPA-Interessenvertretung-durch-Verbaende.pdf) (in German)."
+      ],
+      "papers": [
+       {
+        "kind": "Term paper",
+        "lang": "German",
+        "year": 2012,
+        "title": "Niedergang der Verbände durch unzufriedene Mitglieder? – Argumentationsmuster der internen Kritik an den Industrie- und Handelskammern in Deutschland",
+        "url": "/uploads/2014/08/THAPA-Niedergang-der-Verbaende-durch-unzufriedene-Mitglieder.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-Niedergang-der-Verbaende-durch-unzufriedene-Mitglieder.jpg",
+        "desc": "Qualitative content analysis of patterns of argumentation among dissidents in German chambers of commerce and industry."
+       }
       ]
      },
      {
@@ -150,6 +183,17 @@
       "teachers": "Dr. Proske",
       "notes": [
        "As part of the seminar, I produced a [presentation on apps and portals in m-government](/uploads/THAPA-Portal-oder-Apps-M-Government-Praesentation.pdf) (in German)."
+      ],
+      "papers": [
+       {
+        "kind": "Term paper",
+        "lang": "German",
+        "year": 2012,
+        "title": "Portal oder Apps? – Welches Gestaltungsprinzip für Open Government- und Open Government Data-Anwendungen auf mobilen Datengeräten?",
+        "url": "/uploads/THAPA-Portal-oder-Apps.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-Portal-oder-Apps.jpg",
+        "desc": "A comparison of the design principles of portals and apps for e-government via mobile technologies."
+       }
       ]
      }
     ]
@@ -196,6 +240,28 @@
       ],
       "teachers": "Laura Stielike",
       "notes": []
+     }
+    ]
+   },
+   {
+    "name": "2012",
+    "courses": [
+     {
+      "title": "Master's thesis",
+      "fields": [],
+      "teachers": "",
+      "notes": [],
+      "papers": [
+       {
+        "kind": "",
+        "lang": "English",
+        "year": 2012,
+        "title": "Ambivalent civil society in democratic consolidation − The case of local chambers of commerce and industry in the Visayas and Northern Mindanao",
+        "url": "/uploads/2014/08/THAPA-MA-Ambivalent-civil-society-in-democratic-consolidation.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-MA-Ambivalent-civil-society-in-democratic-consolidation.jpg",
+        "desc": "Inquiry into the ambivalent roles civil society can play in democratisation processes, using the example of chambers of commerce in the Philippines."
+       }
+      ]
      }
     ]
    }
@@ -324,7 +390,18 @@
        "Political Economy"
       ],
       "teachers": "Prof. Young",
-      "notes": []
+      "notes": [],
+      "papers": [
+       {
+        "kind": "Term paper",
+        "lang": "German",
+        "year": 2008,
+        "title": "Potential und Grenzen des Mobile Banking – Bewertung der Erweiterung des Zugangs zu Finanzdienstleistungen durch den Mobilfunk am Beispiel Subsahara-Afrikas",
+        "url": "/uploads/THAPA-Potential-und-Grenzen-des-Mobile-Banking.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-Potential-und-Grenzen-des-Mobile-Banking.jpg",
+        "desc": "Assessment of the potential impact of mobile banking on the economies of Sub-Saharan Africa."
+       }
+      ]
      },
      {
       "title": "Modeling and Simulation: Software-supported Analysis",
@@ -389,7 +466,18 @@
        "Sustainability Studies"
       ],
       "teachers": "Prof. Fuchs",
-      "notes": []
+      "notes": [],
+      "papers": [
+       {
+        "kind": "Term paper",
+        "lang": "German",
+        "year": 2008,
+        "title": "Remittances und Schulbildung – Bewertung der Auswirkung von Remittances auf den Schulbesuch anhand von Fallstudien auf der Haushaltsebene",
+        "url": "/uploads/THAPA-Remittances-und-Schulbildung.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-Remittances-und-Schulbildung.jpg",
+        "desc": "Explores whether remittances raise the education levels of the receivers' children, comparing several household-level studies."
+       }
+      ]
      },
      {
       "title": "Introduction to Political Economy",
@@ -457,7 +545,18 @@
        "Development Studies"
       ],
       "teachers": "Prof. van den Boom",
-      "notes": []
+      "notes": [],
+      "papers": [
+       {
+        "kind": "Term paper",
+        "lang": "German",
+        "year": 2009,
+        "title": "Partnerschaft, Partizipation und Patronage – Die schwierige Kooperation von Nord- und Süd-NGOs unter besonderer Berücksichtigung asymmetrischer Ressourcenverteilung",
+        "url": "/uploads/THAPA-Partnerschaft-Partizipation-und-Patronage.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-Partnerschaft-Partizipation-und-Patronage.jpg",
+        "desc": "Examines relations between NGOs from developed and less developed countries and the factors that preclude negotiations on equal terms."
+       }
+      ]
      },
      {
       "title": "Crisis and Regulation in Global Financial Markets",
@@ -466,7 +565,18 @@
        "Social Studies of Finance"
       ],
       "teachers": "Prof. Young",
-      "notes": []
+      "notes": [],
+      "papers": [
+       {
+        "kind": "Term paper",
+        "lang": "English",
+        "year": 2008,
+        "title": "Is the Subprime Crisis Unique? – Historical Comparison of the Subprime Crisis",
+        "url": "/uploads/THAPA-Is-the-Subprime-Crisis-unique.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-Is-the-Subprime-Crisis-unique.jpg",
+        "desc": "Compares the subprime crisis with the Savings and Loans crisis, the Japanese banking crisis, the Asian crisis and the New Economy crash, using several models of financial crises."
+       }
+      ]
      },
      {
       "title": "Constitutional Economics",
@@ -474,7 +584,18 @@
        "Constitutional Economics"
       ],
       "teachers": "Prof. Müller",
-      "notes": []
+      "notes": [],
+      "papers": [
+       {
+        "kind": "Term paper",
+        "lang": "German",
+        "year": 2009,
+        "title": "Das Problem der konstitutionenökonomischen Legitimation der Umverteilung – Ein alternativer Ansatz unter Anwendung der konstitutionenökonomischen Theorie der öffentlichen Güter und des Homo Reciprocans",
+        "url": "/uploads/THAPA-Das-Problem-der-konstitutionenoekonomischen-Legitimation-der-Umverteilung.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-Das-Problem-der-konstitutionenoekonomischen-Legitimation-der-Umverteilung.jpg",
+        "desc": "Outlines a solution to the problem that redistribution poses for rational choice theory, using homo reciprocans and a constitutional theory of public goods."
+       }
+      ]
      },
      {
       "title": "Happiness Economics",
@@ -482,7 +603,18 @@
        "Happiness Economics"
       ],
       "teachers": "Prof. Müller",
-      "notes": []
+      "notes": [],
+      "papers": [
+       {
+        "kind": "Term paper",
+        "lang": "German",
+        "year": 2009,
+        "title": "Machen FOCJ glücklicher? – Eine kritische Darlegung eines alternativen Föderalismuskonzepts und seiner möglichen Happiness-Effekte",
+        "url": "/uploads/THAPA-Machen-FOCJ-gluecklicher.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-Machen-FOCJ-gluecklicher.jpg",
+        "desc": "Critical examination of Frey's alternative concept of federalism based on Functionally Overlapping Competing Jurisdictions and its possible effects on happiness."
+       }
+      ]
      }
     ]
    },
@@ -504,7 +636,18 @@
        "Nonprofit Studies"
       ],
       "teachers": "Prof. Dilger",
-      "notes": []
+      "notes": [],
+      "papers": [
+       {
+        "kind": "Term paper",
+        "lang": "German",
+        "year": 2009,
+        "title": "Labor Donations im Non-Profit-Sektor – Zur Anwendbarkeit der Labor Donation Hypothesis auf den vermeintlichen Lohnunterschied zwischen For-Profit- und Non-Profit-Sektor",
+        "url": "/uploads/THAPA-Labor-Donations-im-Non-Profit-Sektor.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-Labor-Donations-im-Non-Profit-Sektor.jpg",
+        "desc": "Examines whether the labour donation hypothesis explains supposed wage differences between for-profits and non-profits."
+       }
+      ]
      }
     ]
    },
@@ -519,6 +662,17 @@
       "teachers": "Prof. Müller",
       "notes": [
        "For the seminar, I produced a [presentation about homo economicus, its empirical anomalies, and alternative economic theories of behavior](/uploads/THAPA-Oekonomischer-Imperialismus1.pdf)"
+      ],
+      "papers": [
+       {
+        "kind": "Term paper",
+        "lang": "German",
+        "year": 2010,
+        "title": "Ökonomischer Imperialismus – oder: Kann die ökonomische Verhaltenstheorie alles erklären?",
+        "url": "/uploads/THAPA-Oekonomischer-Imperialismus.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-Oekonomischer-Imperialismus.jpg",
+        "desc": "Assessment of the imperialist position of behavioural economics within the social sciences, with special regard to its anomalies."
+       }
       ]
      },
      {
@@ -531,10 +685,63 @@
       "notes": []
      }
     ]
+   },
+   {
+    "name": "2010",
+    "courses": [
+     {
+      "title": "Bachelor's thesis",
+      "fields": [],
+      "teachers": "",
+      "notes": [],
+      "papers": [
+       {
+        "kind": "",
+        "lang": "English",
+        "year": 2010,
+        "title": "A Microfinance Revolution? – Microfinance and 1970s Development Banks Compared",
+        "url": "/uploads/THAPA_Microfinance_Revolution.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA_Microfinance_Revolution.jpg",
+        "desc": "Assesses how revolutionary microfinance really is, compared with state development banks in the era of state-led development, from a methodological, a scientific and a policy point of view."
+       }
+      ]
+     }
+    ]
    }
   ],
   "id": "ba",
   "place": "WWU Münster",
   "years": "2006–2010"
+ },
+ {
+  "name": "School",
+  "intro": "",
+  "terms": [
+   {
+    "name": "2004",
+    "courses": [
+     {
+      "title": "High school project paper",
+      "fields": [],
+      "teachers": "",
+      "notes": [],
+      "papers": [
+       {
+        "kind": "",
+        "lang": "English",
+        "year": 2004,
+        "title": "Non-Resident Nepalis as Investors in Nepal – An attempt to assess the real opportunities they offer",
+        "url": "/uploads/THAPA-NRNs-as-Investors-in-Nepal1.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-NRNs-as-Investors-in-Nepal1.jpg",
+        "desc": "Assessment of the Nepali diaspora's potential as investors in Nepal."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "id": "school",
+  "place": "",
+  "years": ""
  }
 ]

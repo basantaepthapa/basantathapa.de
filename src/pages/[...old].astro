@@ -9,6 +9,8 @@ export function getStaticPaths() {
   for (const a of archive) map[`/studies/${a}/`] = `/archive/${a}/`;
   map['/studies/ma-courses/'] = '/archive/courses/#ma';
   map['/archive/ma-courses/'] = '/archive/courses/#ma';
+  map['/studies/term-papers/'] = '/archive/courses/';
+  map['/archive/term-papers/'] = '/archive/courses/';
   map['/trainings/'] = '/archive/trainings/';
   map['/media-design/websites/'] = '/archive/websites/';
   map['/media-design/print-design/'] = '/archive/print-design/';
