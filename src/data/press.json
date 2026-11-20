@@ -171,6 +171,15 @@
   "german": true
  },
  {
+  "date": "2023-04-14",
+  "type": "podcast",
+  "outlet": "Unbürokratisch (eGovernment)",
+  "title_de": "Folge 5: Berlin, Digitalcheck, Bayern, Basanta Thapa, NIS2",
+  "title_en": "Episode 5: Berlin, digital check, Bavaria, Basanta Thapa, NIS2",
+  "url": "https://www.egovernment.de/unbuerokratisch-5-berlin-digitalcheck-bayern-basanta-thapa-a-af5d7980002eb2242314fec9213fdda3/",
+  "german": true
+ },
+ {
   "date": "2023-03-27",
   "type": "bericht",
   "outlet": "Tagesspiegel Background",
