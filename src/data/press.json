@@ -39,8 +39,8 @@
   "date": "2021-08-04",
   "type": "gastbeitrag",
   "outlet": "Verwaltung der Zukunft",
-  "title_de": "Digitale Souveränität des Staates",
-  "title_en": "Digital sovereignty of the state",
+  "title_de": "Digitale Souveränität des Staates (mit Niels Kölker)",
+  "title_en": "Digital sovereignty of the state (with Niels Kölker)",
   "url": "https://www.vdz.org/it-landschaft-markt-kooperationen/digitale-souveraenitaet-des-staates",
   "german": true
  },
@@ -393,6 +393,15 @@
   "title_de": "Interview zu Digitalisierung, KI und Big Data",
   "title_en": "Interview on digitalisation, AI and big data",
   "url": "https://youtu.be/79x1mJcLdiA",
+  "german": true
+ },
+ {
+  "date": "2018-06-07",
+  "type": "bericht",
+  "outlet": "Verwaltung der Zukunft",
+  "title_de": "„Das war mal etwas anderes!“ – Barcamp U30 zum Zukunftskongress Staat & Verwaltung",
+  "title_en": "“That was something different!” – Barcamp U30 at the Zukunftskongress Staat & Verwaltung",
+  "url": "https://www.vdz.org/transformation/das-war-mal-etwas-anderes",
   "german": true
  },
  {
