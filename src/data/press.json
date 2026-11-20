@@ -111,8 +111,8 @@
   "date": "2020-04-23",
   "type": "gastbeitrag",
   "outlet": "Verwaltung der Zukunft",
-  "title_de": "Evidenzbasiert steuern",
-  "title_en": "Evidence-based steering",
+  "title_de": "Evidenzbasiert steuern (mit Hüseyin Sagkal)",
+  "title_en": "Evidence-based steering (with Hüseyin Sagkal)",
   "url": "https://www.vdz.org/digitalisierung-von-staat-verwaltung/evidenzbasiert-steuern",
   "german": true
  },
@@ -129,8 +129,8 @@
   "date": "2020-03-30",
   "type": "gastbeitrag",
   "outlet": "Verwaltung der Zukunft",
-  "title_de": "Open Data zwischen politischen Versprechen und Verwaltungswirklichkeit",
-  "title_en": "Open data between political promises and administrative reality",
+  "title_de": "Open Data zwischen politischen Versprechen und Verwaltungswirklichkeit (mit Hüseyin Sagkal)",
+  "title_en": "Open data between political promises and administrative reality (with Hüseyin Sagkal)",
   "url": "https://www.vdz.org/oeffentliche-it-infrastruktur-cloud-zukunftstechnologien/open-data-zwischen-politischen-versprechen",
   "german": true
  },
@@ -378,6 +378,15 @@
   "german": false
  },
  {
+  "date": "2020-05",
+  "type": "video",
+  "outlet": "NEOS Lab",
+  "title_de": "Online-Diskussion: Big Data und Künstliche Intelligenz im Kampf gegen Corona",
+  "title_en": "Online discussion: big data and artificial intelligence in the fight against coronavirus",
+  "url": "https://youtu.be/7edrd3nD5WI",
+  "german": true
+ },
+ {
   "date": "2020-04-16",
   "type": "podcast",
   "outlet": "ÖFIT-Podcast",
@@ -390,18 +399,36 @@
   "date": "2020-03-31",
   "type": "zitat",
   "outlet": "Tagesspiegel Background",
+  "title_de": "Wie digitale Tools die Dörfer mobil machen",
+  "title_en": "How digital tools get villages moving",
+  "url": "https://background.tagesspiegel.de/verkehr-und-smart-mobility/briefing/wie-digitale-tools-die-doerfer-mobil-machen",
+  "german": true
+ },
+ {
+  "date": "2020-03-31",
+  "type": "zitat",
+  "outlet": "Tagesspiegel Background",
   "title_de": "Modellprojekt ländliche Digitalisierung?",
   "title_en": "A model project for rural digitalisation?",
   "url": "https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/modellprojekt-laendliche-digitalisierung",
   "german": true
  },
  {
-  "date": "2019-09-25",
+  "date": "2019-09-20",
   "type": "zitat",
   "outlet": "Tagesspiegel Background",
   "title_de": "Künstlich intelligente Beamte",
   "title_en": "Artificially intelligent civil servants",
   "url": "https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/kuenstlich-intelligente-beamte",
+  "german": true
+ },
+ {
+  "date": "2019-09-20",
+  "type": "zitat",
+  "outlet": "Der Tagesspiegel",
+  "title_de": "Wie Künstliche Intelligenz den öffentlichen Sektor umkrempeln könnte",
+  "title_en": "How artificial intelligence could transform the public sector",
+  "url": "https://www.tagesspiegel.de/berlin/wie-kunstliche-intelligenz-den-offentlichen-sektor-umkrempeln-konnte-5341561.html",
   "german": true
  },
  {
@@ -430,6 +457,15 @@
   "title_en": "“That was something different!” – Barcamp U30 at the Zukunftskongress Staat & Verwaltung",
   "url": "https://www.vdz.org/transformation/das-war-mal-etwas-anderes",
   "german": true
+ },
+ {
+  "date": "2016-06-28",
+  "type": "gastbeitrag",
+  "outlet": "Asia Pacific Studies Blog (University of Nottingham)",
+  "title_de": "Philippine Democracy: Stuck at the Halfway House",
+  "title_en": "Philippine Democracy: Stuck at the Halfway House",
+  "url": "https://blogs.nottingham.ac.uk/asiapacificstudies/?p=5272",
+  "german": false
  },
  {
   "date": "2016-01-14",
