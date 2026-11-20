@@ -2,19 +2,21 @@
  {
   "section": "Edited Volumes",
   "year": "2023",
-  "text": "Krause, Tobias; Schachtner, Christian; Thapa, Basanta (Hrsg.) (2023) \"Handbuch Digitalisierung der Verwaltung\". *utb*."
+  "text": "Krause, Tobias; Schachtner, Christian; Thapa, Basanta (Hrsg.) (2023) \"[Handbuch Digitalisierung der Verwaltung](https://doi.org/10.36198/9783838559292)\". *utb*.",
+  "thumb": "/uploads/thumbs/handbuch.jpg"
  },
  {
   "section": "Edited Volumes",
   "year": "2018",
-  "text": "Mohabbat Kar, Resa; Thapa, Basanta; Parycek, Peter (Hrsg.) (2018) \"[(Un)berechenbar? Algorithmen und Automatisierung in Staat und Gesellschaft](https://www.ssoar.info/ssoar/handle/document/57571)\". *öfit*.",
+  "text": "Mohabbat Kar, Resa; Thapa, Basanta; Parycek, Peter (Hrsg.) (2018) \"[(Un)berechenbar? Algorithmen und Automatisierung in Staat und Gesellschaft](https://www.oeffentliche-it.de/publikationen/un-berechenbar-algorithmen-und-automatisierung-in-staat-und-gesellschaft/)\". *öfit*.",
   "thumb": "/uploads/thumbs/pub-13-Sammelband_Umschlag_v045-1.jpg",
   "image": "/uploads/2018/06/Sammelband_Umschlag_v045-1.png"
  },
  {
   "section": "Journal articles",
   "year": "2021",
-  "text": "Kraus, Sascha; Thapa, Basanta (2021) \"Open Data in der Berliner Verwaltung\". *Verwaltung & Management 27(3): 118-128*."
+  "text": "Kraus, Sascha; Thapa, Basanta (2021) \"[Open Data in der Berliner Verwaltung](https://www.inlibra.com/de/document/view/detail/uuid/7d98b3ca-a017-3d40-b1c8-65998e802d5b)\". *Verwaltung & Management 27(3): 118-128*.",
+  "thumb": "/uploads/thumbs/vm-2021-3.jpg"
  },
  {
   "section": "Journal articles",
@@ -25,8 +27,9 @@
  },
  {
   "section": "Journal articles",
-  "year": "2019",
-  "text": "Thapa, Basanta (2019) \"Smart Nepal – Was können Big Data, Blockchain & Co für Nepals öffentlichen Sektor bedeuten?\". *Nepal-i: deutsch-nepali Magazin 118: 3-8*."
+  "year": "2018",
+  "text": "Thapa, Basanta (2018) \"[Smart Nepal – Was können Big Data, Blockchain & Co für Nepals öffentlichen Sektor bedeuten?](/uploads/pdf/Thapa_2018_Smart_Nepal.pdf)\". *Nepal-i: deutsch-nepali Magazin 118: 3–8*.",
+  "thumb": "/uploads/thumbs/smart-nepal.jpg"
  },
  {
   "section": "Journal articles",
@@ -73,7 +76,8 @@
  {
   "section": "Book chapters",
   "year": "2023",
-  "text": "Thapa, Basanta (2023) \"Datenanalysen zum Wirken bringen\". In: *Krause, Tobias; Schachtner, Christian; Thapa, Basanta (Hrsg.) Handbuch Digitalisierung der Verwaltung. utb*."
+  "text": "Thapa, Basanta (2023) \"[Datenanalysen zum Wirken bringen](https://doi.org/10.36198/9783838559292)\". In: *Krause, Tobias; Schachtner, Christian; Thapa, Basanta (Hrsg.) Handbuch Digitalisierung der Verwaltung. utb*.",
+  "thumb": "/uploads/thumbs/handbuch.jpg"
  },
  {
   "section": "Book chapters",
@@ -113,49 +117,56 @@
  {
   "section": "Reports/White Papers/Working Papers",
   "year": "2022",
-  "text": "Thapa, Basanta; Weidner, Christian; Grosch, Dorian (2022) \"Ein Open-Source-Ökosystem für die öffentliche Verwaltung\". *öfit*."
+  "text": "Thapa, Basanta; Weidner, Christian; Grosch, Dorian (2022) \"[Ein Open-Source-Ökosystem für die öffentliche Verwaltung](https://www.oeffentliche-it.de/publikationen/ein-open-source-oekosystem-fuer-die-oeffentliche-verwaltung/)\". *öfit*.",
+  "thumb": "/uploads/thumbs/opensource.jpg"
  },
  {
   "section": "Reports/White Papers/Working Papers",
   "year": "2022",
-  "text": "Thapa, Basanta; Hölscher, Ines; Gräfe, Jan Hendrik; Weidner, Christian (2022) \"Verwaltung auf der grünen Wiese: Szenarien alternativer digitaler Organisationsformen des Staates\". *öfit*."
+  "text": "Thapa, Basanta; Hölscher, Ines; Gräfe, Jan Hendrik; Weidner, Christian (2022) \"[Verwaltung auf der grünen Wiese: Szenarien alternativer digitaler Organisationsformen des Staates](https://www.oeffentliche-it.de/publikationen/verwaltung-auf-der-gruenen-wiese-szenarien-alternativer-digitaler-organisationsformen-des-staates/)\". *öfit*.",
+  "thumb": "/uploads/thumbs/gruenewiese.jpg"
  },
  {
   "section": "Reports/White Papers/Working Papers",
   "year": "2021",
-  "text": "Thapa, Basanta; Sagkal, Hüseyin (2021) \"Robotische Prozessautomatisierung\". *öfit-Trendschau: Öffentliche Informationstechnologie in der digitalisierten Gesellschaft. öfit*."
+  "text": "Thapa, Basanta; Sagkal, Hüseyin (2021) \"[Robotische Prozessautomatisierung](https://www.oeffentliche-it.de/trends/trendschau/trendthemen/robotische-prozessautomatisierung/)\". *öfit-Trendschau: Öffentliche Informationstechnologie in der digitalisierten Gesellschaft. öfit*.",
+  "thumb": "/uploads/thumbs/rpa.jpg"
  },
  {
   "section": "Reports/White Papers/Working Papers",
   "year": "2021",
-  "text": "Thapa, Basanta (2021) \"Für mehr Barrierefreiheit in der digitalen Verwaltung\". *öfit*."
+  "text": "Thapa, Basanta (2021) \"[Für mehr Barrierefreiheit in der digitalen Verwaltung](https://www.oeffentliche-it.de/publikationen/fuer-mehr-barrierefreiheit-in-der-digitalen-verwaltung-organisationale-huerden-und-moegliche-massnahmen/)\". *öfit*.",
+  "thumb": "/uploads/thumbs/barrierefreiheit.jpg"
  },
  {
   "section": "Reports/White Papers/Working Papers",
   "year": "2021",
-  "text": "Hölscher, Ines; Opiela, Nicole; Tiemann, Jens; Gumz, Jan Dennis; Goldacker, Gabriele; Thapa, Basanta; Weber, Mike (2021) \"[Deutschland-Index der Digitalisierung 2021](https://www.oeffentliche-it.de/publikationen?doc=95167&title=Deutschland-Index+der+Digitalisierung+2019)\". *öfit*.",
+  "text": "Hölscher, Ines; Opiela, Nicole; Tiemann, Jens; Gumz, Jan Dennis; Goldacker, Gabriele; Thapa, Basanta; Weber, Mike (2021) \"[Deutschland-Index der Digitalisierung 2021](https://www.oeffentliche-it.de/publikationen/deutschland-index-der-digitalisierung-2021/)\". *öfit*.",
   "thumb": "/uploads/thumbs/pub-23-Deutschland-Index-der-Digitalisierung-20.jpg",
   "image": "/uploads/2019/04/Deutschland-Index-der-Digitalisierung-2019.png"
  },
  {
   "section": "Reports/White Papers/Working Papers",
   "year": "2021",
-  "text": "Parycek, Peter; Hunt, Simon Sebastian; Thapa, Basanta (2021) \"Technische Perspektiven der Registermodernisierung\". *öfit*."
+  "text": "Parycek, Peter; Hunt, Simon Sebastian; Thapa, Basanta (2021) \"[Technische Perspektiven der Registermodernisierung](https://www.oeffentliche-it.de/publikationen/analyse-der-rechtlich-technischen-gesamtarchitektur-des-entwurfs-des-registermodernisierungsgesetzes/Erg%c3%a4nzende%20Expertise%20zu%20technischen%20Perspektiven%20der%20Registermodernisierung.pdf)\". *öfit*."
  },
  {
   "section": "Reports/White Papers/Working Papers",
   "year": "2020",
-  "text": "Parycek, Peter; Huber, Verena; Hunt, Simon Sebastian; Novak, Anna-Sophie; Thapa, Basanta (2020) \"Analyse der rechtlich-technischen Gesamtarchitektur des Entwurfs des Registermodernisierungsgesetzes\". *Deutscher Bundestag, Ausschuss für Inneres und Heimat, Ausschussdrucksache 19(4)667 D*."
+  "text": "Parycek, Peter; Huber, Verena; Hunt, Simon Sebastian; Novak, Anna-Sophie; Thapa, Basanta (2020) \"[Analyse der rechtlich-technischen Gesamtarchitektur des Entwurfs des Registermodernisierungsgesetzes](https://www.bundestag.de/resource/blob/813728/f4da1b57a250e2e5de1302a1015d0e79/A-Drs-19-4-667-D.pdf)\". *Deutscher Bundestag, Ausschuss für Inneres und Heimat, Ausschussdrucksache 19(4)667 D*.",
+  "thumb": "/uploads/thumbs/regmog-analyse.jpg"
  },
  {
   "section": "Reports/White Papers/Working Papers",
   "year": "2020",
-  "text": "Thapa, Basanta; Mohabbat Kar, Resa (2020) \"Digitale Souveränität als strategische Autonomie: Umgang mit Abhängigkeiten im digitalen Staat\". *öfit*."
+  "text": "Thapa, Basanta; Mohabbat Kar, Resa (2020) \"[Digitale Souveränität als strategische Autonomie: Umgang mit Abhängigkeiten im digitalen Staat](https://www.oeffentliche-it.de/publikationen/digitale-souveraenitaet-als-strategische-autonomie-umgang-mit-abhaengigkeiten-im-digitalen-staat/)\". *öfit*.",
+  "thumb": "/uploads/thumbs/digisouv.jpg"
  },
  {
   "section": "Reports/White Papers/Working Papers",
   "year": "2020",
-  "text": "Thapa, Basanta; Opiela, Nicole; Rothe, Michel Stephan (2020) \"Ländlich, digital, attraktiv - Digitale Lösungsansätze für ländliche Räume\". *öfit*."
+  "text": "Thapa, Basanta; Opiela, Nicole; Rothe, Michel Stephan (2020) \"[Ländlich, digital, attraktiv - Digitale Lösungsansätze für ländliche Räume](https://www.oeffentliche-it.de/publikationen/laendlich-digital-attraktiv-digitale-loesungsansaetze-fuer-laendliche-raeume/)\". *öfit*.",
+  "thumb": "/uploads/thumbs/laendlich.jpg"
  },
  {
   "section": "Reports/White Papers/Working Papers",
@@ -167,40 +178,41 @@
  {
   "section": "Reports/White Papers/Working Papers",
   "year": "2019",
-  "text": "Bieker, Lisa; Bruns, Lina; Thapa, Basanta; Welzel, Christian (2019) \"[Open Data – zwischen Wunsch und Wirklichkeit](https://www.oeffentliche-it.de/publikationen?doc=95167&title=Deutschland-Index+der+Digitalisierung+2019)\". *öfit*.",
+  "text": "Bieker, Lisa; Bruns, Lina; Thapa, Basanta; Welzel, Christian (2019) \"[Open Data – zwischen Wunsch und Wirklichkeit](https://www.oeffentliche-it.de/publikationen/open-data-zwischen-wunsch-und-wirklichkeit/)\". *öfit*.",
   "thumb": "/uploads/thumbs/pub-21-Open-Data-zwischen-Wunsch-und-Wirklichke.jpg",
   "image": "/uploads/2020/03/Open-Data-zwischen-Wunsch-und-Wirklichkeit.png"
  },
  {
   "section": "Reports/White Papers/Working Papers",
   "year": "2019",
-  "text": "Dribbisch, Katrin; Jordan, Martin; Martin, Philipp; Thapa, Basanta; Welzel, Christian (2019) \"[Einfach.Agil.Mobil – Leitfaden für benutzerfreundliche digitale Verwaltungsangebote](https://www.oeffentliche-it.de/publikationen?doc=104998&title=Einfach.Agil.Mobil)\". *öfit & Public Service Lab*.",
+  "text": "Dribbisch, Katrin; Jordan, Martin; Martin, Philipp; Thapa, Basanta; Welzel, Christian (2019) \"[Einfach.Agil.Mobil – Leitfaden für benutzerfreundliche digitale Verwaltungsangebote](https://www.oeffentliche-it.de/publikationen/einfach-agil-mobil/)\". *öfit & Public Service Lab*.",
   "thumb": "/uploads/thumbs/pub-16-Einfach.Agil_.Mobil_.jpg",
   "image": "/uploads/2020/03/Einfach.Agil_.Mobil_.png"
  },
  {
   "section": "Reports/White Papers/Working Papers",
   "year": "2019",
-  "text": "Mohabbat Kar, Resa; Thapa, Basanta; Hunt, Simon Sebastian; Parycek, Peter (2019) \"[Recht digital: Maschinenverständlich und automatisierbar – Impuls zur digitalen Vollzugstauglichkeit von Gesetzen](https://www.oeffentliche-it.de/publikationen?doc=104099&title=Recht+Digital+-+Maschinenverst%C3%A4ndlich+und+automatisierbar)\". *öfit*.",
+  "text": "Mohabbat Kar, Resa; Thapa, Basanta; Hunt, Simon Sebastian; Parycek, Peter (2019) \"[Recht digital: Maschinenverständlich und automatisierbar – Impuls zur digitalen Vollzugstauglichkeit von Gesetzen](https://www.oeffentliche-it.de/publikationen/recht-digital-maschinenverstaendlich-und-automatisierbar/)\". *öfit*.",
   "thumb": "/uploads/thumbs/pub-20-Recht-Digital-Maschinenverstaendlich-und.jpg",
   "image": "/uploads/2020/03/Recht-Digital-Maschinenverstaendlich-und-automatisierbar.png"
  },
  {
   "section": "Reports/White Papers/Working Papers",
   "year": "2019",
-  "text": "Thapa, Basanta (2019) \"Strategische Beschaffung in der IT-Konsolidierung\". *öfit*."
+  "text": "Thapa, Basanta (2019) \"[Strategische Beschaffung in der IT-Konsolidierung](https://www.oeffentliche-it.de/publikationen/strategische-beschaffung-in-der-it-konsolidierung/)\". *öfit*.",
+  "thumb": "/uploads/thumbs/beschaffung.jpg"
  },
  {
   "section": "Reports/White Papers/Working Papers",
   "year": "2019",
-  "text": "Opiela, Nicole; Tiemann, Jens; Gumz, Jan Dennis; Goldacker, Gabriele; Thapa, Basanta (2019) \"[Deutschland-Index der Digitalisierung 2019](https://www.oeffentliche-it.de/publikationen?doc=95167&title=Deutschland-Index+der+Digitalisierung+2019)\". *öfit*.",
+  "text": "Opiela, Nicole; Tiemann, Jens; Gumz, Jan Dennis; Goldacker, Gabriele; Thapa, Basanta (2019) \"[Deutschland-Index der Digitalisierung 2019](https://www.oeffentliche-it.de/publikationen/deutschland-index-der-digitalisierung-2019/)\". *öfit*.",
   "thumb": "/uploads/thumbs/pub-23-Deutschland-Index-der-Digitalisierung-20.jpg",
   "image": "/uploads/2019/04/Deutschland-Index-der-Digitalisierung-2019.png"
  },
  {
   "section": "Reports/White Papers/Working Papers",
   "year": "2018",
-  "text": "Opiela, Nicole; Mohabbat Kar, Resa; Thapa, Basanta; Weber, Mike (2018) \"[Exekutive KI 2030 – Vier Zukunftsszenarien für Künstliche Intelligenz in der öffentlichen Verwaltung](https://www.oeffentliche-it.de/publikationen?doc=84404&title=Exekutive+KI+2030+-+Vier+Zukunftsszenarien+f%C3%BCr+K%C3%BCnstliche+Intelligenz+in+der+%C3%B6ffentlichen+Verwaltung)\". *öfit*.",
+  "text": "Opiela, Nicole; Mohabbat Kar, Resa; Thapa, Basanta; Weber, Mike (2018) \"[Exekutive KI 2030 – Vier Zukunftsszenarien für Künstliche Intelligenz in der öffentlichen Verwaltung](https://www.oeffentliche-it.de/publikationen/exekutive-ki-2030-vier-zukunftsszenarien-fuer-kuenstliche-intelligenz-in-der-oeffentlichen-verwaltung/)\". *öfit*.",
   "thumb": "/uploads/thumbs/pub-24-Exekutive-KI-2030-Vier-Zukunftsszenarien.jpg",
   "image": "/uploads/2019/04/Exekutive-KI-2030-Vier-Zukunftsszenarien-fuer-Kuenstliche-Intelligenz-in-der-oeffentlichen-Verwaltung-1.png"
  },
