@@ -44,9 +44,11 @@ const archive = [
 
     <section>
       <h2>{s.archive}</h2>
-      <p class="muted small">{de ? 'Ältere Seiten aus meiner Zeit in Studium und Forschung, auf Englisch.' : 'Older pages from my time as a student and researcher.'}</p>
+      <p class="muted small">{de ? 'Ältere Seiten aus meiner Zeit in Studium und Forschung, überwiegend auf Englisch.' : 'Older pages from my time as a student and researcher.'}</p>
       <ul class="post-list">
-        {archive.map((a) => <li><a href={`/archive/${a.slug}/`} hreflang="en"><span class="t">{a[lang]}</span></a></li>)}
+        {archive.map((a) => (de && a.slug === 'courses'
+          ? <li><a href="/archiv/kurse/"><span class="t">{a.de}</span></a></li>
+          : <li><a href={`/archive/${a.slug}/`} hreflang="en"><span class="t">{a[lang]}</span></a></li>))}
       </ul>
     </section>
   </div>
