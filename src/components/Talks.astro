@@ -16,12 +16,12 @@ groups.sort((a, b) => b.name.localeCompare(a.name));
 ---
 <Base lang={lang} title={s.nav.talks} current="talks" alt={routes.talks[de ? 'en' : 'de']}>
   <h1>{s.nav.talks}</h1>
-  {de && <p class="note">Die Einträge stehen auf Englisch. Stand der Liste: 2020.</p>}
+  <p class="note">{de ? 'Englischsprachige Titel und Veranstaltungen stehen im Original. Stand der Liste: 2020.' : 'Titles of German-language talks and events are translated and marked "(in German)". List as of 2020.'}</p>
   {groups.map((g) => (
     <section>
       <div class="year">{g.name}</div>
-      <ul class="entries" lang="en">
-        {g.items.map((e) => <li set:html={marked.parseInline(e.text)} />)}
+      <ul class="entries">
+        {g.items.map((e) => <li set:html={marked.parseInline(de ? e.text_de : e.text_en)} />)}
       </ul>
     </section>
   ))}

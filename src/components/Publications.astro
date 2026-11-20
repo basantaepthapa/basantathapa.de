@@ -23,11 +23,11 @@ for (const e of pubs) {
 ---
 <Base lang={lang} title={s.nav.pubs} current="pubs" alt={routes.pubs[de ? 'en' : 'de']}>
   <h1>{s.nav.pubs}</h1>
-  {de && <p class="note">Die Einträge stehen in der Originalsprache.</p>}
+  <p class="note">{de ? 'Die Einträge stehen in der Originalsprache.' : 'Titles of German-language publications are translated and marked "(in German)".'}</p>
   {groups.map((g) => (
     <section>
       <h3>{de ? (names[g.name] ?? g.name) : g.name.replace('/', ', ').replace('/', ' and ')}</h3>
-      <ul class="entries" lang="en">
+      <ul class="entries">
         {g.items.map((e) => (
           <li class="pub">
             {e.thumb ? (
@@ -37,7 +37,7 @@ for (const e of pubs) {
             ) : (
               <span class="pub-thumb pub-thumb-empty" aria-hidden="true"></span>
             )}
-            <div set:html={marked.parseInline(e.text)} />
+            <div set:html={marked.parseInline(de ? e.text : (e.text_en ?? e.text))} />
           </li>
         ))}
       </ul>
