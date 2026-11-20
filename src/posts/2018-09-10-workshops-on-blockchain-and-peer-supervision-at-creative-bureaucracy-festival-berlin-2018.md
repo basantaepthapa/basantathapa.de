@@ -16,7 +16,7 @@ My contribution consisted of three sessions: In two sessions I facilitated a hig
 
 The peer supervision sessions, which I had slipped into the program to add more interactivity to the festival, worked surprisingly well. Especially in the first iteration, the room was packed with eight parallel supervision circles. One participant told me afterwards: "I came here to relax and listen to you explain the method - instead I had to work. But it was good and intense!"
 
-The Blockchain workshop also talked about [about tron predictions](https://www.dcforecasts.com/tron-news/) and proved extremely popular, eight tables with more than five people at each table made the room hardly navigable. But participants had to move about, carrying messages from their Blockchain node to their neighbors. Due to the large group size, the timing did not work out in the end and we could not actually finish the emulation. However, I received lots of enthusiastic feedback on the session which tried to explain Blockchain technology in a very hands-on way:
+The Blockchain workshop proved extremely popular, eight tables with more than five people at each table made the room hardly navigable. But participants had to move about, carrying messages from their Blockchain node to their neighbors. Due to the large group size, the timing did not work out in the end and we could not actually finish the emulation. However, I received lots of enthusiastic feedback on the session which tried to explain Blockchain technology in a very hands-on way:
 
 https://twitter.com/dara\_k\_s/status/1038384647149944832
 

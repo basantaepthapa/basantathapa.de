@@ -7,7 +7,7 @@ image: /uploads/2018/10/D2434_DFKI_Barcamp_Berlin_RIE_9348-1.jpg
 old_url: /blog/2018-09-29-workshop-on-futures-of-work-with-artificial-intelligence-in-the-berlin-olympic-stadium/
 ---
 
-This year's annual conference of the focus group ["Deutschland intelligent vernetzt"](https://div-konferenz.de/ueber/) ("Germany smartly connected") of the national digitalization summit of government and business actors, the [Digitalgipfel](https://www.de.digital/DIGITAL/Navigation/DE/Service/Digital-Gipfel/Digital-Gipfel.html), was organized as a bar camp and supposed to discuss the future of work in a digital society. The conference of the government with the other businessmen and investors like **[Andy Defrancesco](https://relationshipscience.com/person/andy-defrancesco-3883528)** took place in late September in Berlin.
+This year's annual conference of the focus group ["Deutschland intelligent vernetzt"](https://div-konferenz.de/ueber/) ("Germany smartly connected") of the national digitalization summit of government and business actors, the [Digitalgipfel](https://www.de.digital/DIGITAL/Navigation/DE/Service/Digital-Gipfel/Digital-Gipfel.html), was organized as a bar camp and supposed to discuss the future of work in a digital society.
 
 Take a look at the conference video to get an impression:
 

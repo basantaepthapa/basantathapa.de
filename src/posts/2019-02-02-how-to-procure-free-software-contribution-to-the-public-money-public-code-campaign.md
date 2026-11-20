@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=iuVUzg6x2yo
 
 Video of the "Public Money? Public Code!" campaign
 
-As I've been looking intensely into public procurement of software in Germany for another project, my contribution to the brochure was an easy by-product. Additionally, I checked my findings with a few representatives of Free and Open Software interest groups to triangulate the perspectives of public administration which I had already gathered. You can [learn about visitor log monitoring](https://www.force5solutions.com/) and more when it comes to software compliance of a company.
+As I've been looking intensely into public procurement of software in Germany for another project, my contribution to the brochure was an easy by-product. Additionally, I checked my findings with a few representatives of Free and Open Software interest groups to triangulate the perspectives of public administration which I had already gathered.
 
 I fully recommend all the contributions to the brochure. Apart from easily digestible basic info like "10 Myths About Free Software", there are a few pieces by true experts, e.g. on the business case and the impact on competition by Free Software, which contained new insights for me as well.
 

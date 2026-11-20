@@ -10,7 +10,7 @@ old_url: /blog/2010-11-25-exploring-microfinance-in-the-visayas-with-an-asa-scho
 
 In February 2010, I was selected to go to the Philippines with a scholarship by the German government's [ASA scholarship](http://www.asa-programm.de/en/about/overview.html). This included not only a three-month field study in the Philippines from August to November 2010, but also two preparation seminars in Germany.
 
-With my project partner [Sarah](https://www.xing.com/profile/Sarah_Lehner2), I was placed at the Cebu City office of AFOS Foundation for Entrepreneurial Development Cooperation, a German organisation implementing developing projects in the Philippines on behalf of the German government. There, we did research on microfinance as a possible service by the chambers of commerce and industry in the Visayas and Caraga regions. You can check [this website](https://www.linkedfinance.com/start-lending/) to know more about business finance options.
+With my project partner [Sarah](https://www.xing.com/profile/Sarah_Lehner2), I was placed at the Cebu City office of AFOS Foundation for Entrepreneurial Development Cooperation, a German organisation implementing developing projects in the Philippines on behalf of the German government. There, we did research on microfinance as a possible service by the chambers of commerce and industry in the Visayas and Caraga regions.
 
 
 [![On tour in the Philippines](/uploads/2014/10/CIMG09511.jpg)](/uploads/2014/10/CIMG09511.jpg)
@@ -23,6 +23,6 @@ Read the research report:
 
 |  |  |  |
 | --- | --- | --- |
-| [LEHNER_THAPA_VESTER_Microfinance_as_a_Chamber_Service_2010](/uploads/2014/10/LEHNER_THAPA_VESTER_Microfinance_as_a_Chamber_Service_2010.pdf) |  | [Microfinance as a Chamber Service in the Visayas and Caraga regions](/uploads/2014/10/LEHNER_THAPA_VESTER_Microfinance_as_a_Chamber_Service_2010.pdf)research report & workshop documentation in different formats as PDF which can be edited with software as [sodapdf](https://www.sodapdf.com/) online. |
+| [LEHNER_THAPA_VESTER_Microfinance_as_a_Chamber_Service_2010](/uploads/2014/10/LEHNER_THAPA_VESTER_Microfinance_as_a_Chamber_Service_2010.pdf) |  | [Microfinance as a Chamber Service in the Visayas and Caraga regions](/uploads/2014/10/LEHNER_THAPA_VESTER_Microfinance_as_a_Chamber_Service_2010.pdf)research report & workshop documentation as PDF. |
 
 Assessment of whether local chambers of commerce and industry in the Philippines should offer microfinance services.
