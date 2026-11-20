@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import Toc from './Toc.astro';
 import { marked } from 'marked';
 import { routes, t } from '../i18n.js';
 import pubs from '../data/publications.json';
@@ -28,13 +29,7 @@ for (const e of pubs) {
 <Base lang={lang} title={s.nav.pubs} current="pubs" alt={routes.pubs[de ? 'en' : 'de']}>
   <h1>{s.nav.pubs}</h1>
   <p class="note">{de ? 'Die Einträge stehen in der Originalsprache.' : 'Titles of German-language publications are translated and marked "(in German)".'}</p>
-  <nav class="toc" aria-label={de ? 'Inhalt' : 'Contents'}>
-    <ul>
-      {groups.map((g) => (
-        <li><a href={`#${slug(g.name)}`}>{label(g.name)} <span>{g.items.length}</span></a></li>
-      ))}
-    </ul>
-  </nav>
+  <Toc lang={lang} items={groups.map((g) => ({ id: slug(g.name), label: label(g.name), count: g.items.length }))} />
   {groups.map((g) => (
     <section id={slug(g.name)}>
       <h3>{label(g.name)}</h3>

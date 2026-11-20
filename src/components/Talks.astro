@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import Toc from './Toc.astro';
 import { marked } from 'marked';
 import { routes, t } from '../i18n.js';
 import talks from '../data/talks.json';
@@ -17,8 +18,9 @@ groups.sort((a, b) => b.name.localeCompare(a.name));
 <Base lang={lang} title={s.nav.talks} current="talks" alt={routes.talks[de ? 'en' : 'de']}>
   <h1>{s.nav.talks}</h1>
   <p class="note">{de ? 'Englischsprachige Titel und Veranstaltungen stehen im Original.' : 'Titles of German-language talks and events are translated and marked "(in German)".'}</p>
+  <Toc lang={lang} items={groups.map((g) => ({ id: `y${g.name}`, label: g.name, count: g.items.length }))} />
   {groups.map((g) => (
-    <section>
+    <section id={`y${g.name}`}>
       <div class="year">{g.name}</div>
       <ul class="entries">
         {g.items.map((e) => (

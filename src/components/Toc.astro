@@ -1,0 +1,10 @@
+---
+const { items, lang } = Astro.props;
+---
+<nav class="toc" aria-label={lang === 'de' ? 'Inhalt' : 'Contents'}>
+  <ul>
+    {items.map((i) => (
+      <li><a href={`#${i.id}`}>{i.label} <span>{i.count}</span></a></li>
+    ))}
+  </ul>
+</nav>
