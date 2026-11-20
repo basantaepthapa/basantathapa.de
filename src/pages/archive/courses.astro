@@ -24,7 +24,6 @@ const md = (s) => marked.parseInline(s).replace(/<a href="\/uploads\/([^"]+\.pdf
               <li class="course">
                 <div class="course-title">{c.title}</div>
                 {c.teachers && <div class="course-by">{c.teachers}</div>}
-                {c.fields.length > 0 && <div class="course-fields">{c.fields.map((f) => <span>{f}</span>)}</div>}
                 {c.notes.map((n) => <p class="course-note" set:html={md(n)} />)}
                 {(c.papers ?? []).map((p) => (
                   <a class={p.wide ? "paper wide" : "paper"} href={p.url}>
