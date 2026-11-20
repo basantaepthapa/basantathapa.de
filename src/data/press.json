@@ -1,5 +1,149 @@
 [
  {
+  "date": "2026-08",
+  "type": "zitat",
+  "outlet": "heise online",
+  "title_de": "Deutschland-Stack: Mit vier Studien zur digitalen Verwaltung",
+  "title_en": "Germany Stack: four studies on digital administration",
+  "url": "https://www.heise.de/news/Deutschland-Stack-Mit-vier-Studien-zur-digitalen-Verwaltung-11410335.html",
+  "german": true
+ },
+ {
+  "date": "2024-06-12",
+  "type": "gastbeitrag",
+  "outlet": "Future4Public (Behörden Spiegel)",
+  "title_de": "Fachsimpeln, Netzwerken, Quatschen im N3GZ Nachwuchsnetzwerk Digitale Verwaltung",
+  "title_en": "Shop talk, networking and chatting in the N3GZ young professionals' network",
+  "url": "https://f4p.online/tag/n3gz-nachwuchsnetzwerk-digitale-verwaltung/",
+  "german": true
+ },
+ {
+  "date": "2023-07-18",
+  "type": "kolumne",
+  "outlet": "Tagesspiegel Background",
+  "title_de": "Vision gesucht: E-Government im Bundesstaat",
+  "title_en": "Vision wanted: e-government in a federal state",
+  "url": "https://background.tagesspiegel.de/smart-city-und-stadtentwicklung/briefing/vision-gesucht-e-government-im-bundesstaat",
+  "german": true
+ },
+ {
+  "date": "2022-01-27",
+  "type": "gastbeitrag",
+  "outlet": "Verwaltung der Zukunft",
+  "title_de": "Barrierefreiheit in der digitalen Verwaltung",
+  "title_en": "Accessibility in digital administration",
+  "url": "https://www.vdz.org/digitalisierung-der-verwaltung/barrierefreiheit-der-digitalen-verwaltung",
+  "german": true
+ },
+ {
+  "date": "2021-08-04",
+  "type": "gastbeitrag",
+  "outlet": "Verwaltung der Zukunft",
+  "title_de": "Digitale Souveränität des Staates",
+  "title_en": "Digital sovereignty of the state",
+  "url": "https://www.vdz.org/it-landschaft-markt-kooperationen/digitale-souveraenitaet-des-staates",
+  "german": true
+ },
+ {
+  "date": "2021",
+  "type": "interview",
+  "outlet": "eGovernment",
+  "title_de": "„Piazza für digitale Verwaltung & Gesellschaft“: Ein Ort für offenen Austausch zwischen Verwaltung und Zivilgesellschaft",
+  "title_en": "“Piazza for digital administration & society”: a place for open exchange between administration and civil society",
+  "url": "https://www.egovernment.de/ein-ort-fuer-offenen-austausch-zwischen-verwaltung-und-zivilgesellschaft-a-1039949/",
+  "german": true
+ },
+ {
+  "date": "2021-06-26",
+  "type": "podcast",
+  "outlet": "eGovernment Podcast",
+  "title_de": "Folge 84: Bundesministerium für Digitales?",
+  "title_en": "Episode 84: A federal ministry for digital affairs?",
+  "url": "https://egovernment-podcast.com/egov084-bmd-1/",
+  "german": true
+ },
+ {
+  "date": "2021-01-25",
+  "type": "zitat",
+  "outlet": "Kommune21",
+  "title_de": "Der Nachwuchs organisiert sich",
+  "title_en": "The next generation gets organised",
+  "url": "https://www.kommune21.de/k21-meldungen/der-nachwuchs-organisiert-sich/",
+  "german": true
+ },
+ {
+  "date": "2021-01-17",
+  "type": "podcast",
+  "outlet": "eGovernment Podcast",
+  "title_de": "Folge 71: Innovative Beschaffung in der öffentlichen Verwaltung",
+  "title_en": "Episode 71: Innovative procurement in public administration",
+  "url": "https://egovernment-podcast.com/egov071-innovative-beschaffung/",
+  "german": true
+ },
+ {
+  "date": "2020-11-15",
+  "type": "podcast",
+  "outlet": "eGovernment Podcast",
+  "title_de": "Folge 68: Digitale Souveränität",
+  "title_en": "Episode 68: Digital sovereignty",
+  "url": "https://egovernment-podcast.com/egov068-digitale-souveraenitaet/",
+  "german": true
+ },
+ {
+  "date": "2020-05-20",
+  "type": "gastbeitrag",
+  "outlet": "Verwaltung der Zukunft",
+  "title_de": "Ländlich, digital, attraktiv – Digitale Lösungsansätze für ländliche Räume",
+  "title_en": "Rural, digital, attractive – digital solutions for rural areas",
+  "url": "https://www.vdz.org/digitalisierung-von-staat-verwaltung/laendlich-digital-attraktiv-digitale-loesungsansaetze-fuer",
+  "german": true
+ },
+ {
+  "date": "2020-04-23",
+  "type": "gastbeitrag",
+  "outlet": "Verwaltung der Zukunft",
+  "title_de": "Evidenzbasiert steuern",
+  "title_en": "Evidence-based steering",
+  "url": "https://www.vdz.org/digitalisierung-von-staat-verwaltung/evidenzbasiert-steuern",
+  "german": true
+ },
+ {
+  "date": "2020-04-02",
+  "type": "gastbeitrag",
+  "outlet": "Verwaltung der Zukunft",
+  "title_de": "Freie Software für den öffentlichen Sektor",
+  "title_en": "Free software for the public sector",
+  "url": "https://www.vdz.org/politik-strategie-governance/freie-software-fuer-den-oeffentlichen-sektor",
+  "german": true
+ },
+ {
+  "date": "2020-03-30",
+  "type": "gastbeitrag",
+  "outlet": "Verwaltung der Zukunft",
+  "title_de": "Open Data zwischen politischen Versprechen und Verwaltungswirklichkeit",
+  "title_en": "Open data between political promises and administrative reality",
+  "url": "https://www.vdz.org/oeffentliche-it-infrastruktur-cloud-zukunftstechnologien/open-data-zwischen-politischen-versprechen",
+  "german": true
+ },
+ {
+  "date": "2019-09-06",
+  "type": "gastbeitrag",
+  "outlet": "Verwaltung der Zukunft",
+  "title_de": "Ein strategischerer Blick auf IT-Beschaffung",
+  "title_en": "A more strategic view of IT procurement",
+  "url": "https://www.vdz.org/vergabe-und-beschaffung/ein-strategischerer-blick-auf-it-beschaffung",
+  "german": true
+ },
+ {
+  "date": "2019-03",
+  "type": "gastbeitrag",
+  "outlet": "Kommune21",
+  "title_de": "Digitalisierung: Lösungen fürs Land (mit Nicole Opiela)",
+  "title_en": "Digitalisation: solutions for rural areas (with Nicole Opiela)",
+  "url": "/blog/2019-03-03-work-in-progress-report-on-rural-digital-initiatives-in-kommune21/",
+  "german": true
+ },
+ {
   "date": "2026-08-04",
   "type": "zitat",
   "outlet": "heise c't",
@@ -180,7 +324,7 @@
   "german": true
  },
  {
-  "date": "2021",
+  "date": "2021-11-16",
   "type": "gastbeitrag",
   "outlet": "Tagesspiegel Background",
   "title_de": "Digitale Barrierefreiheit ist keine lästige Pflicht",
@@ -207,12 +351,12 @@
   "german": false
  },
  {
-  "date": "2020-04",
+  "date": "2020-04-16",
   "type": "podcast",
   "outlet": "ÖFIT-Podcast",
-  "title_de": "Folge 2: Exekutive KI 2030 – Zukunftsszenarien für KI in der Verwaltung",
-  "title_en": "Episode 2: Executive AI 2030 – future scenarios for AI in government",
-  "url": "/blog/2020-05-14-interview-on-ai-in-government-in-ofit-podcast/",
+  "title_de": "Folge 2: Künstliche Intelligenz in der Verwaltung",
+  "title_en": "Episode 2: Artificial intelligence in public administration",
+  "url": "https://www.oeffentliche-it.de/oefit-podcast/ki-in-der-verwaltung/",
   "german": true
  },
  {
