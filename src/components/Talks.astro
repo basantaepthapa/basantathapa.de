@@ -21,7 +21,16 @@ groups.sort((a, b) => b.name.localeCompare(a.name));
     <section>
       <div class="year">{g.name}</div>
       <ul class="entries">
-        {g.items.map((e) => <li set:html={marked.parseInline(de ? e.text_de : e.text_en)} />)}
+        {g.items.map((e) => (
+          <li class="pub">
+            {e.thumb ? (
+              <span class="pub-thumb wide"><img src={e.thumb} alt="" loading="lazy" /></span>
+            ) : (
+              <span class="pub-thumb wide pub-thumb-empty" aria-hidden="true"></span>
+            )}
+            <div set:html={marked.parseInline(de ? e.text_de : e.text_en)} />
+          </li>
+        ))}
       </ul>
     </section>
   ))}
