@@ -143,3 +143,11 @@ html { scroll-behavior: smooth; }
 .cv-sec h3 { margin-top: 28px; }
 .cv-more { margin: 10px 0 0; }
 .cv .what .small { font-size: 15px; line-height: 1.45; display: inline-block; margin-top: 3px; }
+
+.cv-sec:has(.cv-all[open]) .cv-top { display: none; }
+.cv-all summary { list-style: none; cursor: pointer; margin-top: 10px; font-size: 15px; font-weight: 600; color: var(--rost); }
+.cv-all summary::-webkit-details-marker { display: none; }
+.cv-all summary::after { content: " ▾"; }
+.cv-all[open] summary::after { content: " ▴"; }
+.cv-all .close, .cv-all[open] .open { display: none; }
+.cv-all[open] .close { display: inline; }

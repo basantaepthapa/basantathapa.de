@@ -38,18 +38,32 @@ const archive = [
       {cv.map((c, i) => (
         <div class="cv-sec" id={`cv-${i}`}>
           <h3>{c[lang]}</h3>
-          <ul class="cv">
-            {c.items.map((e) => (
-              <li>
-                {e.when && <span class="when">{e.when.replace('seit', de ? 'seit' : 'since')}</span>}
-                <span class="what">
-                  <strong>{e[`t_${lang}`]}</strong>
-                  {e[`o_${lang}`] && <><br /><span>{e[`o_${lang}`]}</span></>}
-                  {e[`n_${lang}`] && <><br /><span class="muted small">{e[`n_${lang}`]}</span></>}
-                </span>
-              </li>
-            ))}
-          </ul>
+          {[true, false].map((topOnly) => {
+            const list = topOnly ? c.items.filter((e) => e.top) : c.items;
+            if (!topOnly && list.length === c.items.filter((e) => e.top).length) return null;
+            const ul = (
+              <ul class={topOnly ? 'cv cv-top' : 'cv'}>
+                {list.map((e) => (
+                  <li>
+                    {e.when && <span class="when">{e.when.replace('seit', de ? 'seit' : 'since')}</span>}
+                    <span class="what">
+                      <strong>{e[`t_${lang}`]}</strong>
+                      {e[`o_${lang}`] && <><br /><span>{e[`o_${lang}`]}</span></>}
+                      {e[`n_${lang}`] && <><br /><span class="muted small">{e[`n_${lang}`]}</span></>}
+                    </span>
+                  </li>
+                ))}
+              </ul>
+            );
+            if (topOnly) return ul;
+            const n = c.items.length;
+            return (
+              <details class="cv-all">
+                <summary><span class="open">{de ? `Alle ${n} Einträge anzeigen` : `Show all ${n} entries`}</span><span class="close">{de ? 'Weniger anzeigen' : 'Show fewer'}</span></summary>
+                {ul}
+              </details>
+            );
+          })}
           {i === 1 && <p class="small cv-more"><a href={de ? '/archiv/kurse/' : '/archive/courses/'}>{de ? 'Lehrveranstaltungen, Hausarbeiten und Abschlussarbeiten aus dem Studium →' : 'Courses, term papers and theses from my studies →'}</a></p>}
         </div>
       ))}
