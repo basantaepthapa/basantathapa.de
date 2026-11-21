@@ -11,7 +11,9 @@
     "o_en": "NEGZ – Competence Network for Digital Government, Berlin",
     "n_de": "Netzwerkmanagement, Veranstaltungen, Publikationen, Öffentlichkeitsarbeit, personelle und kaufmännische Leitung",
     "n_en": "Network management, events, publications, communications, staff and financial management",
-    "top": true
+    "top": true,
+    "logo": "/uploads/logos/negz.png",
+    "url": "https://negz.org/"
    },
    {
     "when": "2018–2022",
@@ -21,7 +23,9 @@
     "o_en": "Competence Center Public IT (ÖFIT), Fraunhofer FOKUS, Berlin",
     "n_de": "Forschung, Politikberatung und Wissenstransfer zur Digitalisierung von Staat und Verwaltung",
     "n_en": "Research, policy advice and knowledge transfer on digital government",
-    "top": true
+    "top": true,
+    "logo": "/uploads/logos/oefit.png",
+    "url": "https://www.oeffentliche-it.de/"
    },
    {
     "when": "2017",
@@ -31,7 +35,9 @@
     "o_en": "Ragnar Nurkse Department of Innovation and Governance, Tallinn University of Technology",
     "n_de": "Mit DoRa-Plus-Stipendium der Archimedes Foundation",
     "n_en": "With a DoRa Plus scholarship from the Archimedes Foundation",
-    "top": false
+    "top": false,
+    "logo": "/uploads/logos/taltech.png",
+    "url": "https://taltech.ee/en/ragnar-nurkse-department"
    },
    {
     "when": "2013–2014",
@@ -41,7 +47,9 @@
     "o_en": "Hertie School of Governance, Berlin, and European Research Center for Information Systems, Münster",
     "n_de": "Forschung, Drittmittelakquise und Lehre zur Verwaltungsdigitalisierung am Lehrstuhl von Prof. Björn Niehaves",
     "n_en": "Research, grant acquisition and teaching on digital government with Prof. Björn Niehaves",
-    "top": true
+    "top": true,
+    "logo": "/uploads/logos/hertie.png",
+    "url": "https://www.hertie-school.org/"
    },
    {
     "when": "2013",
@@ -51,7 +59,9 @@
     "o_en": "German-Indonesian Chamber of Industry and Commerce, Jakarta",
     "n_de": "Marktanalysen zu erneuerbaren Energien, Betreuung von Wirtschaftsdelegationen",
     "n_en": "Market analyses on renewable energy, support for business delegations",
-    "top": false
+    "top": false,
+    "logo": "/uploads/logos/ahk.png",
+    "url": "https://indonesien.ahk.de/"
    },
    {
     "when": "seit 2012",
@@ -61,7 +71,9 @@
     "o_en": "Research and research-related services",
     "n_de": "u. a. für GIZ, Engagement Global, adelphi, European Liberal Forum, Fraunhofer-Gesellschaft, BMAS und Agora Digitale Transformation",
     "n_en": "Clients include GIZ, Engagement Global, adelphi, European Liberal Forum, Fraunhofer-Gesellschaft, the Federal Ministry of Labour and Social Affairs and Agora Digitale Transformation",
-    "top": true
+    "top": true,
+    "logo": "",
+    "url": ""
    },
    {
     "when": "2010",
@@ -71,7 +83,9 @@
     "o_en": "AFOS Foundation, Cebu (Philippines)",
     "n_de": "Feldstudie „Microfinance as a Chamber Service“, mit Stipendium des ASA-Programms",
     "n_en": "Field study “Microfinance as a Chamber Service”, with an ASA programme scholarship",
-    "top": false
+    "top": false,
+    "logo": "/uploads/logos/afos.png",
+    "url": "https://www.afos-stiftung.de/"
    },
    {
     "when": "2009",
@@ -81,7 +95,9 @@
     "o_en": "German Agency for Technical Cooperation (GTZ), Eschborn",
     "n_de": "Studien und Strategieentwicklung im Bereich „Nachhaltige Wirtschaftsentwicklung“",
     "n_en": "Studies and strategy development in the sustainable economic development unit",
-    "top": false
+    "top": false,
+    "logo": "/uploads/logos/giz.png",
+    "url": "https://www.giz.de/"
    },
    {
     "when": "2008",
@@ -91,7 +107,9 @@
     "o_en": "KfW Group in-house consulting, Frankfurt am Main",
     "n_de": "Geschäftsprozessmodellierung und Einführung eines Dokumentenmanagementsystems",
     "n_en": "Business process modelling and introduction of a document management system",
-    "top": false
+    "top": false,
+    "logo": "/uploads/logos/kfw.png",
+    "url": "https://www.kfw.de/"
    },
    {
     "when": "2007",
@@ -101,7 +119,9 @@
     "o_en": "Business development unit, IHK Nord Westfalen, Münster",
     "n_de": "Unternehmensumfragen, Internetredaktion, Gründungsberatung",
     "n_en": "Business surveys, web editing, start-up advice",
-    "top": false
+    "top": false,
+    "logo": "",
+    "url": "https://www.ihk.de/nordwestfalen/"
    },
    {
     "when": "2006–2009",
@@ -111,7 +131,9 @@
     "o_en": "Dean’s office, Faculty of Law, University of Münster",
     "n_de": "Print- und Webdesign, IT-Betreuung",
     "n_en": "Print and web design, IT support",
-    "top": false
+    "top": false,
+    "logo": "/uploads/logos/wwu.png",
+    "url": "https://www.jura.uni-muenster.de/"
    },
    {
     "when": "2005–2011",
@@ -121,7 +143,9 @@
     "o_en": "Lahure Kitab publishing house, Bergisch Gladbach",
     "n_de": "Kaufmännische Steuerung, Logistik und Öffentlichkeitsarbeit für Literatur aus und über Nepal",
     "n_en": "Finance, logistics and communications for literature from and about Nepal",
-    "top": false
+    "top": false,
+    "logo": "",
+    "url": ""
    },
    {
     "when": "2005–2006",
@@ -131,7 +155,9 @@
     "o_en": "Rheinische Förderschule Rösrath (special needs school)",
     "n_de": "Pflege, Hausmeisterei, Unterrichtsassistenz; gewählter Vertrauensmann",
     "n_en": "Care, caretaking and classroom assistance; elected representative",
-    "top": false
+    "top": false,
+    "logo": "",
+    "url": ""
    },
    {
     "when": "2005",
@@ -141,7 +167,9 @@
     "o_en": "German Development Service (DED), Bonn",
     "n_de": "Referat „Asien und Arabische Länder“",
     "n_en": "Asia and Arab countries department",
-    "top": false
+    "top": false,
+    "logo": "/uploads/logos/giz.png",
+    "url": "https://www.giz.de/"
    },
    {
     "when": "2003–2005",
@@ -151,7 +179,9 @@
     "o_en": "CompuThing, OperaThing GmbH, Hürth",
     "n_de": "Webdesign, Datenbankprogrammierung und Hardware für kleine und mittlere Unternehmen",
     "n_en": "Web design, database programming and hardware for small businesses",
-    "top": false
+    "top": false,
+    "logo": "",
+    "url": ""
    }
   ]
  },
@@ -167,7 +197,9 @@
     "o_en": "University of Potsdam, DFG research training group “Wicked Problems, Contested Administrations”",
     "n_de": "Mit Promotionsstipendium der Deutschen Forschungsgemeinschaft",
     "n_en": "With a doctoral scholarship from the German Research Foundation (DFG)",
-    "top": true
+    "top": true,
+    "logo": "/uploads/logos/up.png",
+    "url": "https://www.uni-potsdam.de/"
    },
    {
     "when": "2010–2013",
@@ -177,7 +209,9 @@
     "o_en": "University of Potsdam",
     "n_de": "Masterarbeit über Industrie- und Handelskammern und Demokratisierung auf den Philippinen",
     "n_en": "Thesis on chambers of commerce and democratisation in the Philippines",
-    "top": true
+    "top": true,
+    "logo": "/uploads/logos/up.png",
+    "url": "https://www.uni-potsdam.de/"
    },
    {
     "when": "2006–2010",
@@ -187,7 +221,9 @@
     "o_en": "University of Münster",
     "n_de": "Bachelorarbeit über Mikrofinanz und Entwicklungsbanken",
     "n_en": "Thesis on microfinance and development banks",
-    "top": true
+    "top": true,
+    "logo": "/uploads/logos/wwu.png",
+    "url": "https://www.uni-muenster.de/"
    },
    {
     "when": "2005",
@@ -197,7 +233,9 @@
     "o_en": "Albertus-Magnus-Gymnasium Bensberg",
     "n_de": "",
     "n_en": "",
-    "top": true
+    "top": true,
+    "logo": "/uploads/logos/amg.png",
+    "url": "https://www.amg-bensberg.de/"
    }
   ]
  },
@@ -213,7 +251,9 @@
     "o_en": "Possible and Handelsblatt, civil society and research category",
     "n_de": "",
     "n_en": "",
-    "top": true
+    "top": true,
+    "logo": "/uploads/logos/handelsblatt.png",
+    "url": ""
    },
    {
     "when": "2022",
@@ -223,7 +263,9 @@
     "o_en": "Practice-oriented research projects on digital government",
     "n_de": "",
     "n_en": "",
-    "top": true
+    "top": true,
+    "logo": "",
+    "url": ""
    },
    {
     "when": "2019",
@@ -233,7 +275,9 @@
     "o_en": "Most innovative project at the NEGZ young professionals’ meeting",
     "n_de": "",
     "n_en": "",
-    "top": false
+    "top": false,
+    "logo": "/uploads/logos/n3gz.png",
+    "url": "https://n3gz.org/"
    },
    {
     "when": "2017",
@@ -243,7 +287,9 @@
     "o_en": "Four-month research stay at Tallinn University of Technology",
     "n_de": "",
     "n_en": "",
-    "top": true
+    "top": true,
+    "logo": "/uploads/logos/taltech.png",
+    "url": ""
    },
    {
     "when": "2016",
@@ -253,7 +299,9 @@
     "o_en": "Potsdam PhDay",
     "n_de": "",
     "n_en": "",
-    "top": false
+    "top": false,
+    "logo": "/uploads/logos/up.png",
+    "url": ""
    },
    {
     "when": "2015",
@@ -263,7 +311,9 @@
     "o_en": "Digital Government Conference, Phoenix, Arizona",
     "n_de": "",
     "n_en": "",
-    "top": false
+    "top": false,
+    "logo": "",
+    "url": ""
    },
    {
     "when": "2015",
@@ -273,7 +323,9 @@
     "o_en": "Herrenhausen Conference “Big Data in Transdisciplinary Perspective”, Hanover",
     "n_de": "",
     "n_en": "",
-    "top": false
+    "top": false,
+    "logo": "/uploads/logos/vwst.png",
+    "url": "https://www.volkswagenstiftung.de/"
    },
    {
     "when": "2014",
@@ -283,7 +335,9 @@
     "o_en": "German Research Foundation, research training group “Wicked Problems, Contested Administrations”",
     "n_de": "",
     "n_en": "",
-    "top": true
+    "top": true,
+    "logo": "/uploads/logos/dfg.png",
+    "url": "https://www.dfg.de/"
    },
    {
     "when": "2013",
@@ -293,7 +347,9 @@
     "o_en": "International Conference on Theory and Practice of Electronic Governance, Seoul",
     "n_de": "",
     "n_en": "",
-    "top": false
+    "top": false,
+    "logo": "/uploads/logos/icegov.png",
+    "url": "https://www.icegov.org/"
    },
    {
     "when": "2012",
@@ -303,7 +359,9 @@
     "o_en": "Three-month research stay in the Philippines",
     "n_de": "",
     "n_en": "",
-    "top": false
+    "top": false,
+    "logo": "/uploads/logos/daad.png",
+    "url": "https://www.daad.de/"
    },
    {
     "when": "2010",
@@ -313,7 +371,9 @@
     "o_en": "For my bachelor’s thesis on microfinance",
     "n_de": "",
     "n_en": "",
-    "top": false
+    "top": false,
+    "logo": "/uploads/logos/oikos.png",
+    "url": "https://oikos-international.org/"
    },
    {
     "when": "2010",
@@ -323,7 +383,9 @@
     "o_en": "Three-month research internship in the Philippines",
     "n_de": "",
     "n_en": "",
-    "top": false
+    "top": false,
+    "logo": "/uploads/logos/asa.png",
+    "url": "https://www.asa-programm.de/"
    }
   ]
  },
@@ -339,7 +401,9 @@
     "o_en": "Think Tank Lab (DGAP and MERICS)",
     "n_de": "",
     "n_en": "",
-    "top": true
+    "top": true,
+    "logo": "/uploads/logos/dgap.png",
+    "url": "https://dgap.org/"
    },
    {
     "when": "2020–2021",
@@ -349,7 +413,9 @@
     "o_en": "Potsdam Graduate School",
     "n_de": "156 Unterrichtsstunden, u. a. Strategische Wissenschaftskommunikation, Datenvisualisierung, Medientraining, Wissenschaftliche Politikberatung",
     "n_en": "156 hours, including strategic science communication, data visualisation, media training and scientific policy advice",
-    "top": true
+    "top": true,
+    "logo": "/uploads/logos/up.png",
+    "url": "https://www.uni-potsdam.de/de/pogs/"
    },
    {
     "when": "2018–2019",
@@ -359,7 +425,9 @@
     "o_en": "LEAD Academy",
     "n_de": "",
     "n_en": "",
-    "top": true
+    "top": true,
+    "logo": "",
+    "url": ""
    },
    {
     "when": "seit 2010",
@@ -369,7 +437,9 @@
     "o_en": "Heinrich Böll Foundation",
     "n_de": "u. a. Projektmanagement, agile Methoden, Moderation, Verhandlung, Konfliktmanagement",
     "n_en": "Including project management, agile methods, facilitation, negotiation and conflict management",
-    "top": true
+    "top": true,
+    "logo": "/uploads/logos/boell.png",
+    "url": "https://www.boell.de/"
    }
   ]
  },

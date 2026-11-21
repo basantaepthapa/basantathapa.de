@@ -151,3 +151,12 @@ html { scroll-behavior: smooth; }
 .cv-all[open] summary::after { content: " ▴"; }
 .cv-all .close, .cv-all[open] .open { display: none; }
 .cv-all[open] .close { display: inline; }
+
+.cv .cv-logo { flex: 0 0 40px; width: 40px; height: 40px; border-radius: 8px; background: #fff; border: 1px solid var(--ln); overflow: hidden; display: flex; align-items: center; justify-content: center; margin-top: 2px; }
+.cv .cv-logo img { width: 34px; height: 34px; object-fit: contain; }
+.cv .cv-logo-empty { background: var(--bg); border-style: dashed; }
+.cv li:has(.cv-logo) .what { flex: 1 1 300px; }
+@media (max-width: 600px) { .cv li:has(.cv-logo) { gap: 6px 14px; } .cv li:has(.cv-logo) .when { flex-basis: 100%; } }
+@media (max-width: 600px) { .cv li:has(.cv-logo) .what { flex: 1 1 0; min-width: 0; } }
+.cv .what a { color: inherit; text-decoration: none; border-bottom: 1px solid var(--ln); }
+.cv .what a:hover { color: var(--rost); border-bottom-color: var(--rost); }

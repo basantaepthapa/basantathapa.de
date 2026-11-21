@@ -46,9 +46,12 @@ const archive = [
                 {list.map((e) => (
                   <li>
                     {e.when && <span class="when">{e.when.replace('seit', de ? 'seit' : 'since')}</span>}
+                    {c.de !== 'Sprachen' && (e.logo
+                      ? <span class="cv-logo"><img src={e.logo} alt="" loading="lazy" width="40" height="40" /></span>
+                      : <span class="cv-logo cv-logo-empty" aria-hidden="true"></span>)}
                     <span class="what">
                       <strong>{e[`t_${lang}`]}</strong>
-                      {e[`o_${lang}`] && <><br /><span>{e[`o_${lang}`]}</span></>}
+                      {e[`o_${lang}`] && <><br />{e.url ? <a href={e.url} rel="noopener">{e[`o_${lang}`]}</a> : <span>{e[`o_${lang}`]}</span>}</>}
                       {e[`n_${lang}`] && <><br /><span class="muted small">{e[`n_${lang}`]}</span></>}
                     </span>
                   </li>
