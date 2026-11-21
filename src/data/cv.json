@@ -120,7 +120,7 @@
     "n_de": "Unternehmensumfragen, Internetredaktion, Gründungsberatung",
     "n_en": "Business surveys, web editing, start-up advice",
     "top": false,
-    "logo": "",
+    "logo": "/uploads/logos/ihk.png",
     "url": "https://www.ihk.de/nordwestfalen/"
    },
    {
@@ -144,7 +144,7 @@
     "n_de": "Kaufmännische Steuerung, Logistik und Öffentlichkeitsarbeit für Literatur aus und über Nepal",
     "n_en": "Finance, logistics and communications for literature from and about Nepal",
     "top": false,
-    "logo": "",
+    "logo": "/uploads/logos/lahure.png",
     "url": ""
    },
    {
@@ -156,8 +156,8 @@
     "n_de": "Pflege, Hausmeisterei, Unterrichtsassistenz; gewählter Vertrauensmann",
     "n_en": "Care, caretaking and classroom assistance; elected representative",
     "top": false,
-    "logo": "",
-    "url": ""
+    "logo": "/uploads/logos/lvr.png",
+    "url": "https://www.lvr.de/schule-am-koenigsforst/"
    },
    {
     "when": "2005",
@@ -180,7 +180,7 @@
     "n_de": "Webdesign, Datenbankprogrammierung und Hardware für kleine und mittlere Unternehmen",
     "n_en": "Web design, database programming and hardware for small businesses",
     "top": false,
-    "logo": "",
+    "logo": "/uploads/logos/operathing.png",
     "url": ""
    }
   ]
@@ -264,7 +264,7 @@
     "n_de": "",
     "n_en": "",
     "top": true,
-    "logo": "",
+    "logo": "/uploads/logos/sciencedialog.png",
     "url": ""
    },
    {
@@ -312,8 +312,8 @@
     "n_de": "",
     "n_en": "",
     "top": false,
-    "logo": "",
-    "url": ""
+    "logo": "/uploads/logos/dgs.png",
+    "url": "https://dgsociety.org/"
    },
    {
     "when": "2015",
@@ -426,7 +426,7 @@
     "n_de": "",
     "n_en": "",
     "top": true,
-    "logo": "",
+    "logo": "/uploads/logos/lead.png",
     "url": ""
    },
    {
