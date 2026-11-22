@@ -16,7 +16,7 @@ const shown = post.has(lang) ? lang : post.orig;
         ? <>Übersetzung des englischen Originals. <a href={post.urlFor('en')} hreflang="en">Original lesen</a></>
         : <>Translated from the German original. <a href={post.urlFor('de')} hreflang="de">Read the original</a></>}</p>
     )}
-    {post.image && <img class="post-hero" src={post.image} alt="" />}
+    {post.image && <div class="riso-shadow hero-wrap"><img class="post-hero" src={post.image} alt="" /></div>}
     <Content />
   </article>
   <p><a href={de ? '/blog/' : '/en/blog/'}>{de ? '← Zurück zum Blog' : '← Back to the blog'}</a></p>
