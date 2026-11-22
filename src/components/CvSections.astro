@@ -1,0 +1,40 @@
+---
+import Toc from './Toc.astro';
+const { sections, lang, prefix = 'cv' } = Astro.props;
+const de = lang === 'de';
+const studies = de ? '/studium/' : '/en/studies/';
+---
+<Toc lang={lang} items={sections.map((c, i) => ({ id: `${prefix}-${i}`, label: c[lang] }))} />
+{sections.map((c, i) => (
+  <div class="cv-sec" id={`${prefix}-${i}`}>
+    <h3>{c[lang]}</h3>
+    {[true, false].map((topOnly) => {
+      const tops = c.items.filter((e, j) => (e.top ?? j < 3));
+      const list = topOnly ? tops : c.items;
+      if (!topOnly && tops.length === c.items.length) return null;
+      const ul = (
+        <ul class={topOnly ? 'cv cv-top' : 'cv'}>
+          {list.map((e) => (
+            <li>
+              {(e.when || e.logo) && <span class="when">{e.when && <span>{de ? e.when : e.when.replace('seit', 'since')}</span>}{e.logo && <span class="cv-logo"><img src={e.logo} alt="" loading="lazy" width="40" height="40" /></span>}</span>}
+              <span class="what">
+                <strong>{e[`t_${lang}`]}</strong>
+                {e[`o_${lang}`] && <><br />{e.url ? <a href={e.url} rel="noopener">{e[`o_${lang}`]}</a> : <span>{e[`o_${lang}`]}</span>}</>}
+                {e[`n_${lang}`] && <><br /><span class="muted small">{e[`n_${lang}`]}</span></>}
+                {e.studies && <><br /><a class="cv-deeplink small" href={`${studies}#${e.studies}`}>{de ? 'Kurse und Studienarbeiten →' : 'Courses and papers →'}</a></>}
+              </span>
+            </li>
+          ))}
+        </ul>
+      );
+      if (topOnly) return ul;
+      const n = c.items.length;
+      return (
+        <details class="cv-all">
+          <summary><span class="open">{de ? `Alle ${n} Einträge anzeigen` : `Show all ${n} entries`}</span><span class="close">{de ? 'Weniger anzeigen' : 'Show fewer'}</span></summary>
+          {ul}
+        </details>
+      );
+    })}
+  </div>
+))}

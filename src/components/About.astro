@@ -1,17 +1,11 @@
 ---
 import Base from '../layouts/Base.astro';
 import { routes, t } from '../i18n.js';
-import Toc from './Toc.astro';
+import CvSections from './CvSections.astro';
 import cv from '../data/cv.json';
 const { lang } = Astro.props;
 const s = t[lang];
 const de = lang === 'de';
-const archive = [
-  { slug: 'education', de: 'Studium und Promotionsvorhaben', en: 'Education and doctoral research' },
-  { slug: 'trainings', de: 'Weiterbildungen', en: 'Trainings' },
-  { slug: 'websites', de: 'Webdesign-Projekte', en: 'Web design projects' },
-  { slug: 'print-design', de: 'Printdesign-Projekte', en: 'Print design projects' },
-];
 ---
 <Base lang={lang} title={s.nav.about} current="about" alt={routes.about[de ? 'en' : 'de']}>
   <div class="stack">
@@ -34,48 +28,8 @@ const archive = [
 
     <section>
       <h2>{de ? 'Stationen' : 'Career'}</h2>
-      <Toc lang={lang} items={cv.map((c, i) => ({ id: `cv-${i}`, label: c[lang] }))} />
-      {cv.map((c, i) => (
-        <div class="cv-sec" id={`cv-${i}`}>
-          <h3>{c[lang]}</h3>
-          {[true, false].map((topOnly) => {
-            const list = topOnly ? c.items.filter((e) => e.top) : c.items;
-            if (!topOnly && list.length === c.items.filter((e) => e.top).length) return null;
-            const ul = (
-              <ul class={topOnly ? 'cv cv-top' : 'cv'}>
-                {list.map((e) => (
-                  <li>
-                    {(e.when || e.logo) && <span class="when">{e.when && <span>{e.when.replace('seit', de ? 'seit' : 'since')}</span>}{e.logo && <span class="cv-logo"><img src={e.logo} alt="" loading="lazy" width="40" height="40" /></span>}</span>}
-
-                    <span class="what">
-                      <strong>{e[`t_${lang}`]}</strong>
-                      {e[`o_${lang}`] && <><br />{e.url ? <a href={e.url} rel="noopener">{e[`o_${lang}`]}</a> : <span>{e[`o_${lang}`]}</span>}</>}
-                      {e[`n_${lang}`] && <><br /><span class="muted small">{e[`n_${lang}`]}</span></>}
-                    </span>
-                  </li>
-                ))}
-              </ul>
-            );
-            if (topOnly) return ul;
-            const n = c.items.length;
-            return (
-              <details class="cv-all">
-                <summary><span class="open">{de ? `Alle ${n} Einträge anzeigen` : `Show all ${n} entries`}</span><span class="close">{de ? 'Weniger anzeigen' : 'Show fewer'}</span></summary>
-                {ul}
-              </details>
-            );
-          })}
-          {i === 1 && <p class="small cv-more"><a href={de ? '/archiv/kurse/' : '/archive/courses/'}>{de ? 'Lehrveranstaltungen, Hausarbeiten und Abschlussarbeiten aus dem Studium →' : 'Courses, term papers and theses from my studies →'}</a></p>}
-        </div>
-      ))}
+      <CvSections sections={cv} lang={lang} />
     </section>
 
-    <section>
-      <h2>{s.archive}</h2>
-      <p class="muted small">{de ? 'Ältere Seiten aus meiner Zeit in Studium und Forschung, auf Englisch.' : 'Older pages from my time as a student and researcher.'}</p>
-      <ul class="post-list">
-        {archive.map((a) => <li><a href={`/archive/${a.slug}/`} hreflang="en"><span class="t">{a[lang]}</span></a></li>)}
-      </ul>
-    </section>
   </div>
 </Base>

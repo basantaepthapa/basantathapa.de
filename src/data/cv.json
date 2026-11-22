@@ -71,7 +71,7 @@
     "o_en": "Research and research-related services",
     "n_de": "u. a. für GIZ, Engagement Global, adelphi, European Liberal Forum, Fraunhofer-Gesellschaft, BMAS und Agora Digitale Transformation",
     "n_en": "Clients include GIZ, Engagement Global, adelphi, European Liberal Forum, Fraunhofer-Gesellschaft, the Federal Ministry of Labour and Social Affairs and Agora Digitale Transformation",
-    "top": true,
+    "top": false,
     "logo": "",
     "url": ""
    },
@@ -199,7 +199,8 @@
     "n_en": "With a doctoral scholarship from the German Research Foundation (DFG)",
     "top": true,
     "logo": "/uploads/logos/up.png",
-    "url": "https://www.uni-potsdam.de/"
+    "url": "https://www.uni-potsdam.de/",
+    "studies": "phd"
    },
    {
     "when": "2010–2013",
@@ -211,7 +212,8 @@
     "n_en": "Thesis on chambers of commerce and democratisation in the Philippines",
     "top": true,
     "logo": "/uploads/logos/up.png",
-    "url": "https://www.uni-potsdam.de/"
+    "url": "https://www.uni-potsdam.de/",
+    "studies": "ma"
    },
    {
     "when": "2006–2010",
@@ -223,7 +225,8 @@
     "n_en": "Thesis on microfinance and development banks",
     "top": true,
     "logo": "/uploads/logos/wwu.png",
-    "url": "https://www.uni-muenster.de/"
+    "url": "https://www.uni-muenster.de/",
+    "studies": "ba"
    },
    {
     "when": "2005",
@@ -233,9 +236,10 @@
     "o_en": "Albertus-Magnus-Gymnasium Bensberg",
     "n_de": "",
     "n_en": "",
-    "top": true,
+    "top": false,
     "logo": "/uploads/logos/amg.png",
-    "url": "https://www.amg-bensberg.de/"
+    "url": "https://www.amg-bensberg.de/",
+    "studies": "school"
    }
   ]
  },
@@ -252,7 +256,7 @@
     "n_de": "",
     "n_en": "",
     "top": true,
-    "logo": "/uploads/logos/handelsblatt.png",
+    "logo": "/uploads/logos/ylg.png",
     "url": ""
    },
    {
@@ -287,7 +291,7 @@
     "o_en": "Four-month research stay at Tallinn University of Technology",
     "n_de": "",
     "n_en": "",
-    "top": true,
+    "top": false,
     "logo": "/uploads/logos/taltech.png",
     "url": ""
    },
@@ -397,13 +401,13 @@
     "when": "2026",
     "t_de": "Leadership and Management Training",
     "t_en": "Leadership and Management Training",
-    "o_de": "Think Tank Lab (DGAP und MERICS)",
-    "o_en": "Think Tank Lab (DGAP and MERICS)",
+    "o_de": "Think Tank Lab von DGAP und MERICS",
+    "o_en": "Think Tank Lab by DGAP and MERICS",
     "n_de": "",
     "n_en": "",
     "top": true,
-    "logo": "/uploads/logos/dgap.png",
-    "url": "https://dgap.org/"
+    "logo": "/uploads/logos/thinktanklab.png",
+    "url": "https://dgap.org/en/research/programs/think-tank-lab"
    },
    {
     "when": "2020–2021",
@@ -421,13 +425,13 @@
     "when": "2018–2019",
     "t_de": "Entwicklungsprogramm für Führungskompetenzen in der agilen und digitalen Welt",
     "t_en": "Leadership development programme for the agile and digital world",
-    "o_de": "LEAD Academy",
-    "o_en": "LEAD Academy",
+    "o_de": "LEAD Academy (heute LEAD Forward)",
+    "o_en": "LEAD Academy (now LEAD Forward)",
     "n_de": "",
     "n_en": "",
     "top": true,
     "logo": "/uploads/logos/lead.png",
-    "url": ""
+    "url": "https://lead.berlin/"
    },
    {
     "when": "seit 2010",
@@ -437,25 +441,9 @@
     "o_en": "Heinrich Böll Foundation",
     "n_de": "u. a. Projektmanagement, agile Methoden, Moderation, Verhandlung, Konfliktmanagement",
     "n_en": "Including project management, agile methods, facilitation, negotiation and conflict management",
-    "top": true,
+    "top": false,
     "logo": "/uploads/logos/boell.png",
     "url": "https://www.boell.de/"
-   }
-  ]
- },
- {
-  "de": "Sprachen",
-  "en": "Languages",
-  "items": [
-   {
-    "when": "",
-    "t_de": "Deutsch (Muttersprache), Englisch (C2), Französisch (A2), Hebraicum, Latinum",
-    "t_en": "German (native), English (C2), French (A2), Hebraicum, Latinum",
-    "o_de": "",
-    "o_en": "",
-    "n_de": "",
-    "n_en": "",
-    "top": true
    }
   ]
  }

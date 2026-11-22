@@ -5,13 +5,14 @@ import pages from '../data/page_redirects.json';
 
 export function getStaticPaths() {
   const map = { ...posts, ...pages };
-  const archive = ['courses', 'term-papers', 'ma-courses'];
-  for (const a of archive) map[`/studies/${a}/`] = `/archive/${a}/`;
-  map['/studies/ma-courses/'] = '/archive/courses/#ma';
-  map['/archive/ma-courses/'] = '/archive/courses/#ma';
-  map['/studies/term-papers/'] = '/archive/courses/';
-  map['/archive/term-papers/'] = '/archive/courses/';
-  map['/trainings/'] = '/archive/trainings/';
+  const D = '/studium/';
+  for (const a of ['courses', 'term-papers', 'ma-courses']) map[`/studies/${a}/`] = D;
+  map['/studies/ma-courses/'] = D + '#ma';
+  for (const a of ['courses', 'term-papers', 'ma-courses', 'education']) map[`/archive/${a}/`] = a === 'ma-courses' ? D + '#ma' : D;
+  map['/archiv/kurse/'] = D;
+  map['/studies/'] = D;
+  map['/trainings/'] = '/ueber-mich/#cv-3';
+  map['/archive/trainings/'] = '/ueber-mich/#cv-3';
   map['/media-design/websites/'] = '/archive/websites/';
   map['/media-design/print-design/'] = '/archive/print-design/';
   map['/academia-3/memberships/'] = '/engagement/';

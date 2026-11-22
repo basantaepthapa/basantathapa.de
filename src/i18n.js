@@ -14,7 +14,7 @@ export const routes = {
 
 export const t = {
   de: {
-    nav: { about: 'Über mich', blog: 'Blog', pubs: 'Publikationen', talks: 'Vorträge', press: 'Presseschau', engagement: 'Engagement', contact: 'Kontakt' },
+    nav: { home: 'Startseite', about: 'Über mich', blog: 'Blog', pubs: 'Publikationen', talks: 'Vorträge', press: 'Presseschau', engagement: 'Engagement', contact: 'Kontakt' },
     imprint: 'Impressum', privacy: 'Datenschutz', skip: 'Zum Inhalt springen',
     role: 'Geschäftsführer NEGZ · Berlin',
     latest: 'Neu im Blog', allPosts: 'Alle Beiträge', current: 'Aktuell',
@@ -22,7 +22,7 @@ export const t = {
     archive: 'Archiv', back: 'Zurück zum Blog',
   },
   en: {
-    nav: { about: 'About', blog: 'Blog', pubs: 'Publications', talks: 'Talks', press: 'Press', engagement: 'Involvement', contact: 'Contact' },
+    nav: { home: 'Home', about: 'About', blog: 'Blog', pubs: 'Publications', talks: 'Talks', press: 'Press', engagement: 'Involvement', contact: 'Contact' },
     imprint: 'Legal notice', privacy: 'Privacy', skip: 'Skip to content',
     role: 'Managing Director, NEGZ · Berlin',
     latest: 'Latest posts', allPosts: 'All posts', current: 'Currently',

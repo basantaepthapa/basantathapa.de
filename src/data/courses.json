@@ -4,6 +4,50 @@
   "intro": "A list of all substantial courses which I attended as part of my doctoral studies.",
   "terms": [
    {
+    "name": "Dissertation project",
+    "name_de": "Promotionsvorhaben",
+    "courses": [
+     {
+      "title": "Big data in government",
+      "title_de": "Big Data in der Verwaltung",
+      "fields": [],
+      "teachers": "",
+      "notes": [],
+      "notes_de": [],
+      "papers": [
+       {
+        "kind": "Dissertation proposal (end of first year)",
+        "kind_de": "Exposé (nach dem ersten Jahr)",
+        "lang": "English",
+        "lang_de": "Englisch",
+        "year": 2015,
+        "title": "Big data in government – research proposal",
+        "title_de": "Big Data in der Verwaltung – Exposé",
+        "url": "/uploads/2009/07/THAPA-Big-Data-Research-Proposal-End-of-first-year.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-Big-Data-Research-Proposal-End-of-first-year.jpg",
+        "desc": "",
+        "desc_de": "",
+        "wide": false
+       },
+       {
+        "kind": "Initial dissertation proposal",
+        "kind_de": "Erstes Exposé",
+        "lang": "English",
+        "lang_de": "Englisch",
+        "year": 2014,
+        "title": "Big data in government – PhD proposal",
+        "title_de": "Big Data in der Verwaltung – Exposé",
+        "url": "/uploads/2014/08/THAPA-Big-Data-in-Government-PhD-proposal.pdf",
+        "thumb": "/uploads/thumbs/papers/THAPA-Big-Data-in-Government-PhD-proposal.jpg",
+        "desc": "",
+        "desc_de": "",
+        "wide": false
+       }
+      ]
+     }
+    ]
+   },
+   {
     "name": "Winter 2014/2015 & summer 2015",
     "courses": [
      {
@@ -50,10 +94,10 @@
    }
   ],
   "id": "phd",
-  "place": "Universität Potsdam · DFG Research Training Group",
+  "place": "Universität Potsdam · DFG Research Training Group “Wicked Problems, Contested Administrations”",
   "years": "2014–2017",
   "name_de": "Promotionsstudium Verwaltungswissenschaft (ohne Abschluss)",
-  "place_de": "Universität Potsdam · DFG-Graduiertenkolleg"
+  "place_de": "Universität Potsdam · DFG-Graduiertenkolleg „Wicked Problems, Contested Administrations“"
  },
  {
   "name": "Master of Arts Public Policy & Management",
@@ -1181,7 +1225,9 @@
       "title": "High school project paper",
       "fields": [],
       "teachers": "",
-      "notes": [],
+      "notes": [
+       "Advanced courses (Leistungskurse): English and biology"
+      ],
       "papers": [
        {
         "kind": "",
@@ -1199,7 +1245,9 @@
        }
       ],
       "title_de": "Projektarbeit in der Schule",
-      "notes_de": []
+      "notes_de": [
+       "Leistungskurse: Englisch und Biologie"
+      ]
      }
     ],
     "name_de": "2004"

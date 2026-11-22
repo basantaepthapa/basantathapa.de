@@ -9,7 +9,7 @@ const s = t[lang];
 const latest = posts.slice(0, 3);
 ---
 <Base lang={lang} current="home" alt={routes.home[lang === 'de' ? 'en' : 'de']}
-  description={lang === 'de' ? 'Basanta Thapa – Verwaltungsdigitalisierung zwischen Wissenschaft, Verwaltung und Politik.' : 'Basanta Thapa – digital government between research, public administration and policy.'}>
+  description={lang === 'de' ? 'Basanta E.P. Thapa – Verwaltungsdigitalisierung zwischen Wissenschaft, Verwaltung und Politik.' : 'Basanta E.P. Thapa – digital government between research, public administration and policy.'}>
   {lang === 'de' && (
     <script is:inline slot="head" define:vars={{ idMap }}>
       var m = location.search.match(/[?&]p=(\d+)/); if (m && idMap[m[1]]) location.replace(idMap[m[1]]);
@@ -17,9 +17,9 @@ const latest = posts.slice(0, 3);
   )}
   <div class="stack">
     <div class="hero">
-      <div class="portrait"><img src="/uploads/portrait.jpg" alt="Basanta Thapa" width="90" height="90" /></div>
+      <div class="portrait"><img src="/uploads/portrait.jpg" alt="Basanta E.P. Thapa" width="150" height="150" /></div>
       <div>
-        <h1>Basanta Thapa</h1>
+        <h1>Basanta E.P. Thapa</h1>
         <div class="sub">{s.role}</div>
       </div>
     </div>
