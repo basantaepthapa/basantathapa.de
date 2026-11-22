@@ -1,9 +1,27 @@
 [
  {
+  "section": "2027",
+  "text_de": "Organisation der NEGZ-Fachtagung „d-you-Wallet decoded“ zur EUDI-Wallet in Berlin, 14. Januar 2027",
+  "text_en": "Organisation of the NEGZ conference “d-you-Wallet decoded” on the EUDI Wallet (in German) in Berlin, 14 January 2027",
+  "thumb": ""
+ },
+ {
+  "section": "2026",
+  "text_de": "Diskussion „Digitale Staatskunst“ mit Manuel Kilian und Julia Pohle (Centre Marc Bloch) zu Manuel Kilians Buch, Weizenbaum-Institut, Berlin, 1. Dezember 2026",
+  "text_en": "Discussion “Digital statecraft” (in German) with Manuel Kilian and Julia Pohle (Centre Marc Bloch) on Manuel Kilian’s book, Weizenbaum Institute, Berlin, 1 December 2026",
+  "thumb": ""
+ },
+ {
   "section": "2026",
   "text_de": "Organisation der [NEGZ-Herbsttagung 2026](https://www.egovernment.de/negz-herbsttagung-a-1290646a4e9ee56d60fa1364e8689743/) an der Technischen Hochschule Wildau, 3. September 2026",
   "text_en": "Organisation of the [NEGZ Autumn Conference 2026](https://www.egovernment.de/negz-herbsttagung-a-1290646a4e9ee56d60fa1364e8689743/) at the Technical University of Applied Sciences Wildau, 3 September 2026",
   "thumb": "/uploads/thumbs/talks/t00.jpg"
+ },
+ {
+  "section": "2026",
+  "text_de": "Organisation des ersten NEGZ-Demo-Days „KI-gestützte Low-Code-Entwicklung für Verwaltungen“ mit dem EDIH pro_digital im Ullsteinhaus, Berlin, 18. Juni 2026",
+  "text_en": "Organisation of the first NEGZ Demo Day “AI-assisted low-code development for public administration” (in German) with EDIH pro_digital at Ullsteinhaus, Berlin, 18 June 2026",
+  "thumb": ""
  },
  {
   "section": "2026",
@@ -43,6 +61,12 @@
  },
  {
   "section": "2024",
+  "text_de": "Vortrag aus dem Nähkästchen der Netzwerkarbeit in der Verwaltungsdigitalisierung beim N3GZ-Netzwerkabend in Berlin, 17. September 2024",
+  "text_en": "Talk on networking in digital government, drawing on my own experience (in German), at the N3GZ network evening in Berlin, 17 September 2024",
+  "thumb": ""
+ },
+ {
+  "section": "2024",
   "text_de": "Panel \"[Digitale Innovationen in der öffentlichen Verwaltung](https://youtu.be/M3_5g8NzsVo)\" beim LinkedIn-Live-Sommertalk 2024 von Patrick Brauckmann (online), 19. August 2024",
   "text_en": "Panel \"[Digital innovation in public administration](https://youtu.be/M3_5g8NzsVo)\" (in German) at Patrick Brauckmann's LinkedIn Live summer talk 2024 (online), 19 August 2024",
   "thumb": "/uploads/thumbs/talks/t07.jpg"
@@ -52,6 +76,36 @@
   "text_de": "Werkstatt mit Andreas Krüger \"Wie kann Verwaltungsdigitalisierung zu sozialer Gerechtigkeit beitragen?\" beim [Digital Social Summit 2024](https://negz.org/aktuelles/) in Berlin, Januar 2024",
   "text_en": "Workshop with Andreas Krüger \"How can digital government contribute to social justice?\" (in German) at the [Digital Social Summit 2024](https://negz.org/aktuelles/) in Berlin, January 2024",
   "thumb": "/uploads/thumbs/talks/t08.jpg"
+ },
+ {
+  "section": "2023",
+  "text_de": "Paneldiskussion „Open-Source- und Graswurzelbewegungen im Innovationsfeld KI: Auf dem Weg zu einem gemeinwohlorientierten Ökosystem?“ bei der Civic-Coding-Initiative der Bundesregierung, online, 6. Dezember 2023",
+  "text_en": "Panel “Open-source and grassroots movements in AI innovation: towards an ecosystem for the common good?” (in German) at the federal government’s Civic Coding initiative, online, 6 December 2023",
+  "thumb": ""
+ },
+ {
+  "section": "2023",
+  "text_de": "Beitrag für das NEGZ beim Kongress „Innovatives Management“ der MACH AG, November 2023",
+  "text_en": "Contribution for NEGZ at MACH AG’s “Innovative Management” congress (in German), November 2023",
+  "thumb": ""
+ },
+ {
+  "section": "2023",
+  "text_de": "Paneldiskussion zum Plattformansatz für die Verwaltungsdigitalisierung, 2023",
+  "text_en": "Panel on a platform approach to digital government (in German), 2023",
+  "thumb": ""
+ },
+ {
+  "section": "2023",
+  "text_de": "Workshop beim IMA-Kongress in Lübeck, 2023",
+  "text_en": "Workshop at the IMA congress in Lübeck (in German), 2023",
+  "thumb": ""
+ },
+ {
+  "section": "2023",
+  "text_de": "Moderation des NEGZ-Brown-Bag-Meetings mit Prof. Dr. Christoph Schmidt zur Digitalisierung der Finanzverwaltung, 2023",
+  "text_en": "Moderation of the NEGZ Brown Bag Meeting with Prof. Christoph Schmidt on digitalising tax administration (in German), 2023",
+  "thumb": ""
  },
  {
   "section": "2023",
