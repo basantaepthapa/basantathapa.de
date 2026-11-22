@@ -1,5 +1,5 @@
 ---
-title: Moderation des U30-Barcamps zur Zukunft der Verwaltung beim #ZKSV18
+title: 'Moderation des U30-Barcamps zur Zukunft der Verwaltung beim #ZKSV18'
 ---
 Am 1. Juni 2018 moderierte ich zusammen mit zwei Design-Thinking-Fachleuten von [Luftmenschen](https://www.luftmenschen.de) ein halbtägiges Barcamp zur Zukunft von Staat und Verwaltung. Rund hundert junge Leute unter (oder um die) 30 aus Wissenschaft, öffentlichem Dienst, Beratungen, Gewerkschaften und Start-ups mit Interesse an der Verwaltung folgten der Einladung des Veranstalters [Wegweiser](https://wegweiser.de). Das Barcamp fand im Microsoft Atrium in Berlin statt.
 
