@@ -12,7 +12,7 @@ const short = de
   : { phd: 'Doctorate', ma: 'Master', ba: 'Bachelor', school: 'School' };
 const md = (s) => marked.parseInline(s);
 ---
-<Base lang={lang} title={de ? 'Kurse und Studienarbeiten' : 'Courses and papers'} current="about" alt={de ? '/en/studies/' : '/studium/'}>
+<Base lang={lang} title={de ? 'Kurse und Studienarbeiten' : 'Courses and papers'} current="studies" alt={de ? '/en/studies/' : '/studium/'}>
   <p class="post-meta">{de ? <a href="/ueber-mich/#cv-1">Über mich</a> : <a href="/en/about/#cv-1">About</a>}</p>
   <h1>{de ? 'Kurse und Studienarbeiten' : 'Courses and papers'}</h1>
   <p class="note">{de

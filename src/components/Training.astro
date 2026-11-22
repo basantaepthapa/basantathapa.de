@@ -7,7 +7,7 @@ const { lang } = Astro.props;
 const de = lang === 'de';
 const title = de ? 'Weiterbildung' : 'Training';
 ---
-<Base lang={lang} title={title} current="about" alt={routes.training[de ? 'en' : 'de']}>
+<Base lang={lang} title={title} current="training" alt={routes.training[de ? 'en' : 'de']}>
   <h1>{title}</h1>
   <p class="note">{de
     ? 'Zertifikatsprogramme, Seminare und Kurse, die ich neben Studium und Beruf besucht habe. Die wichtigsten stehen auch in meinen '

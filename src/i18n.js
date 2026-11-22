@@ -8,6 +8,7 @@ export const routes = {
   press: { de: '/presseschau/',   en: '/en/press/' },
   engagement: { de: '/engagement/', en: '/en/involvement/' },
   training: { de: '/weiterbildung/', en: '/en/training/' },
+  studies: { de: '/studium/', en: '/en/studies/' },
   contact: { de: '/kontakt/',     en: '/en/contact/' },
   imprint: { de: '/impressum/',   en: '/en/legal-notice/' },
   privacy: { de: '/datenschutz/', en: '/en/privacy/' },
@@ -15,7 +16,7 @@ export const routes = {
 
 export const t = {
   de: {
-    nav: { home: 'Startseite', about: 'Über mich', blog: 'Blog', pubs: 'Publikationen', talks: 'Vorträge', press: 'Presseschau', engagement: 'Engagement', contact: 'Kontakt' },
+    nav: { home: 'Startseite', about: 'Über mich', blog: 'Blog', pubs: 'Publikationen', talks: 'Vorträge', press: 'Presse', engagement: 'Engagement', contact: 'Kontakt', profile: 'Profil und Stationen', training: 'Weiterbildung', studies: 'Kurse und Studienarbeiten', menu: 'Menü' },
     imprint: 'Impressum', privacy: 'Datenschutz', skip: 'Zum Inhalt springen',
     role: 'Geschäftsführer NEGZ · Berlin',
     latest: 'Neu im Blog', allPosts: 'Alle Beiträge', current: 'Aktuell',
@@ -23,7 +24,7 @@ export const t = {
     archive: 'Archiv', back: 'Zurück zum Blog',
   },
   en: {
-    nav: { home: 'Home', about: 'About', blog: 'Blog', pubs: 'Publications', talks: 'Talks', press: 'Press', engagement: 'Involvement', contact: 'Contact' },
+    nav: { home: 'Home', about: 'About', blog: 'Blog', pubs: 'Publications', talks: 'Talks', press: 'Press', engagement: 'Involvement', contact: 'Contact', profile: 'Profile and CV', training: 'Training', studies: 'Courses and papers', menu: 'Menu' },
     imprint: 'Legal notice', privacy: 'Privacy', skip: 'Skip to content',
     role: 'Managing Director, NEGZ · Berlin',
     latest: 'Latest posts', allPosts: 'All posts', current: 'Currently',
