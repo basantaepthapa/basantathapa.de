@@ -11,8 +11,8 @@ export function getStaticPaths() {
   for (const a of ['courses', 'term-papers', 'ma-courses', 'education']) map[`/archive/${a}/`] = a === 'ma-courses' ? D + '#ma' : D;
   map['/archiv/kurse/'] = D;
   map['/studies/'] = D;
-  map['/trainings/'] = '/ueber-mich/#cv-3';
-  map['/archive/trainings/'] = '/ueber-mich/#cv-3';
+  map['/trainings/'] = '/weiterbildung/';
+  map['/archive/trainings/'] = '/weiterbildung/';
   map['/media-design/websites/'] = '/archive/websites/';
   map['/media-design/print-design/'] = '/archive/print-design/';
   map['/academia-3/memberships/'] = '/engagement/';

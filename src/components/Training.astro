@@ -1,0 +1,16 @@
+---
+import Base from '../layouts/Base.astro';
+import CvSections from './CvSections.astro';
+import { routes } from '../i18n.js';
+import data from '../data/trainings.json';
+const { lang } = Astro.props;
+const de = lang === 'de';
+const title = de ? 'Weiterbildung' : 'Training';
+---
+<Base lang={lang} title={title} current="about" alt={routes.training[de ? 'en' : 'de']}>
+  <h1>{title}</h1>
+  <p class="note">{de
+    ? 'Zertifikatsprogramme, Seminare und Kurse, die ich neben Studium und Beruf besucht habe. Die wichtigsten stehen auch in meinen '
+    : 'Certificate programmes, seminars and courses I have taken alongside my studies and work. The main ones are also listed in my '}<a href={routes.about[lang] + '#cv-3'}>{de ? 'Stationen' : 'CV'}</a>.</p>
+  <CvSections sections={data} lang={lang} prefix="w" />
+</Base>

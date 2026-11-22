@@ -1,5 +1,6 @@
 ---
 import Toc from './Toc.astro';
+import { routes } from '../i18n.js';
 const { sections, lang, prefix = 'cv' } = Astro.props;
 const de = lang === 'de';
 const studies = de ? '/studium/' : '/en/studies/';
@@ -36,5 +37,6 @@ const studies = de ? '/studium/' : '/en/studies/';
         </details>
       );
     })}
+    {c.more && <p class="cv-more"><a class="cv-deeplink" href={routes[c.more][lang]}>{de ? 'Alle Weiterbildungen →' : 'All training →'}</a></p>}
   </div>
 ))}

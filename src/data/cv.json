@@ -441,10 +441,11 @@
     "o_en": "Heinrich Böll Foundation",
     "n_de": "u. a. Projektmanagement, agile Methoden, Moderation, Verhandlung, Konfliktmanagement",
     "n_en": "Including project management, agile methods, facilitation, negotiation and conflict management",
-    "top": false,
+    "top": true,
     "logo": "/uploads/logos/boell.png",
     "url": "https://www.boell.de/"
    }
-  ]
+  ],
+  "more": "training"
  }
 ]

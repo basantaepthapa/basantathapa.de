@@ -7,6 +7,7 @@ export const routes = {
   talks: { de: '/vortraege/',     en: '/en/talks/' },
   press: { de: '/presseschau/',   en: '/en/press/' },
   engagement: { de: '/engagement/', en: '/en/involvement/' },
+  training: { de: '/weiterbildung/', en: '/en/training/' },
   contact: { de: '/kontakt/',     en: '/en/contact/' },
   imprint: { de: '/impressum/',   en: '/en/legal-notice/' },
   privacy: { de: '/datenschutz/', en: '/en/privacy/' },

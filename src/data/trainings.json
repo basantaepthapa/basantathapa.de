@@ -1,0 +1,318 @@
+[
+ {
+  "de": "Zertifikatsprogramme",
+  "en": "Certificate programmes",
+  "items": [
+   {
+    "when": "2026",
+    "t_de": "Leadership and Management Training",
+    "t_en": "Leadership and Management Training",
+    "o_de": "Think Tank Lab von DGAP und MERICS",
+    "o_en": "Think Tank Lab by DGAP and MERICS",
+    "n_de": "Module: Sectoral Change and Managing Research Projects · Working on Leadership Challenges · Leading a Team and Organizational Change",
+    "n_en": "Modules: Sectoral Change and Managing Research Projects · Working on Leadership Challenges · Leading a Team and Organizational Change",
+    "top": true
+   },
+   {
+    "when": "2020–2021",
+    "t_de": "Zertifikat Wissenschaftskommunikation",
+    "t_en": "Certificate in science communication",
+    "o_de": "Potsdam Graduate School, Universität Potsdam",
+    "o_en": "Potsdam Graduate School, University of Potsdam",
+    "n_de": "156 Unterrichtsstunden: Einführung in die Wissenschaftskommunikation · Strategische Wissenschaftskommunikation · Visualisierung wissenschaftlicher Daten · Medientraining · Rechtsfragen · Social Media · Online-Journalismus und multimediales Storytelling · Wissenschaftliche Politikberatung · „Wissenschaft. Verständlich. Schreiben.“ (NaWik)",
+    "n_en": "156 hours: introduction to science communication · strategic science communication · data visualisation · media training · legal questions · social media · online journalism and multimedia storytelling · scientific policy advice · “Wissenschaft. Verständlich. Schreiben.” (NaWik)",
+    "top": true
+   },
+   {
+    "when": "2018–2019",
+    "t_de": "Entwicklungsprogramm für Führungskompetenzen in der agilen und digitalen Welt",
+    "t_en": "Leadership development programme for the agile and digital world",
+    "o_de": "LEAD Academy (heute LEAD Forward), Berlin",
+    "o_en": "LEAD Academy (now LEAD Forward), Berlin",
+    "n_de": "Module: Leading in the Digital Age · Szenarienwerkstatt · Autorität und Leadership · Dialogprozesse planen",
+    "n_en": "Modules: Leading in the Digital Age · scenario workshop · authority and leadership · planning dialogue processes",
+    "top": true
+   },
+   {
+    "when": "seit 2010",
+    "t_de": "Zertifikat Politikmanagement",
+    "t_en": "Certificate in political management",
+    "o_de": "GreenCampus, Weiterbildungsakademie der Heinrich-Böll-Stiftung",
+    "o_en": "GreenCampus, the training academy of the Heinrich Böll Foundation",
+    "n_de": "120 von 130 Unterrichtsstunden, Einzelseminare unten",
+    "n_en": "120 of 130 hours; individual seminars below",
+    "top": true
+   }
+  ]
+ },
+ {
+  "de": "Führung, Management und Innovation",
+  "en": "Leadership, management and innovation",
+  "items": [
+   {
+    "when": "2026",
+    "t_de": "KI für gemeinnützige Organisationen – Fachzertifikat",
+    "t_en": "AI for nonprofits – professional certificate",
+    "o_de": "Microsoft Elevate, LinkedIn und NetHope (LinkedIn Learning)",
+    "o_en": "Microsoft Elevate, LinkedIn and NetHope (LinkedIn Learning)",
+    "n_de": "Lernpfad, 3,5 Stunden",
+    "n_en": "Learning path, 3.5 hours",
+    "top": true
+   },
+   {
+    "when": "2026",
+    "t_de": "AI for Managers",
+    "t_en": "AI for Managers",
+    "o_de": "Microsoft und LinkedIn (LinkedIn Learning)",
+    "o_en": "Microsoft and LinkedIn (LinkedIn Learning)",
+    "n_de": "Lernpfad, 4,5 Stunden",
+    "n_en": "Learning path, 4.5 hours",
+    "top": true
+   },
+   {
+    "when": "2025",
+    "t_de": "Open Innovation Manager:in",
+    "t_en": "Open innovation manager",
+    "o_de": "iversity",
+    "o_en": "iversity",
+    "n_de": "Onlinekurs",
+    "n_en": "Online course",
+    "top": true
+   },
+   {
+    "when": "2018–2022",
+    "t_de": "Crashkurs Design Thinking",
+    "t_en": "Design thinking crash course",
+    "o_de": "Fraunhofer FOKUS, Berlin",
+    "o_en": "Fraunhofer FOKUS, Berlin",
+    "n_de": "",
+    "n_en": "",
+    "top": true
+   },
+   {
+    "when": "2015",
+    "t_de": "Time- and Selfmanagement",
+    "t_en": "Time and self-management",
+    "o_de": "Potsdam Graduate School, Universität Potsdam",
+    "o_en": "Potsdam Graduate School, University of Potsdam",
+    "n_de": "Workshop mit Follow-up",
+    "n_en": "Workshop with follow-up session",
+    "top": true
+   }
+  ]
+ },
+ {
+  "de": "Kommunikation und Moderation",
+  "en": "Communication and facilitation",
+  "items": [
+   {
+    "when": "2020",
+    "t_de": "Besprechungen erfolgreich moderieren",
+    "t_en": "Facilitating meetings",
+    "o_de": "Volkshochschule Friedrichshain-Kreuzberg, Berlin",
+    "o_en": "Adult education centre Friedrichshain-Kreuzberg, Berlin",
+    "n_de": "Dreitägiger Kurs",
+    "n_en": "Three-day course",
+    "top": true
+   },
+   {
+    "when": "2020",
+    "t_de": "Digitale Medien- und Pressearbeit – mit Konzept",
+    "t_en": "Digital media and press relations",
+    "o_de": "Volkshochschule Friedrichshain-Kreuzberg, Berlin",
+    "o_en": "Adult education centre Friedrichshain-Kreuzberg, Berlin",
+    "n_de": "Zweitägiger Kurs",
+    "n_en": "Two-day course",
+    "top": true
+   },
+   {
+    "when": "2018–2022",
+    "t_de": "Urheberrechtsfragen zwischen Creative Commons und Zitationsrecht",
+    "t_en": "Copyright between Creative Commons and quotation rights",
+    "o_de": "Fraunhofer FOKUS, Berlin",
+    "o_en": "Fraunhofer FOKUS, Berlin",
+    "n_de": "",
+    "n_en": "",
+    "top": true
+   },
+   {
+    "when": "2015",
+    "t_de": "Digitale Wissenschaftskommunikation",
+    "t_en": "Digital science communication",
+    "o_de": "Potsdam Graduate School, Universität Potsdam",
+    "o_en": "Potsdam Graduate School, University of Potsdam",
+    "n_de": "",
+    "n_en": "",
+    "top": true
+   },
+   {
+    "when": "2014",
+    "t_de": "Moderation",
+    "t_en": "Facilitation",
+    "o_de": "Potsdam Graduate School, Universität Potsdam",
+    "o_en": "Potsdam Graduate School, University of Potsdam",
+    "n_de": "Workshop beim PhDay",
+    "n_en": "Workshop at PhDay",
+    "top": true
+   }
+  ]
+ },
+ {
+  "de": "Wissenschaft und Methoden",
+  "en": "Research methods",
+  "items": [
+   {
+    "when": "2016",
+    "t_de": "ECPR Winter School in Methods and Techniques",
+    "t_en": "ECPR Winter School in Methods and Techniques",
+    "o_de": "European Consortium for Political Research, Universität Bamberg",
+    "o_en": "European Consortium for Political Research, University of Bamberg",
+    "n_de": "Kurse: Introduction to Qualitative Interpretive Methods · Introduction to MAXQDA",
+    "n_en": "Courses: Introduction to Qualitative Interpretive Methods · Introduction to MAXQDA",
+    "top": true
+   },
+   {
+    "when": "2013",
+    "t_de": "Comprehensive PLS Seminar",
+    "t_en": "Comprehensive PLS Seminar",
+    "o_de": "PLS-School, Hamburg",
+    "o_en": "PLS-School, Hamburg",
+    "n_de": "Strukturgleichungsmodelle mit SmartPLS",
+    "n_en": "Structural equation modelling with SmartPLS",
+    "top": true
+   },
+   {
+    "when": "2013",
+    "t_de": "Online-Befragungen für Fortgeschrittene",
+    "t_en": "Advanced online surveys",
+    "o_de": "fu:stat, Freie Universität Berlin",
+    "o_en": "fu:stat, Free University of Berlin",
+    "n_de": "",
+    "n_en": "",
+    "top": true
+   },
+   {
+    "when": "2012",
+    "t_de": "Transparency International Summer School on Integrity",
+    "t_en": "Transparency International Summer School on Integrity",
+    "o_de": "Transparency International Litauen und Mykolas-Romeris-Universität, Vilnius",
+    "o_en": "Transparency International Lithuania and Mykolas Romeris University, Vilnius",
+    "n_de": "4 ECTS",
+    "n_en": "4 ECTS",
+    "top": true
+   }
+  ]
+ },
+ {
+  "de": "Politikmanagement (GreenCampus)",
+  "en": "Political management (GreenCampus)",
+  "items": [
+   {
+    "when": "2024",
+    "t_de": "Break the Bias",
+    "t_en": "Break the Bias",
+    "o_de": "Heinrich-Böll-Stiftung Baden-Württemberg",
+    "o_en": "Heinrich Böll Foundation Baden-Württemberg",
+    "n_de": "",
+    "n_en": "",
+    "top": true
+   },
+   {
+    "when": "2021",
+    "t_de": "Powersharing: Handlungsstrategie für zivilgesellschaftliche Initiativen",
+    "t_en": "Power sharing as a strategy for civil-society initiatives",
+    "o_de": "Heinrich-Böll-Stiftung Hamburg",
+    "o_en": "Heinrich Böll Foundation Hamburg",
+    "n_de": "",
+    "n_en": "",
+    "top": true
+   },
+   {
+    "when": "2021",
+    "t_de": "Agile Methoden kennenlernen",
+    "t_en": "Introduction to agile methods",
+    "o_de": "GreenCampus",
+    "o_en": "GreenCampus",
+    "n_de": "Online-Weiterbildung",
+    "n_en": "Online course",
+    "top": true
+   },
+   {
+    "when": "2020",
+    "t_de": "Mitgliedereinbindung – Organisationen in Bewegung bringen",
+    "t_en": "Member engagement – getting organisations moving",
+    "o_de": "GreenCampus",
+    "o_en": "GreenCampus",
+    "n_de": "",
+    "n_en": "",
+    "top": true
+   },
+   {
+    "when": "2020",
+    "t_de": "Auf dem Podium punkten",
+    "t_en": "Making your point on stage",
+    "o_de": "Heinrich-Böll-Stiftung Baden-Württemberg",
+    "o_en": "Heinrich Böll Foundation Baden-Württemberg",
+    "n_de": "",
+    "n_en": "",
+    "top": true
+   },
+   {
+    "when": "2014",
+    "t_de": "Organisationsmanagement",
+    "t_en": "Organisational management",
+    "o_de": "Heinrich-Böll-Stiftung Sachsen-Anhalt, Halle",
+    "o_en": "Heinrich Böll Foundation Saxony-Anhalt, Halle",
+    "n_de": "",
+    "n_en": "",
+    "top": true
+   },
+   {
+    "when": "2011",
+    "t_de": "Projektmanagement: Grundlagen",
+    "t_en": "Project management basics",
+    "o_de": "Heinrich-Böll-Stiftung Brandenburg, Potsdam",
+    "o_en": "Heinrich Böll Foundation Brandenburg, Potsdam",
+    "n_de": "",
+    "n_en": "",
+    "top": true
+   },
+   {
+    "when": "",
+    "t_de": "Weitere Seminare",
+    "t_en": "Further seminars",
+    "o_de": "GreenCampus",
+    "o_en": "GreenCampus",
+    "n_de": "Pressearbeit für NGOs und Initiativen · Verhandlungstraining: Spielerisch verhandeln · Liberating Structures · Wie gestalte ich ein Webinar? · Methoden für Webinare, Workshops und Online-Meetings · Sand im Getriebe!? Konfliktmanagement für politisch Engagierte · Diskriminierungssensible Sprache",
+    "n_en": "Press relations for NGOs and initiatives · negotiation training · Liberating Structures · designing webinars · methods for webinars, workshops and online meetings · conflict management for political activists · discrimination-sensitive language",
+    "top": true
+   }
+  ]
+ },
+ {
+  "de": "Weitere Workshops",
+  "en": "Other workshops",
+  "items": [
+   {
+    "when": "2014",
+    "t_de": "Seeking Traces of Digitalisation and Democracy in Europe",
+    "t_en": "Seeking Traces of Digitalisation and Democracy in Europe",
+    "o_de": "Schwarzkopf-Stiftung Junges Europa, Den Haag",
+    "o_en": "Schwarzkopf Foundation Young Europe, The Hague",
+    "n_de": "Deutsch-niederländischer Workshop für 20 ausgewählte Studierende; Ergebnisse diskutiert mit den Außenministern Frank-Walter Steinmeier und Frans Timmermans beim Deutsch-Niederländischen Forum",
+    "n_en": "German-Dutch workshop for 20 selected students; results discussed with foreign ministers Frank-Walter Steinmeier and Frans Timmermans at the German-Dutch Forum",
+    "top": true
+   },
+   {
+    "when": "2014",
+    "t_de": "Förderprogramme der entwicklungspolitischen Bildungs- und Informationsarbeit",
+    "t_en": "Funding programmes for development education",
+    "o_de": "Engagement Global, Brot für die Welt, Katholischer Fonds und Stiftung Nord-Süd-Brücken, Berlin",
+    "o_en": "Engagement Global, Bread for the World, Catholic Fund and Stiftung Nord-Süd-Brücken, Berlin",
+    "n_de": "",
+    "n_en": "",
+    "top": true
+   }
+  ]
+ }
+]
