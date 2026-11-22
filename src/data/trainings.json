@@ -80,6 +80,16 @@
     "top": true
    },
    {
+    "when": "2022",
+    "t_de": "Erfolgreich innovative Aufträge gewinnen",
+    "t_en": "Winning innovative public contracts",
+    "o_de": "DTAD Deutscher Auftragsdienst, Berlin",
+    "o_en": "DTAD Deutscher Auftragsdienst, Berlin",
+    "n_de": "Vergaberecht und eVergabe für Bieter",
+    "n_en": "Procurement law and e-procurement for bidders",
+    "top": true
+   },
+   {
     "when": "2018–2022",
     "t_de": "Crashkurs Design Thinking",
     "t_en": "Design thinking crash course",
@@ -209,12 +219,62 @@
   "items": [
    {
     "when": "2024",
+    "t_de": "Digitale Barrierefreiheit",
+    "t_en": "Digital accessibility",
+    "o_de": "Heinrich-Böll-Stiftung Baden-Württemberg",
+    "o_en": "Heinrich Böll Foundation Baden-Württemberg",
+    "n_de": "Online-Seminar",
+    "n_en": "Online seminar",
+    "top": true
+   },
+   {
+    "when": "2024",
     "t_de": "Break the Bias",
     "t_en": "Break the Bias",
     "o_de": "Heinrich-Böll-Stiftung Baden-Württemberg",
     "o_en": "Heinrich Böll Foundation Baden-Württemberg",
     "n_de": "",
     "n_en": "",
+    "top": true
+   },
+   {
+    "when": "2024",
+    "t_de": "Klassismus: Ein Workshop über klassistische Unterdrückung und ökonomische Ungerechtigkeiten",
+    "t_en": "Classism: a workshop on class oppression and economic injustice",
+    "o_de": "Heinrich-Böll-Stiftung Sachsen-Anhalt",
+    "o_en": "Heinrich Böll Foundation Saxony-Anhalt",
+    "n_de": "Online-Seminar",
+    "n_en": "Online seminar",
+    "top": true
+   },
+   {
+    "when": "2023",
+    "t_de": "Umgang mit Rassismus im Kinderbuch",
+    "t_en": "Dealing with racism in children’s books",
+    "o_de": "Heinrich-Böll-Stiftung Sachsen-Anhalt",
+    "o_en": "Heinrich Böll Foundation Saxony-Anhalt",
+    "n_de": "Online-Seminar",
+    "n_en": "Online seminar",
+    "top": true
+   },
+   {
+    "when": "2021",
+    "t_de": "Interaktion, Partizipation und Gemeinschaftsgefühl im digitalen Stuhlkreis",
+    "t_en": "Interaction, participation and community in online formats",
+    "o_de": "Heinrich-Böll-Stiftung Baden-Württemberg",
+    "o_en": "Heinrich Böll Foundation Baden-Württemberg",
+    "n_de": "Online-Seminar",
+    "n_en": "Online seminar",
+    "top": true
+   },
+   {
+    "when": "2021",
+    "t_de": "Methoden für Webinare, Workshops und Online-Meetings",
+    "t_en": "Methods for webinars, workshops and online meetings",
+    "o_de": "Heinrich-Böll-Stiftung Baden-Württemberg",
+    "o_en": "Heinrich Böll Foundation Baden-Württemberg",
+    "n_de": "Online-Seminar",
+    "n_en": "Online seminar",
     "top": true
    },
    {
@@ -225,6 +285,36 @@
     "o_en": "Heinrich Böll Foundation Hamburg",
     "n_de": "",
     "n_en": "",
+    "top": true
+   },
+   {
+    "when": "2021",
+    "t_de": "Pressearbeit für NGOs und Initiativen",
+    "t_en": "Press relations for NGOs and initiatives",
+    "o_de": "Bildungswerk Berlin der Heinrich-Böll-Stiftung",
+    "o_en": "Heinrich Böll Foundation education centre Berlin",
+    "n_de": "Online-Seminar",
+    "n_en": "Online seminar",
+    "top": true
+   },
+   {
+    "when": "2021",
+    "t_de": "Liberating Structures – Strukturen für bessere Kommunikation",
+    "t_en": "Liberating Structures – structures for better communication",
+    "o_de": "Heinrich-Böll-Stiftung Schleswig-Holstein",
+    "o_en": "Heinrich Böll Foundation Schleswig-Holstein",
+    "n_de": "Online-Seminar",
+    "n_en": "Online seminar",
+    "top": true
+   },
+   {
+    "when": "2021",
+    "t_de": "Wie gestalte ich ein Webinar?",
+    "t_en": "Designing webinars",
+    "o_de": "Bildungswerk Berlin der Heinrich-Böll-Stiftung",
+    "o_en": "Heinrich Böll Foundation education centre Berlin",
+    "n_de": "Zweitägiges Online-Seminar",
+    "n_en": "Two-day online seminar",
     "top": true
    },
    {
@@ -258,6 +348,16 @@
     "top": true
    },
    {
+    "when": "2020",
+    "t_de": "Verhandlungstraining: Spielerisch verhandeln",
+    "t_en": "Negotiation training",
+    "o_de": "Heinrich-Böll-Stiftung",
+    "o_en": "Heinrich Böll Foundation",
+    "n_de": "",
+    "n_en": "",
+    "top": true
+   },
+   {
     "when": "2014",
     "t_de": "Organisationsmanagement",
     "t_en": "Organisational management",
@@ -283,8 +383,8 @@
     "t_en": "Further seminars",
     "o_de": "GreenCampus",
     "o_en": "GreenCampus",
-    "n_de": "Pressearbeit für NGOs und Initiativen · Verhandlungstraining: Spielerisch verhandeln · Liberating Structures · Wie gestalte ich ein Webinar? · Methoden für Webinare, Workshops und Online-Meetings · Sand im Getriebe!? Konfliktmanagement für politisch Engagierte · Diskriminierungssensible Sprache",
-    "n_en": "Press relations for NGOs and initiatives · negotiation training · Liberating Structures · designing webinars · methods for webinars, workshops and online meetings · conflict management for political activists · discrimination-sensitive language",
+    "n_de": "Sand im Getriebe!? Konfliktmanagement für politisch Engagierte · Diskriminierungssensible Sprache",
+    "n_en": "Conflict management for political activists · discrimination-sensitive language",
     "top": true
    }
   ]
