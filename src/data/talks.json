@@ -247,14 +247,14 @@
  },
  {
   "section": "2019",
-  "text_de": "Vortrag \"N3GZ & Co: Netzwerke in der Verwaltungsdigitalisierung\" beim [Speyerer Netzwerke-Forum zur Digitalisierung](https://www.uni-speyer.de/fileadmin/Lehrstuehle/Hill/Tagungen/Speyerer_Netzwerke-Forum_2020.pdf) an der Universität Speyer, 17. Dezember 2019",
-  "text_en": "Presentation \"N3GZ & Co: networks in digital government\" (in German) at the [Speyer Networks Forum on Digitalisation](https://www.uni-speyer.de/fileadmin/Lehrstuehle/Hill/Tagungen/Speyerer_Netzwerke-Forum_2020.pdf) at the University of Speyer, 17 December 2019",
-  "thumb": ""
+  "text_de": "Vortrag \"N3GZ & Co: Netzwerke in der Verwaltungsdigitalisierung\" ([Folien](/uploads/slides/2019-netzwerke-forum-speyer.pdf)) beim [Speyerer Netzwerke-Forum zur Digitalisierung](https://www.uni-speyer.de/fileadmin/Lehrstuehle/Hill/Tagungen/Speyerer_Netzwerke-Forum_2020.pdf) an der Universität Speyer, 17. Dezember 2019",
+  "text_en": "Presentation \"N3GZ & Co: networks in digital government\" (in German) ([slides](/uploads/slides/2019-netzwerke-forum-speyer.pdf)) at the [Speyer Networks Forum on Digitalisation](https://www.uni-speyer.de/fileadmin/Lehrstuehle/Hill/Tagungen/Speyerer_Netzwerke-Forum_2020.pdf) at the University of Speyer, 17 December 2019",
+  "thumb": "/uploads/thumbs/talks/2019-netzwerke-forum-speyer.jpg"
  },
  {
   "section": "2019",
-  "text_de": "Vortrag \"[Wie Bildungsdaten wirksam werden: Möglichkeiten und Herausforderungen der datengesteuerten Verwaltung](https://youtu.be/XA51i_M3BX8)\" auf der Fachkonferenz Bildungsmonitoring \"Zahlen bitte! Neue Perspektiven auf die Kommunikation und Nutzung von Bildungsdaten\" in Berlin, 10. Dezember 2019",
-  "text_en": "Presentation \"[How education data becomes effective: opportunities and challenges of data-driven government](https://youtu.be/XA51i_M3BX8)\" (in German) at the education monitoring conference \"Numbers, please! New perspectives on communicating and using education data\" in Berlin, 10 December 2019",
+  "text_de": "Vortrag \"[Wie Bildungsdaten wirksam werden: Möglichkeiten und Herausforderungen der datengesteuerten Verwaltung](https://youtu.be/XA51i_M3BX8)\" auf der Fachkonferenz Bildungsmonitoring \"Zahlen bitte! Neue Perspektiven auf die Kommunikation und Nutzung von Bildungsdaten\" in Berlin, 10. Dezember 2019 ([Folien](/uploads/slides/2019-bildungsmonitoring.pdf))",
+  "text_en": "Presentation \"[How education data becomes effective: opportunities and challenges of data-driven government](https://youtu.be/XA51i_M3BX8)\" (in German) at the education monitoring conference \"Numbers, please! New perspectives on communicating and using education data\" in Berlin, 10 December 2019 ([slides](/uploads/slides/2019-bildungsmonitoring.pdf))",
   "thumb": "/uploads/thumbs/talks/t33.jpg"
  },
  {
@@ -385,8 +385,8 @@
  },
  {
   "section": "2018",
-  "text_de": "Vortrag \"X-Road: Taugt Estlands dezentrales Behördennetzwerk als Vorbild für Deutschland?\" bei der [Wissenschaftlichen Konferenz Staatsmodernisierung und Verwaltungstransformation](https://negz.org/2018/08/06/wissenschaftliche-konferenz-staatsmodernisierung-und-verwaltungstransformation/), Landeshaus Kiel, 13. September 2018",
-  "text_en": "Talk \"X-Road: Is Estonia's decentralised government network a model for Germany?\" (in German) at the [Scientific Conference on State Modernisation and Administrative Transformation](https://negz.org/2018/08/06/wissenschaftliche-konferenz-staatsmodernisierung-und-verwaltungstransformation/), Landeshaus Kiel, 13 September 2018",
+  "text_de": "Vortrag \"X-Road: Taugt Estlands dezentrales Behördennetzwerk als Vorbild für Deutschland?\" bei der [Wissenschaftlichen Konferenz Staatsmodernisierung und Verwaltungstransformation](https://negz.org/2018/08/06/wissenschaftliche-konferenz-staatsmodernisierung-und-verwaltungstransformation/), Landeshaus Kiel, 13. September 2018 ([Folien](/uploads/slides/2018-x-road-kiel.pdf))",
+  "text_en": "Talk \"X-Road: Is Estonia's decentralised government network a model for Germany?\" (in German) at the [Scientific Conference on State Modernisation and Administrative Transformation](https://negz.org/2018/08/06/wissenschaftliche-konferenz-staatsmodernisierung-und-verwaltungstransformation/), Landeshaus Kiel, 13 September 2018 ([slides](/uploads/slides/2018-x-road-kiel.pdf))",
   "thumb": "/uploads/thumbs/talks/t54.jpg"
  },
  {
@@ -445,8 +445,20 @@
  },
  {
   "section": "2016",
-  "text_de": "Kommentar \"Data-driven Government: An Opportunity for Public Administration Research\" ([Manuskript](/uploads/2015/01/THAPA-Big-Data-IoT-Manuscript-EPPA-Leuven.pdf) & [Präsentation](/uploads/2015/01/THAPA-IPSA-Foreshadowing-Data-driven-Government_presentation.pdf)) in der Session \"Big Data & Internet of Things\" beim [\"European Perspectives for Public Administration: Futures Seminar\"](http://www.uni-potsdam.de/perspectivespa/events/seminars.html) an der KU Leuven, 20.–21. Oktober 2016",
-  "text_en": "Comment \"Data-driven Government: An Opportunity for Public Administration Research\" ([manuscript](/uploads/2015/01/THAPA-Big-Data-IoT-Manuscript-EPPA-Leuven.pdf) & [slides](/uploads/2015/01/THAPA-IPSA-Foreshadowing-Data-driven-Government_presentation.pdf)) in the session \"Big Data & Internet of Things\" at the [\"European Perspectives for Public Administration: Futures Seminar\"](http://www.uni-potsdam.de/perspectivespa/events/seminars.html) at KU Leuven, 20–21 October 2016",
+  "text_de": "Vortrag mit Christian Schwab „Herausforderung E-Government-Integration?! Einschätzung der E-Government-Strategie im Berliner Mehrebenensystem“ ([Folien](/uploads/slides/2016-e-government-integration-speyer.pdf)) bei der Jahrestagung der Deutschen Sektion des International Institute of Administrative Sciences am Deutschen Forschungsinstitut für öffentliche Verwaltung in Speyer, November 2016",
+  "text_en": "Talk with Christian Schwab “Challenge e-government integration?! Assessing the e-government strategy in Berlin’s multi-level system” (in German, [slides](/uploads/slides/2016-e-government-integration-speyer.pdf)) at the annual conference of the German Section of the International Institute of Administrative Sciences at the German Research Institute for Public Administration in Speyer, November 2016",
+  "thumb": "/uploads/thumbs/talks/2016-e-government-integration-speyer.jpg"
+ },
+ {
+  "section": "2016",
+  "text_de": "Vortrag „Foreshadowing Data-driven Government: Citizen-Government Interaction in Visions of the Data-powered State“ ([Folien](/uploads/slides/2016-foreshadowing-wipcad-kolloquium.pdf)) im WIPCAD-Kolloquium an der Universität Potsdam, 23. November 2016",
+  "text_en": "Talk “Foreshadowing Data-driven Government: Citizen-Government Interaction in Visions of the Data-powered State” ([slides](/uploads/slides/2016-foreshadowing-wipcad-kolloquium.pdf)) at the WIPCAD colloquium, University of Potsdam, 23 November 2016",
+  "thumb": "/uploads/thumbs/talks/2016-foreshadowing-wipcad-kolloquium.jpg"
+ },
+ {
+  "section": "2016",
+  "text_de": "Kommentar \"Data-driven Government: An Opportunity for Public Administration Research\" ([Manuskript](/uploads/2015/01/THAPA-Big-Data-IoT-Manuscript-EPPA-Leuven.pdf) & [Präsentation](/uploads/slides/2016-big-data-iot-leuven.pdf)) in der Session \"Big Data & Internet of Things\" beim [\"European Perspectives for Public Administration: Futures Seminar\"](http://www.uni-potsdam.de/perspectivespa/events/seminars.html) an der KU Leuven, 20.–21. Oktober 2016",
+  "text_en": "Comment \"Data-driven Government: An Opportunity for Public Administration Research\" ([manuscript](/uploads/2015/01/THAPA-Big-Data-IoT-Manuscript-EPPA-Leuven.pdf) & [slides](/uploads/slides/2016-big-data-iot-leuven.pdf)) in the session \"Big Data & Internet of Things\" at the [\"European Perspectives for Public Administration: Futures Seminar\"](http://www.uni-potsdam.de/perspectivespa/events/seminars.html) at KU Leuven, 20–21 October 2016",
   "thumb": "/uploads/thumbs/talks/t64.jpg"
  },
  {
@@ -523,8 +535,8 @@
  },
  {
   "section": "2012",
-  "text_de": "Vortrag \"[Mit internetbasierter bürgerschaftlicher Koproduktion zu einer neuen Partizipationskultur](/uploads/2015/01/THAPA_ZP_Koproduktion.pdf)\" bei der [Langen Nacht der Wissenschaften](http://www.langenachtderwissenschaften.de/archiv/lndw_2012/) 2012 an der Universität Potsdam, Juni 2012",
-  "text_en": "Presentation \"[Through internet-based civic co-production to a new culture of participation](/uploads/2015/01/THAPA_ZP_Koproduktion.pdf)\" (in German) at the [Long Night of Science](http://www.langenachtderwissenschaften.de/archiv/lndw_2012/) 2012 at the University of Potsdam, June 2012",
+  "text_de": "Vortrag \"[Mit internetbasierter bürgerschaftlicher Koproduktion zu einer neuen Partizipationskultur](/uploads/2015/01/THAPA_ZP_Koproduktion.pdf)\" bei der [Langen Nacht der Wissenschaften](http://www.langenachtderwissenschaften.de/archiv/lndw_2012/) 2012 an der Universität Potsdam, Juni 2012 ([Folien](/uploads/slides/2012-koproduktion-lndw.pdf))",
+  "text_en": "Presentation \"[Through internet-based civic co-production to a new culture of participation](/uploads/2015/01/THAPA_ZP_Koproduktion.pdf)\" (in German) at the [Long Night of Science](http://www.langenachtderwissenschaften.de/archiv/lndw_2012/) 2012 at the University of Potsdam, June 2012 ([slides](/uploads/slides/2012-koproduktion-lndw.pdf))",
   "thumb": "/uploads/thumbs/talks/t77.jpg"
  },
  {
