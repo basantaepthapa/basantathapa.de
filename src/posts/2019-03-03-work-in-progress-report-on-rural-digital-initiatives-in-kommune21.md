@@ -4,7 +4,7 @@ date: '2019-03-03'
 categories:
 - publication
 - work
-image: /uploads/2019/04/pexels-photo-92657.jpeg
+image: /uploads/illus/dorfplatz.jpg
 old_url: /blog/2019-03-03-work-in-progress-report-on-rural-digital-initiatives-in-kommune21/
 ---
 
@@ -12,7 +12,6 @@ In March 2019, my colleague Nicole Opiela and me published a work-in-progress re
 
 Read the full article (in German) here:
 
-![](/uploads/2019/04/pexels-photo-92657.jpeg)
 
 ### Digitalisierung: Lösungen fürs Land | Kommune21
 

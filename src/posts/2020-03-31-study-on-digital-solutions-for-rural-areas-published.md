@@ -3,7 +3,7 @@ title: Study on digital solutions for rural areas published
 date: '2020-03-31'
 categories:
 - publication
-image: /uploads/2020/05/germany-2064517_1920.jpg
+image: /uploads/illus/dorfplatz.jpg
 old_url: /blog/2020-03-31-study-on-digital-solutions-for-rural-areas-published/
 ---
 

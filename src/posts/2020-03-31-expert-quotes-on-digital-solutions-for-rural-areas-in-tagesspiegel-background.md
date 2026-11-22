@@ -2,7 +2,7 @@
 title: Expert quotes on digital solutions for rural areas in Tagesspiegel Background
 date: '2020-03-31'
 categories: []
-image: /uploads/2020/05/avenue-3600715_1920.jpg
+image: /uploads/illus/dorfplatz.jpg
 old_url: /blog/2020-03-31-expert-quotes-on-digital-solutions-for-rural-areas-in-tagesspiegel-background/
 ---
 

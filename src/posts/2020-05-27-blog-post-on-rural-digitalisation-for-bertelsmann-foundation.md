@@ -3,7 +3,7 @@ title: Blog post on rural digitalisation for Bertelsmann Foundation
 date: '2020-05-27'
 categories:
 - outreach
-image: /uploads/2020/05/panorama-2405958_1920.jpg
+image: /uploads/illus/dorfplatz.jpg
 old_url: /blog/2020-05-27-blog-post-on-rural-digitalisation-for-bertelsmann-foundation/
 ---
 
