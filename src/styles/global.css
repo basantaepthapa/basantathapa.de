@@ -168,7 +168,7 @@ html.riso .box, html.riso .paper, html.riso .pub-thumb-empty, html.riso .site-he
 html.riso .site-header { background-color: var(--senf-hell); background-size: 160px; }
 html.riso .site-header, html.riso .box { background-size: 160px; }
 html.riso .box { box-shadow: 4px 4px 0 var(--senf); border-radius: 4px; }
-html.riso .paper img { box-shadow: 3px 3px 0 var(--senf); border-radius: 2px; }
+html.riso .paper img { box-shadow: 3px 3px 0 var(--senf-hell); border-radius: 2px; }
 html.riso .post-hero, html.riso .pub-thumb img { border-radius: 2px; }
 html.riso .cv .cv-logo { border-radius: 4px; overflow: visible; }
 html.riso .cv .cv-logo img { border-radius: 3px; }
@@ -177,7 +177,7 @@ html.riso .toc a { border-radius: 4px; box-shadow: 2px 2px 0 var(--senf-hell); }
 /* grainy offset 'misprint' shadows */
 html.riso .portrait, html.riso .cv .cv-logo, html.riso .pub-thumb, html.riso .riso-shadow { position: relative; z-index: 0; }
 html.riso .portrait::before, html.riso .cv .cv-logo::before, html.riso .pub-thumb:not(.pub-thumb-empty)::before, html.riso .riso-shadow::before {
-  content: ""; position: absolute; inset: 0; z-index: -1; background: var(--senf) var(--grain); background-size: 160px; background-blend-mode: multiply; }
+  content: ""; position: absolute; inset: 0; z-index: -1; background: var(--senf-hell) var(--grain); background-size: 160px; background-blend-mode: multiply; }
 html.riso .portrait::before { border-radius: 50%; transform: translate(8px, 7px); }
 html.riso .cv .cv-logo::before { inset: -1px; border-radius: 4px; transform: translate(4px, 4px); }
 html.riso .pub-thumb:not(.pub-thumb-empty)::before { border-radius: 2px; transform: translate(4px, 4px); height: 88px; }
