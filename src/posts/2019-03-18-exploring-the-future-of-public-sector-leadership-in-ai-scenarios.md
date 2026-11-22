@@ -8,7 +8,7 @@ image: /uploads/2019/04/10_JKDigVerw_Vier_Zukunftsszenarien_fuer_KI_tcm20-429316
 old_url: /blog/2019-03-18-exploring-the-future-of-public-sector-leadership-in-ai-scenarios/
 ---
 
-In March 2019, I facilitated a workshop exploring the public sector leadership in [our four scenarios of AI in the public sector](/blog/2018-09-12-scenario-study-on-ai-in-the-public-sector-published/) at [Fujitsu Germany's annual conference on digital public administration "Jahreskonferenz Digitale Verwaltung".](https://www.fujitsu.com/de/microsite/jahreskonferenz-digitale-verwaltung/downloads/)
+In March 2019, I facilitated a workshop exploring the public sector leadership in [our four scenarios of AI in the public sector](/en/blog/2018-09-12-scenario-study-on-ai-in-the-public-sector-published/) at [Fujitsu Germany's annual conference on digital public administration "Jahreskonferenz Digitale Verwaltung".](https://www.fujitsu.com/de/microsite/jahreskonferenz-digitale-verwaltung/downloads/)
 
 - ![](/uploads/2019/04/T-FTS_190312_7126.jpg)
 

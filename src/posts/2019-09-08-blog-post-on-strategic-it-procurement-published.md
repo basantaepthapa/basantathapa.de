@@ -7,7 +7,7 @@ image: /uploads/2020/05/fruit-932745_1920.jpg
 old_url: /blog/2019-09-08-blog-post-on-strategic-it-procurement-published/
 ---
 
-In September 2019, I wrote a blog post for Verwaltung-der-Zukunft.org summarising my [whitepaper on strategic IT procurement](/blog/2019-08-30-whitepaper-on-strategic-it-procurement-published/).
+In September 2019, I wrote a blog post for Verwaltung-der-Zukunft.org summarising my [whitepaper on strategic IT procurement](/en/blog/2019-08-30-whitepaper-on-strategic-it-procurement-published/).
 
 You can read the blog post here (in German):
 

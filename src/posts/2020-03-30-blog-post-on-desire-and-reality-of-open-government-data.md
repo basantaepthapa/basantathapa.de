@@ -7,7 +7,7 @@ image: /uploads/2020/05/vienna-3903888_1920.jpg
 old_url: /blog/2020-03-30-blog-post-on-desire-and-reality-of-open-government-data/
 ---
 
-In March 2020, my colleague Hüseyin Sagkal and I published a blog post summarising the findings from a [whitepaper on desire and reality of Open Government Data](/blog/2019-11-28-whitepaper-on-desire-and-reality-of-open-government-data-co-published/) I had co-authored in 2019.
+In March 2020, my colleague Hüseyin Sagkal and I published a blog post summarising the findings from a [whitepaper on desire and reality of Open Government Data](/en/blog/2019-11-28-whitepaper-on-desire-and-reality-of-open-government-data-co-published/) I had co-authored in 2019.
 
 Read the blog post here (in German):
 

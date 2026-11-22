@@ -12,7 +12,7 @@ I won a Best Talk Award at the [Potsdam PhDay 2016](https://www.pogs.uni-potsdam
 
 The PhDay is a biannual event organized by the [Potsdam Graduate School](https://www.pogs.uni-potsdam.de/) (PoGS) that convenes doctoral researchers from all faculties of the University of Potsdam for a day of speed dating, workshops, poster presentations and talks, ending on a more relaxed note with drinks and fingerfood on PoGS' incredible rooftop terrace.
 
-While the talks are grouped by faculty, there is still enough disciplinary variety within each faculty so that the talks have to be kept rather general to be accessible. Keeping true to the hosts motto of "popular scientific infotainment", I did not even attempt to present [my actual research project](http://basantathapa.de/studies/) but rather focussed on getting across why it is interesting to think about Big Data in government.
+While the talks are grouped by faculty, there is still enough disciplinary variety within each faculty so that the talks have to be kept rather general to be accessible. Keeping true to the hosts motto of "popular scientific infotainment", I did not even attempt to present [my actual research project](/en/studies/#phd) but rather focussed on getting across why it is interesting to think about Big Data in government.
 
 My cunning mix of storytelling illustrated by images liberally 'borrowed' from the German Federal Centre for Health Education's ["Alcohol? Know your limit."](http://www.kenn-dein-limit.info/) campaign and profound social science concepts explained by Game of Thrones memes of course carried the day. See for yourselves:
 

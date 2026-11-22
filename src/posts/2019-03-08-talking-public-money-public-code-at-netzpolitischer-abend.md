@@ -8,7 +8,7 @@ image: /uploads/2019/04/10335537845_a9ce49769a_o.jpg
 old_url: /blog/2019-03-08-talking-public-money-public-code-at-netzpolitischer-abend/
 ---
 
-In March 2019, Katharina Nocun invited me to talk with her about [our brochure](/blog/2019-02-02-how-to-procure-free-software-contribution-to-the-public-money-public-code-campaign/) [“Public Money Public Code – Modernising Public Infrastructure with Free Software"](/blog/2019-02-02-how-to-procure-free-software-contribution-to-the-public-money-public-code-campaign/) at the [80th Netzpolitischer Abend](https://digitalegesellschaft.de/2019/03/80-netzpolitischer-abend/).
+In March 2019, Katharina Nocun invited me to talk with her about [our brochure](/en/blog/2019-02-02-how-to-procure-free-software-contribution-to-the-public-money-public-code-campaign/) [“Public Money Public Code – Modernising Public Infrastructure with Free Software"](/en/blog/2019-02-02-how-to-procure-free-software-contribution-to-the-public-money-public-code-campaign/) at the [80th Netzpolitischer Abend](https://digitalegesellschaft.de/2019/03/80-netzpolitischer-abend/).
 
 [Netzpolitischer Abend](https://digitalegesellschaft.de/portfolio-items/netzpolitischer-abend/) is a regular format on digital policy by [Digitale Gesellschaft](https://en.wikipedia.org/wiki/Digitale_Gesellschaft), a civil society organisation committed to civil rights and consumer protection in terms of internet policy, held at the hackerspace [c-base](https://c-base.org/) in Berlin.
 

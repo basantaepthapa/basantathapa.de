@@ -8,7 +8,7 @@ old_url: /blog/2019-10-15-guest-edited-special-issue-on-internet-governance-publ
 
 ![](/uploads/2020/03/2563915.png)
 
-The [Call for Student Papers on “Internet Governance as an Arena of International Politics”](/blog/2019-04-15-call-for-student-papers-internet-governance-as-an-arena-of-international-politics/) for the student journal [Key Issues](http://key-issues.eu/), which I put together and disseminated with my colleagues Nicole Opiela and Jens Tiemann in April 2019, yielded submissions from all over the world.
+The [Call for Student Papers on “Internet Governance as an Arena of International Politics”](/en/blog/2019-04-15-call-for-student-papers-internet-governance-as-an-arena-of-international-politics/) for the student journal [Key Issues](http://key-issues.eu/), which I put together and disseminated with my colleagues Nicole Opiela and Jens Tiemann in April 2019, yielded submissions from all over the world.
 
 Given the wide range of topics, from repressive national Internet governance in Tanzania to the strategic analysis of Chinese, US-American and EU approaches to Artificial Intelligence, we had to enlist reviewers beyond ÖFIT. Nonetheless, we found several reviewers per submission, who approved three contributions for publication.
 

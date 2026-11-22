@@ -1,20 +1,9 @@
 ---
-import Base from '../../layouts/Base.astro';
-import { formatDate } from '../../i18n.js';
+import BlogPost from '../../components/BlogPost.astro';
 import { posts } from '../../lib/posts.js';
-
 export function getStaticPaths() {
   return posts.map((p) => ({ params: { slug: p.slug }, props: { post: p } }));
 }
 const { post } = Astro.props;
-const { Content } = post;
 ---
-<Base lang="en" title={post.title} current="blog" alt="/blog/">
-  <article class="prose">
-    <h1>{post.title}</h1>
-    <p class="post-meta">{formatDate(post.date, 'en')}{post.categories?.length ? ` · ${post.categories.join(', ')}` : ''}</p>
-    {post.image && <img class="post-hero" src={post.image} alt="" />}
-    <Content />
-  </article>
-  <p><a href="/en/blog/">← Back to the blog</a></p>
-</Base>
+<BlogPost post={post} lang="de" />

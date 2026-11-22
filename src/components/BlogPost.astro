@@ -1,0 +1,23 @@
+---
+import Base from '../layouts/Base.astro';
+import { formatDate } from '../i18n.js';
+const { post, lang } = Astro.props;
+const de = lang === 'de';
+const v = post.v(lang);
+const { Content } = v;
+const shown = post.has(lang) ? lang : post.orig;
+---
+<Base lang={lang} title={v.title} current="blog" alt={post.urlFor(de ? 'en' : 'de')}>
+  <article class="prose" lang={shown}>
+    <h1>{v.title}</h1>
+    <p class="post-meta">{formatDate(post.date, lang)}{post.categories?.length ? ` · ${post.categories.join(', ')}` : ''}</p>
+    {v.translated && (
+      <p class="note">{de
+        ? <>Übersetzung des englischen Originals. <a href={post.urlFor('en')} hreflang="en">Original lesen</a></>
+        : <>Translated from the German original. <a href={post.urlFor('de')} hreflang="de">Read the original</a></>}</p>
+    )}
+    {post.image && <img class="post-hero" src={post.image} alt="" />}
+    <Content />
+  </article>
+  <p><a href={de ? '/blog/' : '/en/blog/'}>{de ? '← Zurück zum Blog' : '← Back to the blog'}</a></p>
+</Base>

@@ -6,7 +6,7 @@ image: /uploads/2020/05/avenue-3600715_1920.jpg
 old_url: /blog/2020-03-31-expert-quotes-on-digital-solutions-for-rural-areas-in-tagesspiegel-background/
 ---
 
-In March 2020, the specialist publication "Tagesspiegel Background" published two articles presenting our [study on digital solutions for rural areas](/blog/2020-03-31-study-on-digital-solutions-for-rural-areas-published/), including a few quotes from an interview with me.
+In March 2020, the specialist publication "Tagesspiegel Background" published two articles presenting our [study on digital solutions for rural areas](/en/blog/2020-03-31-study-on-digital-solutions-for-rural-areas-published/), including a few quotes from an interview with me.
 
 1. Article in "Tagesspiegel Background Digitalisierung & KI" presenting our study in general (in German, paywalled):
 

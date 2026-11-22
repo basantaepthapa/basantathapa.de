@@ -11,7 +11,7 @@ In May 2020, my colleague Ines Hölscher and me wrote a blog post on digital pro
 
 Bertelsmann had invited blog posts that critically reflect the topic of "tech for good".
 
-The blog post was based our [study on digital projects in rural areas](/blog/2020-03-31-study-on-digital-solutions-for-rural-areas-published/) which ÖFIT published earlier in 2020.
+The blog post was based our [study on digital projects in rural areas](/en/blog/2020-03-31-study-on-digital-solutions-for-rural-areas-published/) which ÖFIT published earlier in 2020.
 
 Read the blog post (in German) here:
 

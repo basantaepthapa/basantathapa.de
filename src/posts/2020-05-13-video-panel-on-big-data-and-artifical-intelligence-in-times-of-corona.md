@@ -11,7 +11,7 @@ In May 2020, I participated in a online discussion hosted by the Austrian libera
 
 https://twitter.com/neoslab\_eu/status/1258377425668497419
 
-My participation was based on the [study on data-driven government](/blog/2019-06-19-study-on-data-driven-government-for-neos-lab-and-the-european-liberal-forum/) I had written for NEOS Lab in 2019.
+My participation was based on the [study on data-driven government](/en/blog/2019-06-19-study-on-data-driven-government-for-neos-lab-and-the-european-liberal-forum/) I had written for NEOS Lab in 2019.
 
 Here's the full video of the session (in German):
 

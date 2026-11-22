@@ -49,8 +49,8 @@ const latest = posts.slice(0, 3);
       <h2>{s.latest}</h2>
       <ul class="post-list">
         {latest.map((p) => (
-          <li><a href={p.url} hreflang="en">
-            <span class="t">{p.title}{lang === 'de' && <span class="tag">EN</span>}</span>
+          <li><a href={p.urlFor(lang)}>
+            <span class="t">{p.v(lang).title}</span>
             <span class="d">{formatDate(p.date, lang)}</span>
           </a></li>
         ))}

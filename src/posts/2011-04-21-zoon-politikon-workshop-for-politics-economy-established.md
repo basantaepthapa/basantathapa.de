@@ -27,4 +27,3 @@ Basically, it is a place to concentrate our extracurricular activities and a mor
 
 **Check out ZP here: [www.zoon-politikon.de]( http://www.zoon-politikon.de)**(Sorry, currently German only!)
 
-[browser-shot url="http://www.zoon-politikon.de/" width="600"]

@@ -8,15 +8,14 @@ const s = t[lang];
 ---
 <Base lang={lang} title="Blog" current="blog" alt={routes.blog[lang === 'de' ? 'en' : 'de']}>
   <h1>Blog</h1>
-  {lang === 'de' && <p class="note">Die bisherigen Beiträge (2009–2020) sind auf Englisch.</p>}
   <Toc lang={lang} items={byYear(posts).map(([year, list]) => ({ id: `y${year}`, label: year, count: list.length }))} />
   {byYear(posts).map(([year, list]) => (
     <section id={`y${year}`}>
       <div class="year">{year}</div>
       <ul class="post-list">
         {list.map((p) => (
-          <li><a href={p.url} hreflang="en">
-            <span class="t">{p.title}</span>
+          <li><a href={p.urlFor(lang)}>
+            <span class="t">{p.v(lang).title}</span>
             <span class="d">{formatDate(p.date, lang)}</span>
           </a></li>
         ))}
