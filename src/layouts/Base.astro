@@ -5,7 +5,7 @@ import '@fontsource/source-sans-3/400.css';
 import '@fontsource/source-sans-3/400-italic.css';
 import '@fontsource/source-sans-3/600.css';
 import '../styles/global.css';
-import { routes, t, SOCIAL } from '../i18n.js';
+import { routes, t, SOCIAL, SAME_AS } from '../i18n.js';
 
 const { lang = 'de', title, description = '', current = '', alt, contentLang } = Astro.props;
 const s = t[lang];
@@ -36,7 +36,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
   {description && <meta property="og:description" content={description} />}
   <slot name="head" />
   {SOCIAL.map((l) => <link rel="me" href={l.href} />)}
-  <script type="application/ld+json" set:html={JSON.stringify({ '@context': 'https://schema.org', '@type': 'Person', name: 'Basanta E.P. Thapa', url: 'https://basantathapa.de/', jobTitle: lang === 'de' ? 'Geschäftsführer' : 'Managing Director', worksFor: { '@type': 'Organization', name: 'NEGZ – Kompetenznetzwerk Digitale Verwaltung', url: 'https://negz.org/' }, sameAs: SOCIAL.map((l) => l.href) })} />
+  <script type="application/ld+json" set:html={JSON.stringify({ '@context': 'https://schema.org', '@type': 'Person', name: 'Basanta E.P. Thapa', url: 'https://basantathapa.de/', jobTitle: lang === 'de' ? 'Geschäftsführer' : 'Managing Director', worksFor: { '@type': 'Organization', name: 'NEGZ – Kompetenznetzwerk Digitale Verwaltung', url: 'https://negz.org/' }, sameAs: SAME_AS })} />
 </head>
 <body>
   <a class="skip" href="#inhalt">{s.skip}</a>

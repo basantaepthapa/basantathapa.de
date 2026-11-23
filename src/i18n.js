@@ -36,9 +36,11 @@ export const t = {
 export const EMAIL = 'basanta@thapa.de';
 export const SOCIAL = [
   { label: 'LinkedIn', href: 'https://www.linkedin.com/in/basantathapa/' },
-  { label: 'ResearchGate', href: 'https://www.researchgate.net/profile/Basanta_Thapa' },
-  { label: 'ORCID', href: 'https://orcid.org/0000-0001-8392-5153' },
+  { label: 'ResearchGate', href: 'https://www.researchgate.net/profile/Basanta-Thapa-3' },
+  // { label: 'Google Scholar', href: '' },  // Link fehlt noch
 ];
+// nur für Suchmaschinen (JSON-LD sameAs), nicht sichtbar
+export const SAME_AS = [...SOCIAL.map((l) => l.href), 'https://orcid.org/0000-0001-8392-5153'];
 
 export function formatDate(iso, lang) {
   return new Date(iso + 'T12:00:00').toLocaleDateString(lang === 'de' ? 'de-DE' : 'en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
