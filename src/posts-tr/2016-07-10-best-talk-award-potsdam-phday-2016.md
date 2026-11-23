@@ -10,3 +10,5 @@ Die Vorträge sind zwar nach Fakultäten gruppiert, aber selbst innerhalb einer 
 Meine raffinierte Mischung aus Storytelling, bebildert mit großzügig „geliehenen“ Motiven aus der Kampagne [„Alkohol? Kenn dein Limit.“](http://www.kenn-dein-limit.info/) der Bundeszentrale für gesundheitliche Aufklärung, und tiefgründigen sozialwissenschaftlichen Konzepten, erklärt mit Game-of-Thrones-Memes, hat natürlich gewonnen. Seht selbst:
 
 https://cloudup.com/ctiGblJmuis
+
+Auch die Universität Potsdam hat [darüber berichtet](https://www.uni-potsdam.de/en/headlines-and-featured-stories/detail/2016-07-07-wipcad-fellow-basanta-thapa-take-the-potsdam-phday-2016-july-2016-potsdam).

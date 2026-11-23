@@ -14,6 +14,8 @@ While the World Congress itself suffered from its oversized dimensions (with abo
 | --- | --- |
 |  | Paper presentation "Foreshadowing Data-driven Government: Citizen-Government Interaction in Visions of the Data-powered State" ([Paper](/uploads/2015/01/THAPA-IPSA-Foreshadowing-Data-driven-Government.pdf) & [Presentation](/uploads/2015/01/THAPA-IPSA-Foreshadowing-Data-driven-Government_presentation.pdf)) at the [24th World Congress of Political Science](http://wc2016.ipsa.org/events/congress/wc2016/home) in Poznań, 23-28 July 2016 |
 
+The University of Potsdam also [reported on it](https://www.uni-potsdam.de/en/headlines-and-featured-stories/detail/2016-07-28-wipcad-well-represented-at-ipsa-world-congress-in-poznan-poland-july-2016).
+
 ```
 Photo credits: Old marketplace and city hall in Poznań in 2012, licensed CC0 by David Castor
 ```

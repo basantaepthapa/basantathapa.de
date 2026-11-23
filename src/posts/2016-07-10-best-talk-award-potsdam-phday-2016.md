@@ -17,3 +17,5 @@ While the talks are grouped by faculty, there is still enough disciplinary varie
 My cunning mix of storytelling illustrated by images liberally 'borrowed' from the German Federal Centre for Health Education's ["Alcohol? Know your limit."](http://www.kenn-dein-limit.info/) campaign and profound social science concepts explained by Game of Thrones memes of course carried the day. See for yourselves:
 
 https://cloudup.com/ctiGblJmuis
+
+The University of Potsdam also [reported on it](https://www.uni-potsdam.de/en/headlines-and-featured-stories/detail/2016-07-07-wipcad-fellow-basanta-thapa-take-the-potsdam-phday-2016-july-2016-potsdam).

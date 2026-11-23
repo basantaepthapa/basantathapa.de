@@ -11,3 +11,5 @@ Der Weltkongress selbst litt unter seiner Übergröße (rund 2.800 Forschende vo
 ```
 Foto: Alter Markt und Rathaus in Posen 2012, CC0, David Castor
 ```
+
+Auch die Universität Potsdam hat [darüber berichtet](https://www.uni-potsdam.de/en/headlines-and-featured-stories/detail/2016-07-28-wipcad-well-represented-at-ipsa-world-congress-in-poznan-poland-july-2016).
