@@ -214,3 +214,30 @@ html.riso .hero-wrap::before { border-radius: 2px; transform: translate(9px, 9px
 /* small items: thin solid offset shadow */
 html.riso .cv .cv-logo, html.riso .pub-thumb img { box-shadow: 2px 2px 0 var(--senf-hell); }
 html.riso .pub-thumb:hover img { box-shadow: 2px 2px 0 var(--senf); }
+
+/* blog index */
+.blog-filter { display: flex; flex-wrap: wrap; gap: 8px; margin: 4px 0 8px; }
+.blog-filter .chip { font: inherit; font-size: 15px; cursor: pointer; background: #fff; color: var(--tx); border: 1px solid var(--ln); border-radius: 4px; padding: 5px 11px; box-shadow: 2px 2px 0 var(--senf-hell); }
+.blog-filter .chip span { color: var(--mu); font-size: 13px; margin-left: 2px; }
+.blog-filter .chip:hover { border-color: var(--rost); }
+.blog-filter .chip.on { background: var(--rost); border-color: var(--rost); color: #fff; }
+.blog-filter .chip.on span { color: #fff; opacity: .8; }
+.post-cards { list-style: none; margin: 0; padding: 0; }
+.post-cards li { border-bottom: 1px solid var(--ln); }
+.post-card { display: flex; gap: 20px; padding: 18px 0; text-decoration: none; color: var(--tx); align-items: flex-start; }
+.pc-img { flex: 0 0 168px; width: 168px; height: 112px; display: block; }
+.pc-img img { width: 168px; height: 112px; object-fit: cover; display: block; border-radius: 2px; }
+html.riso .pc-img.riso-shadow::before { transform: translate(5px, 5px); border-radius: 2px; }
+.pc-empty { background: var(--senf-hell) var(--grain); background-size: 160px; background-blend-mode: multiply; border-radius: 2px; display: flex; align-items: center; justify-content: center; font-family: var(--slab); font-weight: 800; font-size: 26px; color: var(--senf); }
+.pc-body { display: flex; flex-direction: column; gap: 5px; min-width: 0; }
+.pc-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; font-size: 14px; color: var(--mu); }
+.pc-cat { font-size: 12px; font-weight: 600; letter-spacing: .03em; text-transform: uppercase; color: var(--rost); }
+.pc-title { font-weight: 600; font-size: 18px; line-height: 1.3; }
+.post-card:hover .pc-title { color: var(--rost); }
+.pc-ex { font-size: 15px; color: var(--mu); line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+@media (max-width: 600px) {
+  .post-card { gap: 14px; }
+  .pc-img, .pc-img img { flex-basis: 104px; width: 104px; height: 70px; }
+  .pc-title { font-size: 16px; }
+  .pc-ex { display: none; }
+}
