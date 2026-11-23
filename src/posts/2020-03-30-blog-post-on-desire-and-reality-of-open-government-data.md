@@ -3,7 +3,7 @@ title: Blog post on desire and reality of Open Government Data
 date: '2020-03-30'
 categories:
 - outreach
-image: /uploads/2020/05/vienna-3903888_1920.jpg
+image: /uploads/illus/rathaus-daten.jpg
 old_url: /blog/2020-03-30-blog-post-on-desire-and-reality-of-open-government-data/
 ---
 

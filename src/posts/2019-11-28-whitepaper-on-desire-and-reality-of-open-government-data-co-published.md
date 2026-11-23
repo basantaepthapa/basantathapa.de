@@ -3,7 +3,7 @@ title: Whitepaper on desire and reality of Open Government Data co-published
 date: '2019-11-28'
 categories:
 - publication
-image: /uploads/2020/05/city-hall-1333532_1920.jpg
+image: /uploads/illus/rathaus-daten.jpg
 old_url: /blog/2019-11-28-whitepaper-on-desire-and-reality-of-open-government-data-co-published/
 ---
 
