@@ -7,7 +7,7 @@ Der [Netzpolitische Abend](https://digitalegesellschaft.de/portfolio-items/netzp
 
 Katharina sprach über die Kampagne und die Broschüre im Allgemeinen. Ich konzentrierte mich auf die Hürden für mehr Freie Software in der öffentlichen Beschaffung. Die Vorträge wurden live gestreamt, hier zum Nachschauen:
 
-https://youtu.be/6v392Lduwws
+https://www.youtube.com/watch?v=ya-NY1d2e9c
 
 ```
 Foto: „c-base_bar-01_final-05“ von MeTaMiND EvoLuTioN MeTaVoLuTioN, CC BY 2.0

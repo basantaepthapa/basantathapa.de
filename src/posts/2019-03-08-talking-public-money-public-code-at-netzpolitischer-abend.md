@@ -14,7 +14,7 @@ In March 2019, Katharina Nocun invited me to talk with her about [our brochure](
 
 Katharina talked about the campaign and the brochure in general. I focussed on barriers for the procurement of more Free Software in the public sector. The talks were livestreamed, so you can watch our talk here:
 
-https://youtu.be/6v392Lduwws
+https://www.youtube.com/watch?v=ya-NY1d2e9c
 
 ```
 Photo credit: "c-base_bar-01_final-05" by MeTaMiND EvoLuTioN MeTaVoLuTioN CC BY 2.0
