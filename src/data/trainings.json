@@ -51,12 +51,24 @@
   "items": [
    {
     "when": "2026",
+    "t_de": "Human Skills for Managers – Fachzertifikat",
+    "t_en": "Human Skills for Managers – professional certificate",
+    "o_de": "LinkedIn Learning",
+    "o_en": "LinkedIn Learning",
+    "n_de": "Lernpfad, 5,5 Stunden: strategisches Denken, emotionale Intelligenz, zwischenmenschliche Kommunikation",
+    "n_en": "Learning path, 5.5 hours: strategic thinking, emotional intelligence, interpersonal communication",
+    "url": "https://www.linkedin.com/learning/certificates/7d56f2808ce41540b235a8beb171160fa51cabed04a24cb6b6680330fe95926b",
+    "top": true
+   },
+   {
+    "when": "2026",
     "t_de": "KI für gemeinnützige Organisationen – Fachzertifikat",
     "t_en": "AI for nonprofits – professional certificate",
     "o_de": "Microsoft Elevate, LinkedIn und NetHope (LinkedIn Learning)",
     "o_en": "Microsoft Elevate, LinkedIn and NetHope (LinkedIn Learning)",
     "n_de": "Lernpfad, 3,5 Stunden",
     "n_en": "Learning path, 3.5 hours",
+    "url": "https://www.linkedin.com/learning/certificates/758a8648ac6d2c158533a73c51d14804805f7bb61f646a4fa75b2c8473587a3e",
     "top": true
    },
    {
@@ -67,6 +79,7 @@
     "o_en": "Microsoft and LinkedIn (LinkedIn Learning)",
     "n_de": "Lernpfad, 4,5 Stunden",
     "n_en": "Learning path, 4.5 hours",
+    "url": "https://www.linkedin.com/learning/certificates/63284f3bf15ce9f68460c6ca8e9b39e1d0bb8e9080b3ac24dfe3b050073e1700",
     "top": true
    },
    {
