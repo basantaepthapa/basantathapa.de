@@ -241,3 +241,4 @@ html.riso .pc-img.riso-shadow::before { transform: translate(5px, 5px); border-r
   .pc-title { font-size: 16px; }
   .pc-ex { display: none; }
 }
+.foot-social a + a { margin-left: 12px; }

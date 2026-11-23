@@ -37,6 +37,7 @@ export const EMAIL = 'basanta@thapa.de';
 export const SOCIAL = [
   { label: 'LinkedIn', href: 'https://www.linkedin.com/in/basantathapa/' },
   { label: 'ResearchGate', href: 'https://www.researchgate.net/profile/Basanta_Thapa' },
+  { label: 'ORCID', href: 'https://orcid.org/0000-0001-8392-5153' },
 ];
 
 export function formatDate(iso, lang) {
