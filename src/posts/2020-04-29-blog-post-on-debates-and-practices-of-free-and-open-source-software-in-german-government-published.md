@@ -5,7 +5,7 @@ date: '2020-04-29'
 categories:
 - outreach
 - work
-image: /uploads/2020/05/munich-1558710_1920.jpg
+image: /uploads/illus/glaeserne-werkstatt.jpg
 old_url: /blog/2020-04-29-blog-post-on-debates-and-practices-of-free-and-open-source-software-in-german-government-published/
 ---
 

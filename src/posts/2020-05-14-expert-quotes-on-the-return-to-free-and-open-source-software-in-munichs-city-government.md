@@ -4,7 +4,7 @@ title: Expert quotes on the return to Free and Open Source Software in Munich's 
 date: '2020-05-14'
 categories:
 - Media
-image: /uploads/2020/05/munich-1480740_1920.jpg
+image: /uploads/illus/glaeserne-werkstatt.jpg
 old_url: /blog/2020-05-14-expert-quotes-on-the-return-to-free-and-open-source-software-in-munichs-city-government/
 ---
 
