@@ -3,7 +3,7 @@ title: Whitepaper on strategic IT procurement published
 date: '2019-08-30'
 categories:
 - publication
-image: /uploads/2020/05/fruit-3408683_1920.jpg
+image: /uploads/illus/marktstand.jpg
 old_url: /blog/2019-08-30-whitepaper-on-strategic-it-procurement-published/
 ---
 

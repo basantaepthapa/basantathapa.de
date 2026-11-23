@@ -3,7 +3,7 @@ title: Blog post on strategic IT procurement published
 date: '2019-09-08'
 categories:
 - outreach
-image: /uploads/2020/05/fruit-932745_1920.jpg
+image: /uploads/illus/marktstand.jpg
 old_url: /blog/2019-09-08-blog-post-on-strategic-it-procurement-published/
 ---
 

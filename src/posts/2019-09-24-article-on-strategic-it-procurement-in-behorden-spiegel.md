@@ -3,7 +3,7 @@ title: Article on strategic IT procurement in Behörden Spiegel
 date: '2019-09-24'
 categories:
 - outreach
-image: /uploads/2020/05/fruit-basket-3909414_1920.jpg
+image: /uploads/illus/marktstand.jpg
 old_url: /blog/2019-09-24-article-on-strategic-it-procurement-in-behorden-spiegel/
 ---
 
